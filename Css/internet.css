@@ -194,7 +194,7 @@ button.btn_contratar{
 @media only screen and (max-width: 841px){
   	img#banner{
     	position: relative;
-    	top:72.3px;
+    	top:35px;
   	}
   	div.anuncio{
   		position: relative;
@@ -203,6 +203,7 @@ button.btn_contratar{
   		height: 250px;
   		margin-bottom: 5%;
   	}
+  	.btn_contratar{color: white;}
 }
 @media only screen and (max-width: 1005px){
 	div.mini_tabela{
@@ -213,6 +214,7 @@ button.btn_contratar{
 	table#tabela{
 		display: none;
 	}
+	.btn_contratar{color: white;}
 }
 @media only screen and (max-width: 600px){
 	div.bloco_info{
@@ -224,12 +226,14 @@ button.btn_contratar{
 		border-radius: 15px;
 		background-color: #00285b;
 	}
+	.btn_contratar{color: white;}
 }
 @media only screen and (max-width: 409px){
 	div.tabela{
 		position: relative;
 		top:100px;
 	}
+	.btn_contratar{color: white;}
 	h2{
 		font-size: 15pt;
 	}	
