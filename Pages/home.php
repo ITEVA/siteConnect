@@ -24,7 +24,43 @@
             <img src="images/shutterstock_70728256.jpg" width="100%" height="100%"/></div>
     </div>
 </div>
-<div class="amarela">
+
+<div id="amarela">
+    <div id="amarela-trsp">
+        <div id="Cl1_amarela-trsp">
+            <a id="link-item_amarela-trsp1" href="">
+                <div class="item_amarela-trsp">
+                    <img src="" alt=""/>
+                    <h1></h1>
+                    <p></p>
+                </div>
+            </a>
+            <a id="link-item_amarela-trsp2" href="">
+                <div class="item_amarela-trsp">
+                    <img src="" alt=""/>
+                    <h1></h1>
+                    <p></p>
+                </div>
+            </a>
+        </div>
+        <div id="Cl2_amarela-trsp">
+            <a id="link-item_amarela-trsp3" href="">
+                <div class="item_amarela-trsp">
+                    <img src="" alt=""/>
+                    <h1></h1>
+                    <p></p>
+                </div>
+            </a>
+            <a id="link-item_amarela-trsp4" href="">
+                <div class="item_amarela-trsp">
+                    <img src="" alt=""/>
+                    <h1></h1>
+                    <p></p>
+                </div>
+            </a>
+        </div>
+    </div>
+
     <div class="acessoRapido">
         <img src="Images/acesso_rapido.png" id="imgAcessoRapido">
         <div class="botoes">

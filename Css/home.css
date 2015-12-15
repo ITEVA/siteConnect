@@ -1,31 +1,65 @@
-div.amarela{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Div amarela*/
+div#amarela{
     width: 100%;
-    background-image: radial-gradient(#ffb200, #d89600 180%);
+    background-color: #d8a91e;
     height: 643px;
 }
-div.amarela div.acessoRapido{
+
+/*Opções no meio da div Amarela*/
+div#amarela-trsp{
+    position: relative;
+    border: 2px solid red;
+    display: flex;
+    height: 100%;
+    width: 600px;
+    left: 20%;
+}
+div#Cl1_amarela-trsp{
+    position: relative;
+    height: 100%;
+    width: 50%;
+    border: 1px solid green;
+}
+div#Cl2_amarela-trsp{
+    position: relative;
+    height: 100%;
+    width: 50%;
+    border: 1px solid green;
+}
+
+
+/*Acesso Rapido*/
+div#amarela div.acessoRapido{
     position: relative;
     display: table;
-    left: 70%;
+    left: 55%;
     height: 587px;
-    width: 418px;
-    border: 1px solid red;
-    background: no-repeat gray url("../images/fundoGrid.gif");
+    width: 417px;
+    background: no-repeat gray url("../Images/fundoGrid.gif");
     z-index: 10000;
+    bottom: 625px;
 }
 img#imgAcessoRapido{
     position: absolute;
-    right: -2px;
-    border: 1px #000000 solid;
+    right: -3px;
+    top: 20px;
 }
-div.amarela div.acessoRapido div.botoes{
+/*Botões*/
+div#amarela div.acessoRapido div.botoes{
+    position: relative;
     display: flex;
     margin-left: 25px;
-    margin-top: 80px;
-    width: 392px;
-    height: 506px;
+    margin-top: 95px;
+    width: 370px;
+    height: 480px;
 }
-div.amarela div.acessoRapido div.botoes a.botao{
+div#amarela div.acessoRapido div.botoes a.botao{
     display: inline-block;
     border: none;
     border-radius: 5px;
@@ -33,6 +67,10 @@ div.amarela div.acessoRapido div.botoes a.botao{
     background: linear-gradient(to bottom, #f2f2f2, #d1d3d1 180%) #ffffff;
     width: 170px;
     height: 150px;
+}
+div#amarela div.acessoRapido div.botoes a.botao:link{
+    text-decoration: none;
+    color: inherit;
 }
 div#coluna1{
     width: 177px;
@@ -48,39 +86,43 @@ img.botoes_icon{
     left: 39%;
     top: 18px;
 }
-div.amarela div.acessoRapido div.botoes a.botao h3{
+div#amarela div.acessoRapido div.botoes a.botao h3{
     position: relative;
+    font-family: Arial, sans-serif;
+    font-size: 13pt;
+    font-weight: lighter;
 }
 /*textos acesso rapido*/
 h3#txt1{
-    top: 7%;
-    left: 20%;
+    top: 15%;
+    left: 29%;
 }
 h3#txt1 span{
     position: absolute;
-    left: 10%;
+    left: 8%;
 }
 
 h3#txt2{
-    top: 17%;
-    left: 15%;
+    top: 28%;
+    left: 25%;
 }
 h3#txt2 span{
     position: absolute;
-    left: 15%;
+    left: 12%;
 }
 
 h3#txt3{
-    top: 15%;
-    left: 23%;
+    top: 22%;
+    left: 32%;
 }
 h3#txt3 span{
     position: relative;
-    left: 3%;
+    left: 1%;
 }
 
 h3#txt4{
-    left: 2%;
+    left: 17%;
+    top: 12%;
 }
 h3#txt4 span{
     position: absolute;
@@ -88,13 +130,19 @@ h3#txt4 span{
 }
 
 h3#txt5{
-    left: 15%;
+    left: 27%;
+    top: 14%;
 }
 h3#txt5 span{
     position: absolute;
-    left: 10%;
+    left: 9%;
 }
 
 h3#txt6{
-
+    left: 18%;
+    top: 18%;
+}
+h3#txt6 span{
+    position: absolute;
+    left: 7%;
 }

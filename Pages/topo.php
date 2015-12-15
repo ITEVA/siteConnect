@@ -24,7 +24,7 @@
     </head>
     <body>
         <div id="areaSuperior">
-            <img id="logo" src="Images/logoConnect.jpg" alt="" />
+            <a href="home"><img id="logo" src="Images/logoConnect.jpg" alt="" /></a>
             <div id="btnAreaCliente">
                 <img src="Images/btnAreaCliente.jpg" alt="" />
             </div>
