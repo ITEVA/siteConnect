@@ -4,7 +4,10 @@
 }
 
 
-/*Div amarela*/
+/*
+    div amarela
+    casso for adicionar elementos aumente o height da div#amarela
+*/
 div#amarela{
     width: 100%;
     background-color: #d8a91e;
@@ -14,25 +17,60 @@ div#amarela{
 /*Opções no meio da div Amarela*/
 div#amarela-trsp{
     position: relative;
-    border: 2px solid red;
+    /*border: 3px solid red;*/
     display: flex;
     height: 100%;
-    width: 600px;
+    width: 650px;
     left: 20%;
 }
 div#Cl1_amarela-trsp{
     position: relative;
     height: 100%;
-    width: 50%;
-    border: 1px solid green;
+    width: 45%;
+    /*border: 2px solid green;*/
+
 }
 div#Cl2_amarela-trsp{
     position: relative;
     height: 100%;
     width: 50%;
-    border: 1px solid green;
+    /*border: 2px solid green;*/
 }
-
+div#amarela-trsp div#separador{
+    height: 100%;
+    width: 5%;
+    /*border: 2px solid deeppink;*/
+}
+a.link-item_amarela-trsp_up{
+    position: absolute;
+    height: 40%;
+    width: 80%;
+    /*border: 1px solid blue;*/
+    color: #ffffff;
+    top: 8%;
+    left: 5%;
+    cursor: pointer;
+}
+a.link-item_amarela-trsp_down{
+    position: absolute;
+    height: 40%;
+    width: 90%;
+    /*border: 1px solid blue;*/
+    color: #ffffff;
+    bottom: 8%;
+    left: 5%;
+    cursor: pointer;
+}
+h1.titulo_link-item_amarela-trsp{
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+    font-weight: normal;
+}
+p.conteudo_link-item_amarela-trsp{
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: lighter;
+}
 
 /*Acesso Rapido*/
 div#amarela div.acessoRapido{
@@ -145,4 +183,83 @@ h3#txt6{
 h3#txt6 span{
     position: absolute;
     left: 7%;
+}
+
+
+/*Muito Mais Para Você*/
+div#muitoPVc{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    border: 1px solid #000000;
+    background: #ffffff url("../Images/fundoGridAzul.png") repeat-x;
+}
+h1#h1MuitoPVc{
+    position: relative;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 18pt;
+    font-weight: normal;
+    color: #ffffff;
+    top: 5%;
+    left: 20%;
+    margin: 0;
+    width: 298px;
+    border: 1px solid #ffff00;
+}
+div#opcoes_muitoPVc{
+    margin: 0;
+    position: relative;
+    display: flex;
+    top: 12%;
+    width: 100%;
+    height: 77%;
+    border: 1px solid green;
+}
+div#tv{
+    position: relative;
+    border: 1px solid red;
+    width: 260px;
+    left: 28%;
+    text-align: center;
+}
+div#tv img{
+    position: initial;
+    left: 26%;
+}
+
+div#game{
+    position: relative;
+    border: 1px solid red;
+    width: 260px;
+    left: 30%;
+    text-align: center;
+}
+div#game img{
+    position: initial;
+    left: 16%;
+}
+
+div#dispositivos{
+    position: relative;
+    border: 1px solid red;
+    width: 260px;
+    left: 32%;
+    text-align: center;
+}
+div#dispositivos img{
+    position: initial;
+    left: 16%;
+}
+
+div#musicas{
+    position: relative;
+    border: 1px solid red;
+    width: 260px;
+    left: 36%;
+    text-align: center;
+}
+div#musicas img{
+    position: initial;
+    left: 15%;
 }
