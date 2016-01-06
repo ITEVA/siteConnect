@@ -102,25 +102,37 @@
             <img src="Images/image-TV.png">
             <h1>Smart tv's</h1>
             <p>O melhor do entretenimento<br/>com a qualidade da Connect.</p>
-            <a></a>
+            <img src="Images/btn+infor.png" id="btninfor1">
         </div>
         <div id="game">
             <img src="Images/image-game.png">
             <h1>Jogos online</h1>
             <p>Divirta-se em alta velocidade com os<br/>jogos online mais acessados da web.</p>
-            <a></a>
+            <img src="Images/btn+infor.png" id="btninfor2">
         </div>
         <div id="dispositivos">
             <img src="Images/image-dispositivos.png"/>
-            <h1></h1>
-            <p></p>
-            <a></a>
+            <h1>Dispositivos móveis</h1>
+            <p>Aproveite todo o potencial dos<br>seus Gadgets com a internet<br>de qualidade da Connect.</p>
+            <img src="Images/btn+infor.png" id="btninfor3">
         </div>
         <div id="musicas">
             <img src="Images/image-music.png">
-            <h1></h1>
-            <p></p>
-            <a></a>
+            <h1>Músicas</h1>
+            <p>Spolify, Deezer, Rdio e muitos<br>outros serviços streaming musicais,<br>são possíveis e seguros<br>com a Connect.</p>
+            <img src="Images/btn+infor.png" id="btninfor4">
         </div>
+    </div>
+</div>
+
+<div id="muitoPVc">
+    <br>
+    <br>
+    <div id="podLheAjud">
+        <h1 id="h1MuitoPVc">PODEMOS LHE AJUDAR?</h1>
+        <figure id="image_duvidas">
+            <img src="Images/image-duvidas.png" id="image_duvidas1">
+            <img src="Images/imgTesteVelocidadeInternet.png" id="image_duvidas2">
+        </figure>
     </div>
 </div>
