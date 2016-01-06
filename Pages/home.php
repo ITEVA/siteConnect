@@ -10,9 +10,9 @@
                         <li data-target="#meuSlider" data-slide-to="2"></li>
                     </ol>
                     <div class="carousel-inner">
-                        <div class="item active"><img src="images/56103338_640.png" alt="Slider 1" /></div>
-                        <div class="item"><img src="images/newproject-361x135-1347416669.png" alt ="Slide 2" /></div>
-                        <div class="item"><img src="images/newprojects.png" alt="Slide 3" /></div>
+                        <div class="item active"><img src="images/img-slide.png" alt="Slider 1" /></div>
+                        <div class="item"><img src="images/img-slide2.png" alt ="Slide 2" /></div>
+                        <div class="item"><img src="images/img-slide3.png" alt="Slide 3" /></div>
                     </div>
                 </div>
             </section>

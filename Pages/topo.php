@@ -13,8 +13,8 @@
         <script type="text/javascript" src="JS/jquery-2.1.4.js"></script>
         <script type="text/javascript" src="JS/jquery.cycle.all.js"></script>
         <script type="text/javascript" src="JS/slider.js"></script>
-        <script src="js/jquery-1.11.3.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+        <script src="../JS/jquery-1.11.3.min.js"></script>
+		<script src="../JS/bootstrap.min.js"></script>
 
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -38,7 +38,7 @@
                 <img src="Images/btnAreaCliente.jpg" alt="" id="btn_areaCliente" />
             </div>
         </div>
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default" style="margin-bottom:0px;">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
