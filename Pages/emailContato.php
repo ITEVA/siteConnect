@@ -19,9 +19,17 @@ $nomeDestinatario  = 'Connect - Internet Banda Larga';
 /* Servidor */
 $host = 'smtp.office365.com';
 $assunto = 'Fale Conosco - Site Connect';
-$mensagem =  '<p>Nome: '.$_POST['nome'].'</p>'
-            .'<p>Email: '.$_POST['email'].'</p>'
-            .$_POST['mensagem'];
+$mensagem = "<div style='display: block; position: relative; max-width: 800px; width: auto; min-height: 400px; height: auto; border: 2px solid #004c98;'>
+            <div style='display: block; position: relative; padding-left: 175px; padding-right: 175px; padding-top: 15px;'>
+                <img src='cid:connect'>
+            </div>
+            <div style='display: block; position: relative; margin: 5px; padding: 20px; font-size: 14pt;'>"
+            ."<p><b>Nome: </b>".$_POST['nome']."</p>"
+            ."<p><b>Email: </b>".$_POST['email']."</p>"
+            .$_POST['mensagem']
+            ."<a href='http://localhost:8080/siteConnect' style='display: block; text-align: center; font-size: 14pt;'>Clique para ser redirecionado ao site da Connect</a>
+            </div>
+        </div>"; 
 
 /* Configura os destinatários */
 $mail->AddAddress(utf8_decode($destinatario), utf8_decode($nomeDestinatario));
@@ -49,7 +57,10 @@ $mail->Password = $senha;
 /* Configura os dados do remetente do email */
 $mail->From = $remetente; // Seu e-mail
 $mail->FromName = $nomeRemetente; // Seu nome
- 
+
+/* Enviar imagem */
+$mail->AddEmbeddedImage('Images/logoConnect.jpg', 'connect');
+
 /* Configura a mensagem */
 $mail->IsHTML(true); // Configura um e-mail em HTML
  
