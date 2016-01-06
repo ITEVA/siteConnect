@@ -8,7 +8,7 @@ div.container{
 
 ol#car-img{
 	width:50%;
-	left:80%;
+	left:85.2%;
 }
 
 ol.carousel-indicators li{
@@ -16,6 +16,7 @@ ol.carousel-indicators li{
 	height:15px;
 	background-color: #ffb900;
 	border: 4px solid #ffb900;
+	margin-left: 3px;
 }
 
 ol#car-img li.active{
@@ -23,6 +24,7 @@ ol#car-img li.active{
 	height:17px;
     margin: 0px auto;
     cursor: pointer;
+	margin-left: 3px;
 }
 .pager div{
      display: block;
