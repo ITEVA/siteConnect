@@ -1,3 +1,130 @@
 textarea {
     resize: none;
 }
+
+/*IMG'S*/
+
+img#imagemContato{
+    width: 100%;
+}
+
+div#boxContato{
+    margin: 2% 30%;
+}
+
+div.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+p#text2{
+    font-size: 18px;
+    color: #265a88;
+    font-weight: bold;
+}
+
+p#text1{
+    color:  #f0ad4e;
+    margin: 2% 28%;
+}
+
+img#bg-baixoContato{
+    width: 100%;
+}
+
+input.form-control{
+    border: solid 3px #6F6F6F;
+}
+
+textarea.form-control{
+    border: solid 3px #6F6F6F;
+}
+
+input.btn-default{
+    border: solid 3px #6F6F6F;
+
+}
+
+img#tablet{
+    z-index: 999;
+    margin: -25% 40% 2% 59%;
+}
+
+div.endereco{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: solid 5px #fff;
+    border-right: none;
+    margin: -25% 35% 5% 34%;
+    padding: 20px;
+}
+
+p#capital{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFB100;
+}
+
+div.box{
+    display: inline-flex
+}
+
+p.topico{
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+p.dado{
+    color: #fff;
+    font-size: 16px;
+
+}
+
+div#cepEbairro{
+    display: inline-flex;
+}
+
+div#atendimento1{
+    margin: -10% 5% 5% 40%;
+}
+
+div#atendimento2{
+    width: 20%;
+    margin: -4% 5% 5% 32%;
+}
+
+img#iconContato{
+    position: relative;
+    display: block;
+    float: none;
+    margin: 0 auto;
+}
+
+p#centAtend{
+    text-align: center;
+    font-weight: bold;
+    color: #FFB100;
+    font-size: 16px;
+}
+
+p#fone{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: #002C70;
+}
+
+img#bg-bc{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+img#bg-baixo{
+    display: none;
+}
+
+div.boxInformacao{
+    display: none;
+}

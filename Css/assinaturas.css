@@ -6,11 +6,6 @@ body{
 	overflow-x: hidden;
 }
 
-h2, h5.contato{
-	color: #fff;
-	text-align: center;
-}
-
 /*IMAGENS*/
 
 img#imagemPrincipal{
@@ -33,10 +28,7 @@ img#divisao{
 	width: 36.04%
 }
 
-img#bg-baixo{
-	width: 100%;
-	height: 300px;
-}
+
 
 img#imagemPrincipal2{
 	display: none;
@@ -101,19 +93,6 @@ div.conteudo{
 	margin: 1.3% 32%
 }
 
-.boxInformacao{
-	display: block;
-	margin: -235px auto 120px;
-	position: relative;
-	float: none;
-	background-color: #00235C;
-	border-radius: 5px;
-	height: auto;
-}
-
-div#informacao{
-	padding: 20px;
-}
 
 /*PARÁGRAFOS*/
 
@@ -137,13 +116,6 @@ p#t2{
 	color: #265a88;
 	font-weight: bold;
 }
-
-p.contato{
-	color: #fff;
-	text-align: center;
-	font-size: 13px;
-}
-
 /*LINK*/
 a.contrato{
 	padding-top: 8px;
