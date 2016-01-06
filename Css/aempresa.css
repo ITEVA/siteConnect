@@ -1,0 +1,106 @@
+/*GERAL*/
+
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+h2, h5.contato{
+	color: #fff;
+	text-align: center;
+}
+
+/*IMAGENS*/
+
+img.imagemPrincipal{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+img.imagemPrincipal2{
+	display: none;
+	width: 100%;
+}
+
+div#textos{
+	margin: 2% 30%;
+}
+
+
+div.conteudo{
+	display: inline-flex;
+	width: 30%;
+	margin: 1.3% 32%;
+        float: right;
+}
+
+
+p#t1{
+	color: #f0ad4e;        
+}
+
+p#t2{
+	font-size: 18px;
+	color: #265a88;
+	font-weight: bold;
+}
+
+/*MEDIA QUERIES*/
+
+@media all and (max-width: 1749px){
+	div#textos{
+		width: 70%;
+	}
+}
+
+@media all and (max-width: 1680px){
+	div.conteudo{
+		margin-top: 25px;
+	}
+}
+
+@media all and (max-width: 1500px){
+	div#textos{
+		width: 60%;
+		margin: 2% 25%;
+	}
+}
+
+@media all and (max-width: 1300px){
+	div#textos{
+		margin: 2% 20%;
+	}
+}
+
+
+@media all and (max-width: 1181px){
+	div#textos{
+		width: 75%;
+		margin: 2% 15%;
+	}
+}
+
+@media all and (max-width: 954px){
+	div#textos{
+		width: 80%;
+	}
+}
+
+@media all and (max-width: 898px){
+	div#textos{
+		width: 70%;
+	}
+}
+
+
+@media all and (max-width: 450px){
+	img.imagemPrincipal{
+		display: none;
+	}
+
+	img.imagemPrincipal2{
+		display: block;
+	}
+}
