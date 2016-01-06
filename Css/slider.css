@@ -21,7 +21,7 @@ ol.carousel-indicators li{
 ol#car-img li.active{
     width:17px;
 	height:17px;
-    margin: 5px auto;
+    margin: 0px auto;
     cursor: pointer;
 }
 .pager div{

@@ -1,29 +1,26 @@
 <!--Conteúdo-->
-<div class="box">
-    <span class="pager"></span>
-
-    <div class="slider">
-        <div class="slider-item">
-            <p>
-                A certificação de metodologias que nos auxiliam a lidar com o aumento do diálogo entre os diferentes
-                setores produtivos representa uma abertura para a melhoria do remanejamento dos quadros funcionais.
-            </p>
-            <img src="images/bg-topo-2pagina.png"/></div>
-        <div class="slider-item">
-            <p>          A certificação de metodologias que nos auxiliam a lidar com a determinação clara de objetivos
-                acarreta um processo de reformulação e modernização dos procedimentos normalmente adotados. Acima de tudo,
-                é fundamental ressaltar que a contínua expansão de nossa atividade assume importantes posições no
-                estabelecimento do orçamento setorial.
-            </p>
-            <img src="images/bg-topo.png"/></div>
-        <div class="slider-item">
-            <p>
-                As experiências acumuladas demonstram que a determinação clara de objetivos acarreta um processo de
-                reformulação e modernização das novas proposições.
-            </p>
-            <img src="images/shutterstock_70728256.jpg" width="100%" height="100%"/></div>
+    <div class="box">
+        <span class="pager"></span>
+        <div class="slider">
+                
+                <section id="sliderhome">
+                    <div id="meuSlider" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators" id="car-img">
+                            <li data-target="#meuSlider" data-slide-to="0" class="active"></li>
+                            <li data-target="#meuSlider" data-slide-to="1"></li>
+                            <li data-target="#meuSlider" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="item active"><img src="images/56103338_640.png" alt="Slider 1" /></div>
+                            <div class="item"><img src="images/newproject-361x135-1347416669.png" alt ="Slide 2" /></div>
+                            <div class="item"><img src="images/newprojects.png" alt="Slide 3" /></div>
+    
+                        </div>
+                    </div>
+                </section>
+    
+        </div>
     </div>
-</div>
 
 <div id="amarela">
     <div id="amarela-trsp">
