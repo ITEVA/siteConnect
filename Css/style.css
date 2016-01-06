@@ -114,6 +114,10 @@
     margin: 0 auto;
 }
 
+#btn_areaCliente{
+	cursor:pointer;
+}
+
 @media (max-width: 767px) {
     #logo{
         position: relative;

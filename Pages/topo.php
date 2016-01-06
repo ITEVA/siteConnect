@@ -35,7 +35,7 @@
         <div id="areaSuperior">
             <a href="home"><img id="logo" src="Images/logoConnect.jpg" alt="" /></a>
             <div id="btnAreaCliente">
-                <img src="Images/btnAreaCliente.jpg" alt="" />
+                <img src="Images/btnAreaCliente.jpg" alt="" id="btn_areaCliente" />
             </div>
         </div>
         <nav class="navbar navbar-default">

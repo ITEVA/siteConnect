@@ -1,26 +1,23 @@
 <!--Conteúdo-->
-    <div class="box">
-        <span class="pager"></span>
-        <div class="slider">
-                
-                <section id="sliderhome">
-                    <div id="meuSlider" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators" id="car-img">
-                            <li data-target="#meuSlider" data-slide-to="0" class="active"></li>
-                            <li data-target="#meuSlider" data-slide-to="1"></li>
-                            <li data-target="#meuSlider" data-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="item active"><img src="images/56103338_640.png" alt="Slider 1" /></div>
-                            <div class="item"><img src="images/newproject-361x135-1347416669.png" alt ="Slide 2" /></div>
-                            <div class="item"><img src="images/newprojects.png" alt="Slide 3" /></div>
-    
-                        </div>
+<div class="box">
+    <span class="pager"></span>
+    <div class="slider">
+            <section id="sliderhome">
+                <div id="meuSlider" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators" id="car-img">
+                        <li data-target="#meuSlider" data-slide-to="0" class="active"></li>
+                        <li data-target="#meuSlider" data-slide-to="1"></li>
+                        <li data-target="#meuSlider" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="item active"><img src="images/56103338_640.png" alt="Slider 1" /></div>
+                        <div class="item"><img src="images/newproject-361x135-1347416669.png" alt ="Slide 2" /></div>
+                        <div class="item"><img src="images/newprojects.png" alt="Slide 3" /></div>
                     </div>
-                </section>
-    
-        </div>
+                </div>
+            </section>
     </div>
+</div>
 
 <div id="amarela">
     <div id="amarela-trsp">
