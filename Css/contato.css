@@ -1,8 +1,3 @@
-html,body{
-    margin:0;
-    height:100%;
-}
-
 textarea {
     resize: none;
 }
@@ -59,6 +54,7 @@ img#tablet{
     z-index: 9999;
     margin: -27% 1% 2% 59%;
     width: 23%;
+    cursor: pointer;
 }
 
 img#tablet2{
@@ -67,6 +63,8 @@ img#tablet2{
     position: relative;
     float: none;
     margin: 0 auto;
+    cursor: pointer;
+
 }
 
 div.endereco{
@@ -166,21 +164,6 @@ img#retangulo2{
 div#atendimentos{
     position:relative;
     margin-top: -10%;
-
-}
-
-div.mapa{
-    height: 510px;
-}
-
-iframe#mapa{
-    width: 17.5%;
-    height: 100%;
-    border:0;
-    position: relative;
-    float: right;
-    margin-top: -31.5%;
-    right: 20.8%;
 
 }
 

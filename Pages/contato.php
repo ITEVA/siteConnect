@@ -43,10 +43,7 @@
     <img id="bg-baixoContato" src="Images/bg-baixoContato.png">
     <img id="retangulo" style="" src="Images/retangulo.png">
     <img id="retangulo2" src="Images/retangulo2.png">
-    <img id="tablet" src="Images/tablet.png">
-    <div class="mapa">
-        <iframe id="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.1895789347805!2d-38.496696284624186!3d-3.7688868444365724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c748b364103923%3A0x84a1e567b49a3060!2sRua+Dr.+Thompson+Bulc%C3%A3o+-+Eng.+Luciano+Cavalcante%2C+Fortaleza+-+CE%2C+Brasil!5e0!3m2!1spt-BR!2sus!4v1452192886899" frameborder="0" allowfullscreen></iframe>
-    </div>
+    <a href="www.google.com" <abbr title="Clique e veja no mapa"> <img id="tablet" src="Images/tablet.png" title="Clique e veja no mapa."></abbr></a>
     <img id="tablet2" src="Images/tablet2.png">
     <div id="atendimentos">
         <div id="atendimento1">
