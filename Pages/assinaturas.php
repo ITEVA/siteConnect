@@ -52,7 +52,7 @@
 
     <br><br><br><br><br><br>
 
-    <img id="divisao" src="images/divisao.png">
+    <img id="divisao" src="Images/divisao.png">
 
     <br>
     <div class="conteudo conteudo2">
