@@ -281,7 +281,11 @@ div#musicas img{
     position: initial;
     left: 15%;
 }
-
+@media all and (min-width:1461px){
+	#amarela-trsp-movel{
+		display:none;
+	}
+}
 @media all and (min-width: 1170px) and (max-width:1460px) {
 	
 	h1.titulo_link-item_amarela-trsp{
@@ -302,6 +306,10 @@ div#musicas img{
 	
 	.imgSeparador{
 		margin-left: -400%;
+	}
+	
+	#amarela-trsp-movel{
+		display:none;
 	}
 }
 
@@ -338,6 +346,10 @@ div#musicas img{
 	div#amarela div.acessoRapido{
 		left: 55%;		
 	}
+	
+	#amarela-trsp-movel{
+		display:none;
+	}
 }
 
 @media all and (min-width: 910px) and (max-width:980px) {
@@ -373,8 +385,10 @@ div#musicas img{
 	div#amarela div.acessoRapido{
 		left: 50%;		
 	}
-
-
+	
+	#amarela-trsp-movel{
+		display:none;
+	}
 }
 
 @media all and (min-width: 0px) and (max-width:909px) {
@@ -404,11 +418,62 @@ div#musicas img{
 	}
 	
 	.imgSeparador{
-		margin-left: -800%;
+		display: none;
 	}
 	
 	div#amarela div.acessoRapido{
 		left: 50%;		
+	}
+	
+	#amarela-trsp{
+		display:none;
+	}
+	div#amarela-trsp{
+		display: none;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 20%;
+	}
+	
+	div#Cl1_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+		width: 45%;	
+	}
+	
+	div#Cl2_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+	}
+	
+	a.link-item_amarela-trsp_up-movel{
+		position: absolute;
+		height: 40%;
+		width: 80%;
+		color: #ffffff;
+		top: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_down-movel{
+		position: absolute;
+		height: 40%;
+		width: 90%;
+		color: #ffffff;
+		bottom: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -80px;
 	}
 	
 }
