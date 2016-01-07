@@ -1,0 +1,51 @@
+img#imagemInternet{
+    max-width: 100%;
+    width: 100%;
+    min-height: auto;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+img#imagemInternet2{
+	max-width: 25%;
+    width: 100%;
+    min-height: auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    left:1015px;
+    bottom: 0px;
+}
+
+div.div1{
+	padding: 0;
+	margin: 0;
+}
+
+p#t1{
+	color: #f0ad4e;
+	margin-top: 20px;
+	margin-bottom: 110px;
+	position: relative;
+	margin-left: 34%;
+}
+
+p#t2{
+	color:#ffbb00;
+}
+
+p#txt1{
+	color: red;
+}
+
+div#bloco_texto1{
+	background-image: url("../Images/bg_internet.png");        
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 100%;                
+}
+
+div#bloco_texto2{
+	position: relative;
+	border: 1px solid black;
+	width:100%;
+}
