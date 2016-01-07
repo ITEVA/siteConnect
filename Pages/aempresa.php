@@ -25,6 +25,7 @@
     </div>
     <div class="col-lg-12 div1">
         <div class="conteudo">
+            <input type="button" class="btn btn-block ">
             <img id="computador" src="Images/empresaComputadores.jpg">
         </div>
     </div>

@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Connect já</title>
+        <link rel="shortcut icon" href="/Images/favicon.png" type="image/png">
         
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
