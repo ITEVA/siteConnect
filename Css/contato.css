@@ -1,3 +1,8 @@
+html,body{
+    margin:0;
+    height:100%;
+}
+
 textarea {
     resize: none;
 }
@@ -6,6 +11,11 @@ textarea {
 
 img#imagemContato{
     width: 100%;
+}
+
+img#imagemContato2{
+    width: 100%;
+    display: none;
 }
 
 div#boxContato{
@@ -46,8 +56,17 @@ input.btn-default{
 }
 
 img#tablet{
-    z-index: 999;
-    margin: -25% 40% 2% 59%;
+    z-index: 9999;
+    margin: -27% 1% 2% 59%;
+    width: 23%;
+}
+
+img#tablet2{
+    display: none;
+    width: 80%;
+    position: relative;
+    float: none;
+    margin: 0 auto;
 }
 
 div.endereco{
@@ -66,7 +85,7 @@ p#capital{
 }
 
 div.box{
-    display: inline-flex
+    display: inline-flex;
 }
 
 p.topico{
@@ -86,19 +105,18 @@ div#cepEbairro{
 }
 
 div#atendimento1{
-    margin: -10% 5% 5% 40%;
+    width: 80%;
 }
 
 div#atendimento2{
-    width: 20%;
-    margin: -4% 5% 5% 32%;
+    width: 80%;
 }
 
 img#iconContato{
     position: relative;
     display: block;
     float: none;
-    margin: 0 auto;
+    margin: 0 47.5% auto;
 }
 
 p#centAtend{
@@ -117,7 +135,7 @@ p#fone{
 
 img#bg-bc{
     width: 100%;
-    padding-top: 20px;
+    padding-top: 80px;
     padding-bottom: 20px;
 }
 
@@ -127,4 +145,168 @@ img#bg-baixo{
 
 div.boxInformacao{
     display: none;
+}
+
+div.boxTudo{
+    width: 100%;
+}
+
+img#retangulo{
+    position: relative;
+    width: 30%;
+    margin: -24% 29.7% auto;
+}
+
+img#retangulo2{
+    display: none;
+    width: 40%;
+    margin: -16% 29.7% auto;
+}
+
+div#atendimentos{
+    position:relative;
+    margin-top: -10%;
+
+}
+
+div.mapa{
+    height: 510px;
+}
+
+iframe#mapa{
+    width: 17.5%;
+    height: 100%;
+    border:0;
+    position: relative;
+    float: right;
+    margin-top: -31.5%;
+    right: 20.8%;
+
+}
+
+/*MEDIA'S QUERIES*/
+@media all and (max-width:1300px ){
+    div.contato{
+        margin-left: -15%;
+    }
+
+    div#atendimentos{
+        margin-top: -11%;
+    }
+
+}
+
+@media all and (max-width: 1000px){
+    img#retangulo{
+        width: 40%;
+        margin: -24% 20% auto;
+
+    }
+
+    img#tablet{
+        width: 30%;
+        margin: -30% 1% 2% 59%;
+    }
+
+    div#atendimentos{
+        margin-top: -19%;
+    }
+}
+
+@media all and (max-width: 670px){
+    img#tablet{
+        display: none;
+    }
+
+    img#tablet2{
+        display: block;
+    }
+
+    img#retangulo{
+        display: none;
+    }
+
+    img#retangulo2{
+        display: block;
+        position: relative;
+        float: none;
+        width: 80%;
+        margin-top: -98%;
+        margin-bottom: 5%;
+        right: 20%;
+    }
+
+    img#bg-baixoContato{
+        height: 650px;
+    }
+
+    div#atendimentos{
+        width: 50%;
+        display: block;
+        position: relative;
+        float: none;
+        margin: 3% 23% auto;
+    }
+
+    div#atendimento2{
+        margin-left: 10%;
+    }
+}
+
+@media all and (max-width: 580px){
+    img#bg-baixoContato{
+        height: 570px;
+    }
+
+    div#atendimento2{
+        width: 100%;
+        margin-left: 1%;
+    }
+
+    div#boxContato{
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 500px){
+    img#bg-baixoContato{
+        height: 480px;
+    }
+}
+
+@media all and (max-width: 450px){
+    img#imagemContato{
+        display: none;
+    }
+
+    img#imagemContato2{
+        display: block;
+    }
+
+    img#bg-baixoContato{
+        height: 440px;
+    }
+
+    div#atendimento2{
+        margin-left: 4%;
+    }
+
+    div#atendimentos{
+        margin: 3% 22% auto;
+    }
+}
+
+@media all and (max-width: 400px){
+    img#bg-baixoContato{
+        height: 390px;
+    }
+
+    div#boxContato{
+        width: 60%;
+        margin-left: 110px;
+    }
+
+    img#bg-bc{
+        padding-top: 60px;
+    }
 }
