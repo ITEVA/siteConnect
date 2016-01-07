@@ -76,6 +76,11 @@
                 </div>
             </a>
         </div>
+		<div id="separador">
+            <img class="imgSeparador" src="Images/LinhaSeparadora.png" width="100%"
+                height="100%"/>
+        </div>
+
 
         <div id="Cl2_amarela-trsp-movel">
             <a href="corbetura" id="link-item_amarela-trsp3" class="link-item_amarela-trsp_up">
