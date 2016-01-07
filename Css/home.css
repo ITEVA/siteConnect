@@ -185,7 +185,6 @@ h3#txt6 span{
     left: 7%;
 }
 
-
 /*Muito Mais Para Você*/
 div#muitoPVc{
     position: relative;
@@ -206,6 +205,30 @@ h1#h1MuitoPVc{
     margin: 0;
     width: 298px;
 }
+
+/*Podemos Lhe Ajudar?*/
+
+div#podLheAjud{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    border: 1px solid #000000;
+    background: #ffffff url("../Images/fundoGridAzul.png") repeat-x;
+}
+
+h1#h1podLheAjud{
+    position: relative;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 18pt;
+    font-weight: normal;
+    color: #ffffff;
+    top: 5%;
+    left: 20%;
+    margin: 0;
+    width: 298px;
+}
+
 div#opcoes_muitoPVc{
     margin: 0;
     position: relative;
@@ -257,4 +280,135 @@ div#musicas{
 div#musicas img{
     position: initial;
     left: 15%;
+}
+
+@media all and (min-width: 1170px) and (max-width:1460px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:15pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		font-size:12pt;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -35%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: -35%;
+	}
+	
+	.imgSeparador{
+		margin-left: -400%;
+	}
+}
+
+@media all and (min-width: 980px) and (max-width:1169px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:14pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		font-size:11pt;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -45%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: -45%;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -50px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -50px;
+	}
+	
+	.imgSeparador{
+		margin-left: -700%;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 55%;		
+	}
+}
+
+@media all and (min-width: 910px) and (max-width:980px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:14pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		font-size:11pt;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -55%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: -55%;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -70px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -70px;
+	}
+	
+	.imgSeparador{
+		margin-left: -800%;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 50%;		
+	}
+
+
+}
+
+@media all and (min-width: 0px) and (max-width:909px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:10pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		display: none;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -55%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: -55%;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -70px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -70px;
+	}
+	
+	.imgSeparador{
+		margin-left: -800%;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 50%;		
+	}
+	
 }
