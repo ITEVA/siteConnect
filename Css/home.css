@@ -401,20 +401,25 @@ div#musicas img{
 		display: none;
 	}
 	
+	
 	a.link-item_amarela-trsp_up{
 		left: -100px;
+		height: 40%;
+		width: 40%;
 	}
 	
 	a.link-item_amarela-trsp_down{
 		left: -100px;
+		height: 40%;
+		width: 58%;
 	}
 	
 	#link-item_amarela-trsp3{
-		margin-left: -100px;
+		margin-left: -120px;
 	}
 	
 	#link-item_amarela-trsp4{
-		margin-left: -100px;
+		margin-left: -120px;
 	}
 	
 	.imgSeparador{
@@ -438,13 +443,13 @@ div#musicas img{
 		display: flex;
 		height: 100%;
 		width: 650px;
-		left: 20%;
+		left: 17%;
 	}
 	
 	div#Cl1_amarela-trsp-movel{
 		position: relative;
 		height: 100%;
-		width: 45%;	
+		width: 40%;	
 	}
 	
 	div#Cl2_amarela-trsp-movel{
@@ -455,7 +460,7 @@ div#musicas img{
 	a.link-item_amarela-trsp_up-movel{
 		position: absolute;
 		height: 40%;
-		width: 80%;
+		width: 40%;
 		color: #ffffff;
 		top: 8%;
 		left: 5%;
@@ -465,10 +470,11 @@ div#musicas img{
 	a.link-item_amarela-trsp_down-movel{
 		position: absolute;
 		height: 40%;
-		width: 50%;
+		width: 40%;
 		color: #ffffff;
 		bottom: 8%;
 		left: 5%;
 		cursor: pointer;
 	}	
+	
 }

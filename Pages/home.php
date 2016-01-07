@@ -65,14 +65,12 @@
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-checked-movel.png" class="icon_trsp-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Preencha o formulário e<br/>entraremos em contato<br/>em menos de 24 horas.</p>
                 </div>
             </a>
             <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-present-movel.png" class="icon_trs-movelp"/>
                     <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS PARA VOCÊ</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Temos planos e preços<br/>que cabem no seu bolso.<br>É só escolher e assinar.</p>
                 </div>
             </a>
         </div>
@@ -87,14 +85,12 @@
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-local-movel.png" class="icon_trsp-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">NOSSA<br/>COBERTURA</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Descubra onde encontrar<br/>internet de qualidade,<br/>veja aonde atendemos.</p>
                 </div>
             </a>
             <a href="contato" id="link-item_amarela-trsp4" class="link-item_amarela-trsp_down">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-talk-movel.png" class="icon_trsp-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">FALE COM<br/>A GENTE!</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Descubra onde encontrar<br/>internet de qualidade,<br/>veja aonde atendemos.</p>
                 </div>
             </a>
         </div>
