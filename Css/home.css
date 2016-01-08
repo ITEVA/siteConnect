@@ -23,6 +23,7 @@ div#amarela-trsp{
     width: 650px;
     left: 20%;
 }
+
 div#Cl1_amarela-trsp{
     position: relative;
     height: 100%;
@@ -30,17 +31,20 @@ div#Cl1_amarela-trsp{
     /*border: 2px solid green;*/
 
 }
+
 div#Cl2_amarela-trsp{
     position: relative;
     height: 100%;
     width: 50%;
     /*border: 2px solid green;*/
 }
+
 div#amarela-trsp div#separador{
     height: 100%;
     width: 5%;
     /*border: 2px solid deeppink;*/
 }
+
 a.link-item_amarela-trsp_up{
     position: absolute;
     height: 40%;
@@ -51,6 +55,7 @@ a.link-item_amarela-trsp_up{
     left: 5%;
     cursor: pointer;
 }
+
 a.link-item_amarela-trsp_down{
     position: absolute;
     height: 40%;
@@ -61,11 +66,13 @@ a.link-item_amarela-trsp_down{
     left: 5%;
     cursor: pointer;
 }
+
 h1.titulo_link-item_amarela-trsp{
     font-family: Arial, sans-serif;
     font-size: 18pt;
     font-weight: normal;
 }
+
 p.conteudo_link-item_amarela-trsp{
     font-family: Arial, sans-serif;
     font-size: 14pt;
@@ -83,11 +90,13 @@ div#amarela div.acessoRapido{
     z-index: 10000;
     bottom: 625px;
 }
+
 img#imgAcessoRapido{
     position: absolute;
     right: -3px;
     top: 20px;
 }
+
 /*Botões*/
 div#amarela div.acessoRapido div.botoes{
     position: relative;
@@ -97,6 +106,7 @@ div#amarela div.acessoRapido div.botoes{
     width: 370px;
     height: 480px;
 }
+
 div#amarela div.acessoRapido div.botoes a.botao{
     display: inline-block;
     border: none;
@@ -106,35 +116,42 @@ div#amarela div.acessoRapido div.botoes a.botao{
     width: 170px;
     height: 150px;
 }
+
 div#amarela div.acessoRapido div.botoes a.botao:link{
     text-decoration: none;
     color: inherit;
 }
+
 div#coluna1{
     width: 177px;
     height: 477px!important;
 }
+
 div#coluna2{
     width: 177px;
     height: 477px !important;
     margin-left: 5px;
 }
+
 img.botoes_icon{
     position: relative;
     left: 39%;
     top: 18px;
 }
+
 div#amarela div.acessoRapido div.botoes a.botao h3{
     position: relative;
     font-family: Arial, sans-serif;
     font-size: 13pt;
     font-weight: lighter;
 }
+
 /*textos acesso rapido*/
 h3#txt1{
     top: 15%;
     left: 29%;
 }
+
 h3#txt1 span{
     position: absolute;
     left: 8%;
@@ -144,6 +161,7 @@ h3#txt2{
     top: 28%;
     left: 25%;
 }
+
 h3#txt2 span{
     position: absolute;
     left: 12%;
@@ -153,6 +171,7 @@ h3#txt3{
     top: 22%;
     left: 32%;
 }
+
 h3#txt3 span{
     position: relative;
     left: 1%;
@@ -162,6 +181,7 @@ h3#txt4{
     left: 17%;
     top: 12%;
 }
+
 h3#txt4 span{
     position: absolute;
     left: 7%;
@@ -171,6 +191,7 @@ h3#txt5{
     left: 27%;
     top: 14%;
 }
+
 h3#txt5 span{
     position: absolute;
     left: 9%;
@@ -180,6 +201,7 @@ h3#txt6{
     left: 18%;
     top: 18%;
 }
+
 h3#txt6 span{
     position: absolute;
     left: 7%;
@@ -193,6 +215,7 @@ div#muitoPVc{
     border: 1px solid #000000;
     background: #ffffff url("../Images/fundoGridAzul.png") repeat-x;
 }
+
 h1#h1MuitoPVc{
     position: relative;
     display: block;
@@ -238,12 +261,14 @@ div#opcoes_muitoPVc{
     height: 77%;
 	margin-left: -150px;
 }
+
 div#tv{
     position: relative;
     width: 260px;
     left: 28%;
     text-align: center;
 }
+
 div#tv img{
     position: initial;
     left: 26%;
@@ -255,6 +280,7 @@ div#game{
     left: 30%;
     text-align: center;
 }
+
 div#game img{
     position: initial;
     left: 16%;
@@ -266,7 +292,8 @@ div#dispositivos{
     left: 32%;
     text-align: center;
 }
-div#dispositivos img{
+div
+#dispositivos img{
     position: initial;
     left: 16%;
 }
@@ -277,14 +304,18 @@ div#musicas{
     left: 36%;
     text-align: center;
 }
+
 div#musicas img{
     position: initial;
     left: 15%;
 }
+
 @media all and (min-width:1461px){
+	
 	#amarela-trsp-movel{
 		display:none;
 	}
+	
 }
 @media all and (min-width: 1170px) and (max-width:1460px) {
 	
@@ -401,7 +432,6 @@ div#musicas img{
 		display: none;
 	}
 	
-	
 	a.link-item_amarela-trsp_up{
 		left: -80px;
 		height: 40%;
@@ -480,10 +510,10 @@ div#musicas img{
 		left: 5%;
 		cursor: pointer;
 	}
+	
 	.h1, .h2, .h3, h1, h2, h3{
 		margin-top:10px;
 	}
-	
 }
 
 @media all and (min-width: 650px) and (max-width:799px) {
@@ -495,7 +525,6 @@ div#musicas img{
 	p.conteudo_link-item_amarela-trsp{
 		display: none;
 	}
-	
 	
 	a.link-item_amarela-trsp_up{
 		left: 0px;
@@ -576,6 +605,7 @@ div#musicas img{
 		left: 5%;
 		cursor: pointer;
 	}
+	
 	.h1, .h2, .h3, h1, h2, h3{
 		margin-top:10px;
 	}
@@ -583,10 +613,9 @@ div#musicas img{
 	div#amarela{
 		height: 760px;
 	}
-	
 }
 
-@media all and (min-width: 0px) and (max-width:649px) {
+@media all and (min-width: 540px) and (max-width:649px) {
 	
 	h1.titulo_link-item_amarela-trsp{
 		font-size:12pt;
@@ -595,7 +624,6 @@ div#musicas img{
 	p.conteudo_link-item_amarela-trsp{
 		display: none;
 	}
-	
 	
 	a.link-item_amarela-trsp_up{
 		left: -50px;
@@ -623,7 +651,7 @@ div#musicas img{
 	}
 	
 	div#amarela div.acessoRapido{
-		left: 14%;		
+		left: 12%;		
 	}
 	
 	#amarela-trsp{
@@ -676,6 +704,208 @@ div#musicas img{
 		left: 5%;
 		cursor: pointer;
 	}
+	
+	.h1, .h2, .h3, h1, h2, h3{
+		margin-top:10px;
+	}
+	
+	div#amarela{
+		height: 760px;
+	}
+}
+
+@media all and (min-width: 550px) and (max-width:649px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:12pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		display: none;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -50px;
+		height: 40%;
+		width: 40%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: 200px;
+		height: 40%;
+		width: 58%;
+		top: 10px;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -160px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -160px;
+	}
+	
+	.imgSeparador{
+		display: none;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 12%;		
+	}
+	
+	#amarela-trsp{
+		display: none;
+	}
+	
+	div#amarela-trsp{
+		display: none;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 17%;
+	}
+	
+	div#Cl1_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+	}
+	
+	a.link-item_amarela-trsp_up-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		top: 220px;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		top: 10px;
+	}
+	
+	a.link-item_amarela-trsp_down-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		bottom: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	.h1, .h2, .h3, h1, h2, h3{
+		margin-top:10px;
+	}
+	
+	div#amarela{
+		height: 760px;
+	}
+	
+}
+
+@media all and (min-width: 0px) and (max-width:549px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:12pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		display: none;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: -50px;
+		height: 40%;
+		width: 40%;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: 200px;
+		height: 40%;
+		width: 58%;
+		top: 10px;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -160px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -160px;
+	}
+	
+	.imgSeparador{
+		display: none;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 12%;		
+	}
+	
+	#amarela-trsp{
+		display: none;
+	}
+	
+	div#amarela-trsp{
+		display: none;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 17%;
+	}
+	
+	div#Cl1_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-movel{
+		position: relative;
+		height: 100%;
+	}
+	
+	a.link-item_amarela-trsp_up-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		top: 220px;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		top: 10px;
+	}
+	
+	a.link-item_amarela-trsp_down-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		bottom: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
 	.h1, .h2, .h3, h1, h2, h3{
 		margin-top:10px;
 	}
