@@ -29,7 +29,7 @@
                         <input class="btn btn-default" type="submit" text="Enviar" name="enviar" value="Enviar"/>
                     </div>
                     <?php
-                        if(isset($_POST['enviar']) && $_POST['enviar'] == 'enviar'){
+                        if(isset($_POST['enviar']) && $_POST['enviar'] == 'Enviar'){
                             require_once 'emailContato.php';
                         }
                     ?>

@@ -189,6 +189,10 @@ img#tabletsm{
     width: 23%;
 }
 
+div.navbar-header{
+    width: 102.5%;
+}
+
 /*MEDIA'S QUERIES*/
 
 @media all and (max-width: 1900px){
