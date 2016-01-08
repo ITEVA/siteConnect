@@ -9,8 +9,8 @@
 
 <body>
 
-<img id="imagemPrincipal" src="Images/bg-topo-2pagina.png">
-<img id="imagemPrincipal2" src="Images/bg-topo-2(1)pagina.png">
+<img id="imagemPrincipal" src="Images/bgtopo-2pagina.jpg">
+<img id="imagemPrincipal2" src="Images/bg-topo-2(1)pagina.jpg">
 
 <div class="col-lg-12 div1">
     <div id="textos">
