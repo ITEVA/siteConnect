@@ -48,6 +48,7 @@
     <a href="mapa.php" <abbr title="Clique e veja no mapa"> <img id="tabletsm" src="Images/tablet.png" title="Clique e veja no mapa."></abbr></a>
     <img id="tablet" src="Images/tabletSm.png">
     <a href="mapa"> <abbr title="Clique e veja no mapa"> <img id="tablet2" src="Images/tablet2.png" title="Clique e veja no mapa."></abbr></a>
+    <a href="mapa"> <abbr title="Clique e veja no mapa"><img id="cliqueAqui" src="Images/cliqueAqui.png"></abbr></a>
     <div id="atendimentos">
         <div id="atendimento1">
             <img id="iconContato" src="Images/iconContato.png">

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b30cf9c7-32db-485d-a655-ec823cbeb8ed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Css/mapa.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/contato.css" afterPath="$PROJECT_DIR$/Css/contato.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/contato.php" afterPath="$PROJECT_DIR$/Pages/contato.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/mapa.php" afterPath="$PROJECT_DIR$/Pages/mapa.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="siteConnect.iws" />
@@ -26,31 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="assinaturas.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/assinaturas.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assinaturas.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Css/assinaturas.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="393" column="34" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="contato.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/contato.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+            <state vertical-scroll-proportion="-20.923077">
+              <caret line="50" column="116" selection-start-line="50" selection-start-column="116" selection-end-line="50" selection-end-column="116" />
               <folding />
             </state>
           </provider>
@@ -59,8 +41,8 @@
       <file leaf-file-name="contato.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Css/contato.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52348226">
-              <caret line="193" column="1" selection-start-line="193" selection-start-column="1" selection-end-line="193" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.23596793">
+              <caret line="190" column="15" selection-start-line="190" selection-start-column="15" selection-end-line="190" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -70,7 +52,17 @@
         <entry file="file://$PROJECT_DIR$/Pages/mapa.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="370" selection-start-line="12" selection-start-column="370" selection-end-line="12" selection-end-column="370" />
+              <caret line="12" column="344" selection-start-line="12" selection-start-column="344" selection-end-line="12" selection-end-column="344" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapa.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/mapa.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,8 +95,8 @@
         <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/Css/mapa.css" />
         <option value="$PROJECT_DIR$/Pages/mapa.php" />
-        <option value="$PROJECT_DIR$/Css/contato.css" />
         <option value="$PROJECT_DIR$/Pages/contato.php" />
+        <option value="$PROJECT_DIR$/Css/contato.css" />
       </list>
     </option>
   </component>
@@ -120,8 +112,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="959" />
-    <option name="width" value="968" />
+    <option name="x" value="970" />
+    <option name="width" value="954" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -246,10 +238,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="959" y="0" width="968" height="1047" extended-state="0" />
+    <frame x="970" y="0" width="954" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15861344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1609808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -401,14 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/mapa.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="370" selection-start-line="12" selection-start-column="370" selection-end-line="12" selection-end-column="370" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/bg-pgContato.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -424,16 +408,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/contato.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="50" column="116" selection-start-line="50" selection-start-column="116" selection-end-line="50" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/mapa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="344" selection-start-line="12" selection-start-column="344" selection-end-line="12" selection-end-column="344" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/mapa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Css/contato.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52348226">
-          <caret line="193" column="1" selection-start-line="193" selection-start-column="1" selection-end-line="193" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.23596793">
+          <caret line="190" column="15" selection-start-line="190" selection-start-column="15" selection-end-line="190" selection-end-column="15" />
           <folding />
         </state>
       </provider>

@@ -17,11 +17,6 @@ div#boxContato{
     margin: 2% 30%;
 }
 
-div.container-fluid{
-    margin: 0;
-    padding: 0;
-}
-
 p#text2{
     font-size: 18px;
     color: #265a88;
@@ -51,7 +46,6 @@ input.btn-default{
 }
 
 img#tablet{
-    z-index: 9999;
     margin: -27% 1% 2% 59%;
     width: 23%;
 }
@@ -62,6 +56,7 @@ img#tablet2{
     position: relative;
     float: none;
     margin: 0 auto;
+    cursor: pointer;
 
 }
 
@@ -184,13 +179,23 @@ iframe#mapa{
 
 img#tabletsm{
     display: none;
-    z-index: 9999;
+    z-index: 999;
     margin: -27% 1% 2% 59%;
     width: 23%;
 }
 
-div.navbar-header{
-    width: 102.5%;
+ul.navbar-nav{
+    float: none;
+}
+
+img#cliqueAqui{
+    display: none;
+    width: 10%;
+    float: right;
+    position: relative;
+    z-index: 9999;
+    margin: -24% 24.5% auto;
+    cursor: pointer;
 }
 
 /*MEDIA'S QUERIES*/
@@ -299,6 +304,10 @@ div.navbar-header{
     }
 
     img#tabletsm{
+        display: block;
+    }
+
+    img#cliqueAqui{
         display: block;
     }
 }
@@ -497,6 +506,11 @@ div.navbar-header{
     img#tablet2{
         margin-top: 15%;
         cursor: pointer;
+    }
+
+    img#cliqueAqui{
+        width: 20%;
+        margin: -39% 40% auto;
     }
 
 }
