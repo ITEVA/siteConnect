@@ -10,9 +10,10 @@
                         <li data-target="#meuSlider" data-slide-to="2"></li>
                     </ol>
                     <div class="carousel-inner">
-                        <div class="item active"><a href="assinaturas"><img src="Images/img-slide1.png" alt="Slider 1" /></a></div>
-                        <div class="item"><a href="#muitoPVc"><img src="Images/img-slide2.png" alt ="Slide 2" /></a></div>
-                        <div class="item"><a href="#podLheAjud"><img src="Images/img-slide3.png" alt="Slide 3" /></a></div>
+                    	<!--Nav Slider-->
+                        <div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide1.png" alt="Slider 1"/></a></div>
+                        <div class="item" id="slider"><a href="#muitoPVc"><img src="Images/img-slide2.png" alt="Slide 2"/></a></div>
+                        <div class="item" id="slider"><a href="#podLheAjud"><img src="Images/img-slide3.png" alt="Slide 3"/></a></div>
                     </div>
                 </div>
             </section>
@@ -20,6 +21,7 @@
 </div>
 
 <div id="amarela">
+	
     <div id="amarela-trsp">
         <div id="Cl1_amarela-trsp">
             <a id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
@@ -70,7 +72,7 @@
             <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-present-movel.png" class="icon_trs-movelp"/>
-                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS PARA VOCÊ</h1>
+                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS</h1>
                 </div>
             </a>
         </div>
@@ -90,7 +92,7 @@
             <a href="contato" id="link-item_amarela-trsp4" class="link-item_amarela-trsp_down">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-talk-movel.png" class="icon_trsp-movel"/>
-                    <h1 class="titulo_link-item_amarela-trsp">FALE COM<br/>A GENTE!</h1>
+                    <h1 class="titulo_link-item_amarela-trsp">FALE CONOSCO</h1>
                 </div>
             </a>
         </div>
