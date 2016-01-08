@@ -320,6 +320,10 @@ div#musicas img{
 		display: none;
 	}
 	
+	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
+	
 }
 @media all and (min-width: 1170px) and (max-width:1460px) {
 	
@@ -349,6 +353,10 @@ div#musicas img{
 	
 	div#amarela-trsp-super-movel{
 		display: none;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		display:none;
 	}
 }
 
@@ -393,6 +401,10 @@ div#musicas img{
 	div#amarela-trsp-super-movel{
 		display: none;
 	}
+	
+	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
 }
 
 @media all and (min-width: 910px) and (max-width:980px) {
@@ -436,6 +448,10 @@ div#musicas img{
 	div#amarela-trsp-super-movel{
 		display: none;
 	}
+	
+	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
 }
 
 @media all and (min-width: 800px) and (max-width:909px) {
@@ -478,6 +494,10 @@ div#musicas img{
 	
 	div#amarela-trsp{
 		display: none;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		display:none;
 	}
 	
 	div#amarela-trsp-super-movel{
@@ -580,6 +600,10 @@ div#musicas img{
 		display: none;
 	}
 	
+	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
+	
 	/*Opções no meio da div Amarela Movel*/
 	div#amarela-trsp-movel{
 		position: relative;
@@ -633,105 +657,6 @@ div#musicas img{
 	}
 }
 
-@media all and (min-width: 540px) and (max-width:649px) {
-	
-	h1.titulo_link-item_amarela-trsp{
-		font-size:12pt;
-	}
-	
-	p.conteudo_link-item_amarela-trsp{
-		display: none;
-	}
-	
-	a.link-item_amarela-trsp_up{
-		left: -50px;
-		height: 40%;
-		width: 40%;
-	}
-	
-	a.link-item_amarela-trsp_down{
-		left: 200px;
-		height: 40%;
-		width: 58%;
-		top: 10px;
-	}
-	
-	#link-item_amarela-trsp3{
-		margin-left: -160px;
-	}
-	
-	#link-item_amarela-trsp4{
-		margin-left: -160px;
-	}
-	
-	.imgSeparador{
-		display: none;
-	}
-	
-	div#amarela div.acessoRapido{
-		left: 12%;		
-	}
-	
-	div#amarela-trsp{
-		display: none;
-	}
-	
-	div#amarela-trsp-super-movel{
-		display: none;
-	}
-
-	/*Opções no meio da div Amarela Movel*/
-	div#amarela-trsp-movel{
-		position: relative;
-		display: flex;
-		height: 100%;
-		width: 650px;
-		left: 17%;
-	}
-	
-	div#Cl1_amarela-trsp-movel{
-		position: relative;
-		height: 100%;
-		width: 40%;	
-	}
-	
-	div#Cl2_amarela-trsp-movel{
-		position: relative;
-		height: 100%;
-	}
-	
-	a.link-item_amarela-trsp_up-movel{
-		position: absolute;
-		height: 40%;
-		width: 40%;
-		color: #ffffff;
-		top: 220px;
-		left: 5%;
-		cursor: pointer;
-	}
-	
-	a.link-item_amarela-trsp_up{
-		top: 10px;
-	}
-	
-	a.link-item_amarela-trsp_down-movel{
-		position: absolute;
-		height: 40%;
-		width: 40%;
-		color: #ffffff;
-		bottom: 8%;
-		left: 5%;
-		cursor: pointer;
-	}
-	
-	.h1, .h2, .h3, h1, h2, h3{
-		margin-top:10px;
-	}
-	
-	div#amarela{
-		height: 760px;
-	}
-}
 
 @media all and (min-width: 550px) and (max-width:649px) {
 	
@@ -780,6 +705,10 @@ div#musicas img{
 		display: none;
 	}
 	
+	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
+	
 	/*Opções no meio da div Amarela Movel*/
 	div#amarela-trsp-movel{
 		position: relative;
@@ -834,10 +763,10 @@ div#musicas img{
 	
 }
 
-@media all and (min-width: 0px) and (max-width:549px) {
+@media all and (min-width: 460px) and (max-width:549px) {
 	
 	h1.titulo_link-item_amarela-trsp{
-		font-size:10pt;
+		font-size:9.5pt;
 	}
 	
 	p.conteudo_link-item_amarela-trsp{
@@ -845,7 +774,7 @@ div#musicas img{
 	}
 	
 	a.link-item_amarela-trsp_up{
-		left: -50px;
+		left: -35px;
 		height: 40%;
 		width: 40%;
 	}
@@ -853,12 +782,12 @@ div#musicas img{
 	a.link-item_amarela-trsp_down{
 		left: 160px;
 		height: 40%;
-		width: 58%;
+		width: 32%;
 		top: 10px;
 	}
 	
 	#link-item_amarela-trsp3{
-		margin-left: -190px;
+		margin-left: -200px;
 	}
 	
 	#link-item_amarela-trsp4{
@@ -870,7 +799,8 @@ div#musicas img{
 	}
 	
 	div#amarela div.acessoRapido{
-		left: 8%;		
+		left: 6%;
+		width: 395px;	
 	}
 	
 	div#amarela-trsp{
@@ -879,6 +809,16 @@ div#musicas img{
 	
 	div#amarela-trsp-movel{
 		display: none;
+	}
+	
+	img#imgAcessoRapido{
+   		display:none;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		position: absolute;
+		right: -1px;
+		top: 20px;
 	}
 	
 	/*Opções no meio da div Amarela Movel*/
@@ -951,6 +891,162 @@ div#musicas img{
 	
 	div#amarela{
 		height: 760px;
+	}
+	
+}
+
+@media all and (min-width: 0px) and (max-width:459px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:9.5pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		display: none;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: 65px;
+		height: 40%;
+		width: 40%;
+		margin-top: 10px;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: 65px;
+		height: 40%;
+		width: 32%;
+		top: 110px;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -190px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -190px;
+	}
+	
+	.imgSeparador{
+		display: none;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 6%;
+		width: 395px;	
+		margin-top: -500px;
+	}
+	
+	div#amarela-trsp{
+		display: none;
+	}
+	
+	div#amarela-trsp-movel{
+		display: none;
+	}
+	
+	img#imgAcessoRapido{
+   		display:none;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		position: absolute;
+		right: -1px;
+		top: 20px;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-super-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 17%;
+	}
+	
+	div#Cl1_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+	}
+	
+	a.link-item_amarela-trsp_up-super-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		top: 220px;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_down-super-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		bottom: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-super-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 17%;
+	}
+	
+	div#Cl1_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+	}
+		
+	a.link-item_amarela-trsp_up{
+		top: 10px;
+	}
+		
+	.h1, .h2, .h3, h1, h2, h3{
+		margin-top:10px;
+	}
+	
+	div#amarela{
+		height: 1350px;
+	}
+	
+	div#coluna1{
+		width: 177px;
+		height: 477px!important;
+		margin-left: 23%;
+	}
+	
+	div#coluna2{
+		width: 177px;
+		height: 477px !important;
+		margin-left: -48%;
+		margin-top: 487px;
+	}
+	
+	div#amarela div.acessoRapido div.botoes{
+		position: relative;
+		display: flex;
+		margin-left: 25px;
+		margin-top: 95px;
+		width: 370px;
+		height: 1000px;
 	}
 	
 }

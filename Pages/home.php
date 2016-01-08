@@ -136,6 +136,7 @@
 
     <div class="acessoRapido">
         <img src="Images/acesso_rapido.png" id="imgAcessoRapido">
+        <img src="Images/acesso_rapido-super-movel.png" id="imgAcessoRapido-super-movel">
         <div class="botoes">
             <div id="coluna1">
                 <a href="#" class="botao">
