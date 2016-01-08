@@ -22,6 +22,7 @@
 
 <div id="amarela">
 	
+    <!--Amarela TRSP - FULL SCREEN-->
     <div id="amarela-trsp">
         <div id="Cl1_amarela-trsp">
             <a id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
@@ -39,6 +40,7 @@
                 </div>
             </a>
         </div>
+        
         <div id="separador">
             <img class="imgSeparador" src="Images/LinhaSeparadora.png" width="100%"
                 height="100%"/>
@@ -61,6 +63,7 @@
         </div>
     </div>
     
+    <!--Amarela TRSP - MOVEL SCREEN-->
     <div id="amarela-trsp-movel">
         <div id="Cl1_amarela-trsp">
             <a id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
@@ -71,16 +74,16 @@
             </a>
             <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
                 <div class="item_amarela-trsp-movel">
-                    <img src="Images/icon-present-movel.png" class="icon_trs-movelp"/>
+                    <img src="Images/icon-present-movel.png" class="icon_trs-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS</h1>
                 </div>
             </a>
         </div>
+        
 		<div id="separador">
             <img class="imgSeparador" src="Images/LinhaSeparadora.png" width="100%"
                 height="100%"/>
         </div>
-
 
         <div id="Cl2_amarela-trsp-movel">
             <a href="corbetura" id="link-item_amarela-trsp3" class="link-item_amarela-trsp_up">
@@ -97,7 +100,39 @@
             </a>
         </div>
     </div>
-
+    
+    <!--Amarela TRSP - SUPER MOVEL SCREEN SCREEN-->
+    <div id="amarela-trsp-super-movel">
+        <div id="Cl1_amarela-trsp">
+            <a id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
+                <div class="item_amarela-trsp-super-movel">
+                    <img src="Images/icon-checked-super-movel.png" class="icon_trsp-super-movel"/>
+                    <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
+                </div>
+            </a>
+            <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
+                <div class="item_amarela-trsp-super-movel">
+                    <img src="Images/icon-present-super-movel.png" class="icon_trs-super-movel"/>
+                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS</h1>
+                </div>
+            </a>
+        </div>
+        
+        <div id="Cl2_amarela-trsp-super-movel">
+            <a href="corbetura" id="link-item_amarela-trsp3" class="link-item_amarela-trsp_up">
+                <div class="item_amarela-trsp-movel">
+                    <img src="Images/icon-local-super-movel.png" class="icon_trsp-super-movel"/>
+                    <h1 class="titulo_link-item_amarela-trsp">NOSSA<br/>COBERTURA</h1>
+                </div>
+            </a>
+            <a href="contato" id="link-item_amarela-trsp4" class="link-item_amarela-trsp_down">
+                <div class="item_amarela-trsp-super-movel">
+                    <img src="Images/icon-talk-super-movel.png" class="icon_trsp-super-movel"/>
+                    <h1 class="titulo_link-item_amarela-trsp">FALE CONOSCO</h1>
+                </div>
+            </a>
+        </div>
+    </div>
 
     <div class="acessoRapido">
         <img src="Images/acesso_rapido.png" id="imgAcessoRapido">
