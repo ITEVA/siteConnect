@@ -54,7 +54,6 @@ img#tablet{
     z-index: 9999;
     margin: -27% 1% 2% 59%;
     width: 23%;
-    cursor: pointer;
 }
 
 img#tablet2{
@@ -63,7 +62,6 @@ img#tablet2{
     position: relative;
     float: none;
     margin: 0 auto;
-    cursor: pointer;
 
 }
 
@@ -167,7 +165,140 @@ div#atendimentos{
 
 }
 
+div#mapa{
+    height: 510px;
+    position: relative;
+    width: 17.5%;
+    float: right;
+    border:0;
+    right: 20.9%;
+    margin-top: -28%;
+
+}
+
+iframe#mapa{
+    width: 100%;
+    height: 510px;
+    margin-top: 21%;
+}
+
+img#tabletsm{
+    display: none;
+    z-index: 9999;
+    margin: -27% 1% 2% 59%;
+    width: 23%;
+}
+
 /*MEDIA'S QUERIES*/
+
+@media all and (max-width: 1900px){
+    iframe#mapa{
+        height: 490px;
+    }
+
+    div#mapa{
+        height: 490px;
+    }
+}
+
+@media all and (max-width: 1840px){
+    iframe#mapa{
+        height: 480px;
+    }
+    div#mapa{
+        height: 480px;
+    }
+}
+
+@media all and (max-width: 1790px){
+    iframe#mapa{
+        height: 460px;
+    }
+    div#mapa{
+        height: 460px;
+    }
+}
+
+@media all and (max-width: 1700px){
+    iframe#mapa{
+        height: 440px;
+    }
+    div#mapa{
+        height: 440px;
+    }
+}
+
+@media all and (max-width: 1650px){
+    iframe#mapa{
+        height: 420px;
+    }
+    div#mapa{
+        height: 420px;
+    }
+}
+
+@media all and (max-width: 1550px){
+    iframe#mapa{
+        height: 400px;
+    }
+    div#mapa{
+        height: 400px;
+    }
+}
+
+@media all and (max-width: 1500px){
+    iframe#mapa{
+        height: 385px;
+    }
+    div#mapa{
+        height: 385px;
+    }
+}
+
+@media all and (max-width: 1450px){
+    iframe#mapa{
+        height: 375px;
+    }
+    div#mapa{
+        height: 375px;
+    }
+}
+
+@media all and (max-width: 1400px){
+    iframe#mapa{
+        height: 355px;
+    }
+    div#mapa{
+        height: 355px;
+    }
+}
+
+@media all and (max-width: 1300px){
+    iframe#mapa{
+        height: 335px;
+    }
+    div#mapa{
+        height: 335px;
+    }
+}
+
+@media all and (max-width: 1200px){
+    iframe#mapa{
+        display: none;
+    }
+    div#mapa{
+        display: none;
+    }
+
+    img#tablet{
+        display: none;
+    }
+
+    img#tabletsm{
+        display: block;
+    }
+}
+
 @media all and (max-width:1300px ){
     div.contato{
         margin-left: -15%;
@@ -192,7 +323,7 @@ div#atendimentos{
     }
 
     div#atendimentos{
-        margin-top: -19%;
+        margin-top: -12.5%;
     }
 }
 
@@ -201,8 +332,14 @@ div#atendimentos{
         display: none;
     }
 
+    img#tabletsm{
+        display: none;
+    }
+
     img#tablet2{
         display: block;
+        position: relative;
+        top: -20%;
     }
 
     img#retangulo{
@@ -215,12 +352,32 @@ div#atendimentos{
         float: none;
         width: 80%;
         margin-top: -98%;
-        margin-bottom: 5%;
+        margin-bottom: -10%;
         right: 20%;
     }
 
     img#bg-baixoContato{
         height: 650px;
+
+    }
+
+    iframe#mapa{
+        display: block;
+        height: 290px;
+        position: relative;
+        z-index: 99999;
+        width: 81.6%;
+        left: -1%;
+        margin: 63% 20% 1% auto;
+    }
+
+    div#mapa{
+        display: block;
+        height: 290px;
+        position: relative;
+        z-index: 99999;
+        width: 81.5%;
+        left: -1%;
     }
 
     div#atendimentos{
@@ -233,6 +390,36 @@ div#atendimentos{
 
     div#atendimento2{
         margin-left: 10%;
+    }
+}
+
+@media all and (max-width: 630px){
+    iframe#mapa{
+        height: 270px;
+    }
+
+    div#mapa{
+        height: 270px;
+    }
+}
+
+@media all and (max-width: 600px){
+    iframe#mapa{
+        height: 255px;
+    }
+
+    div#mapa{
+        height: 255px;
+    }
+}
+
+@media all and (max-width: 560px){
+    iframe#mapa{
+        height: 240px;
+    }
+
+    div#mapa{
+        height: 240px;
     }
 }
 
@@ -254,6 +441,24 @@ div#atendimentos{
 @media all and (max-width: 500px){
     img#bg-baixoContato{
         height: 480px;
+    }
+
+    iframe#mapa{
+        height: 215px;
+    }
+
+    div#mapa{
+        height: 215px;
+    }
+}
+
+@media all and (max-width: 480px){
+    iframe#mapa{
+        height: 205px;
+    }
+
+    div#mapa{
+        height: 205px;
     }
 }
 
@@ -277,6 +482,19 @@ div#atendimentos{
     div#atendimentos{
         margin: 3% 22% auto;
     }
+    iframe#mapa{
+        display: none;
+    }
+
+    div#mapa{
+        display: none;
+    }
+
+    img#tablet2{
+        margin-top: 15%;
+        cursor: pointer;
+    }
+
 }
 
 @media all and (max-width: 400px){
