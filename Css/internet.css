@@ -6,14 +6,74 @@ img#imagemInternet{
     position: relative;
 }
 
-img#imagemInternet2{
-	max-width: 25%;
+div#imagemInternet2{
+	width: 429px;
+	position: absolute;
+	margin-left: 70%;
+	bottom:-32px;
+}
+
+p#t1{
+	color: #f0ad4e;
+	margin-top: 20px;
+	position: relative;
+	margin-left: 34%;
+}
+
+p#t2{
+	color:#ffbb00;
+	font-size: 20pt;
+	font-weight: 600;
+}
+
+p#t3, p#t4{
+	font-weight: 600;
+	font-size: 13pt;
+	padding-bottom: 5px;
+	color:#000a59;
+}
+
+p#txt1{
+	color: white;
+	position: relative;
+	bottom:10px;
+}
+p#txt2{padding-bottom: 10px;}
+
+div#bloco_principal{
+	width: 100%;
+	height: 303px;
+}
+
+div#bloco_texto1{
+	background-image: url("../Images/bg_internet.png");        
+    background-repeat: no-repeat;      
+    position: relative;   
+    top: 130px;     
     width: 100%;
-    min-height: auto;
-    background-repeat: no-repeat;
-    position: absolute;
-    left:1015px;
-    bottom: 0px;
+    height: 190px;
+    padding-top:10px;
+    padding-bottom: 10px;               
+}
+
+div#bloco_secundario{
+	width: 670px;
+	position: relative;
+	margin: 0 auto;
+}
+
+div#textos1{width: 460px;}
+
+div#bloco_texto2{
+	position: relative;
+	top:15px;
+	margin-bottom: 50px;
+}
+
+div#textos2{
+	width: 670px;
+	position: relative;
+	margin: 0 auto;
 }
 
 div.div1{
@@ -21,31 +81,69 @@ div.div1{
 	margin: 0;
 }
 
-p#t1{
-	color: #f0ad4e;
-	margin-top: 20px;
-	margin-bottom: 110px;
+button#planos{
+	border: none;
+	float: right;
+	margin-right: 30px;
 	position: relative;
-	margin-left: 34%;
+	height: 20px;
+	width: 180px;
+	background-color: #ffb000;
+	border-radius: 10px;
 }
 
-p#t2{
-	color:#ffbb00;
+button#planos a{text-decoration: none;color:white;}
+
+@media screen and (max-width:1170px){
+	img#imagemInternet2{
+		width: 100%;
+		top:0px;
+		position: relative;
+		margin-left: 15px;
+	}
+	div#imagemInternet2{
+		width: 294px;
+		height:209px;
+	}
+}
+@media screen and (max-width:930px){
+	img#imagemInternet2{
+		display: none;
+	}
+	div#imagemInternet2{
+		display: none;
+	} 
+}
+@media screen and (max-width:700px){
+	div#textos1{width: 90%;}
+	div#textos2{width: 95%;}
+	div#bloco_secundario{width: 95%;}
+}
+@media screen and (max-width:690px){
+	div#bloco_texto1{
+		height: 140px;
+		background-size: 100% 100%;
+		position: relative;
+		top:100px;
+	}
+}
+@media screen and (max-width:550px){
+	div#bloco_texto1{
+		height: 170px;
+		background-size: 100% 100%;
+		position: relative;
+		top:100px;
+	}
+}
+@media screen and (max-width:375px){
+	div#bloco_texto1{
+		height: 200px;
+		background-size: 100% 100%;
+		position: relative;
+		top:100px;
+	}
+}
+@media screen and (max-width:330px){
+	button#planos{float: left;}
 }
 
-p#txt1{
-	color: red;
-}
-
-div#bloco_texto1{
-	background-image: url("../Images/bg_internet.png");        
-    background-repeat: no-repeat;        
-    position: relative;        
-    width: 100%;                
-}
-
-div#bloco_texto2{
-	position: relative;
-	border: 1px solid black;
-	width:100%;
-}
