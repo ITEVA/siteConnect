@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+.titulo_link-item_amarela-trsp{
+	color:#FFFFFF;
+}
+
+.conteudo_link-item_amarela-trsp{
+	color:#FFFFFF;
+}
+
+h1,p {
+	color: #00285b;
+}
+
 
 /*
     div amarela
@@ -1188,13 +1200,13 @@ div#musicas img{
 	
 	div#game{
 		position:absolute;
-		margin-left: 60px;
+		margin-left: 56px;
 	}
 	
 	div#musicas{
 		margin-top: 300px;
 		position:absolute;
-		margin-left: 32px;
+		margin-left: 24px;
 	}
 	
 	div#podLheAjud{
@@ -1206,13 +1218,13 @@ div#musicas img{
 	}
 		
 	#image_duvidas1{
-		margin-left: 18%;
+		margin-left: 11%;
 		margin-top: 12%;
 		width: 350px;
 	}
 	
 	#image_duvidas2{
-		margin-left: 18%;
+		margin-left: 11%;
 		margin-top: 12%;
 		width: 350px;
 	}
@@ -1388,6 +1400,66 @@ div#musicas img{
 		height: 80%;
 	}
 	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-top: 0;
+		margin-left: -50px;
+	}
+	
+	div#dispositivos{
+		margin-top: 270px;
+		position:absolute;
+		margin-left: -70px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: -58px;
+		margin-top: 570px;
+	}
+	
+	div#musicas{
+		margin-top: 830px;
+		position:absolute;
+		margin-left: -78px;
+	}
+	
+	div#podLheAjud{
+		height: 750px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 10%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	
+	#image_duvidas2{
+		margin-left: 10%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	
+	div#muitoPVc{
+		height: 1380px;
+	}
+	
+	div#musicas img{
+		margin-top: 3px;
+	}
+	
 }
 
 @media all and (min-width: 0px) and (max-width:382px) {
@@ -1428,7 +1500,7 @@ div#musicas img{
 	
 	div#amarela div.acessoRapido{
 		left: 6%;
-		width: 265px;	
+		width: 280px;	
 		margin-top: -500px;
 	}
 	
@@ -1527,13 +1599,13 @@ div#musicas img{
 	div#coluna1{
 		width: 177px;
 		height: 477px!important;
-		margin-left: 12%;
+		margin-left: 13%;
 	}
 	
 	div#coluna2{
 		width: 177px;
 		height: 477px !important;
-		margin-left: -71%;
+		margin-left: -70%;
 		margin-top: 487px;
 	}
 	
@@ -1554,7 +1626,69 @@ div#musicas img{
 	
 	div#amarela div.acessoRapido div.botoes a.botao h3{
 		width: 120px;
-		
 	}
+	
+		div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-top: 0;
+		margin-left: -50px;
+	}
+	
+	div#dispositivos{
+		margin-top: 270px;
+		position:absolute;
+		margin-left: -70px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: -58px;
+		margin-top: 570px;
+	}
+	
+	div#musicas{
+		margin-top: 830px;
+		position:absolute;
+		margin-left: -78px;
+	}
+	
+	div#podLheAjud{
+		height: 650px;
+	}
+	
+	h1#h1podLheAjud{
+		margin-left: -17%;
+		font-size: 20px;
+	}
+		
+	h1#h1MuitoPVc{
+		margin-left: -17%;
+		font-size: 20px;
+	}
+		
+	#image_duvidas1{
+		margin-left: 4%;
+		margin-top: 23%;
+		width: 280px;
+	}
+	
+	#image_duvidas2{
+		margin-left: 4%;
+		margin-top: 20%;
+		width: 280px;
+	}
+	
+	div#muitoPVc{
+		height: 1380px;
+	}
+	
+	div#musicas img{
+		margin-top: 3px;
+	}
+
 	
 }
