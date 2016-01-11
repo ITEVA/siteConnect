@@ -445,85 +445,85 @@ a.contrato:hover{
 	}
 
 	@media all and (max-width: 450px) {
-		img.oferta {
-			width: 70px;
-			height: 70px;
-		}
+            img.oferta {
+                    width: 70px;
+                    height: 70px;
+            }
 
-		div.preco {
-			height: 30px;
-		}
+            div.preco {
+                    height: 30px;
+            }
 
-		div.contrate {
-			height: 30px;
-		}
+            div.contrate {
+                    height: 30px;
+            }
 
-		div.conteudo2 {
-			margin-top: -95%;
-		}
+            div.conteudo2 {
+                    margin-top: -95%;
+            }
 
-		div.div2 {
-			height: 410px;
-		}
+            div.div2 {
+                    height: 410px;
+            }
 
-		div.boxInformacao {
-			width: 100%;
-		}
+            div.boxInformacao {
+                    width: 100%;
+            }
 
-		img#imagemPrincipal {
-			display: none;
-		}
+            img#imagemPrincipal {
+                    display: none;
+            }
 
-		img#imagemPrincipal2 {
-			display: block;
-		}
+            img#imagemPrincipal2 {
+                    display: block;
+            }
 
-		img#divisao2 {
-			margin-top: 95%;
-		}
+            img#divisao2 {
+                    margin-top: 95%;
+            }
 
-		img#divisao {
-			margin-top: -2%;
-			margin-bottom: 4%;
-		}
+            img#divisao {
+                    margin-top: -2%;
+                    margin-bottom: 4%;
+            }
 
-		div.conteudo3 {
-			margin-top: 130%;
-		}
+            div.conteudo3 {
+                    margin-top: 130%;
+            }
 
-		div.linha1{
-			left: 5%;
-		}
+            div.linha1{
+                    left: 5%;
+            }
 
-		div.linha2{
-			left: 49%;
-		}
+            div.linha2{
+                    left: 49%;
+            }
 	}
 
 	@media all and (max-width: 390px) {
-		div.conteudo3 {
-			margin-top: 140%;
-		}
+            div.conteudo3 {
+                    margin-top: 140%;
+            }
 
-		img#divisao2 {
-			margin-top: 100%;
-			margin-left: -100%;
-			width: 330%;
-		}
+            img#divisao2 {
+                    margin-top: 100%;
+                    margin-left: -100%;
+                    width: 330%;
+            }
 
-		img#divisao {
-			width: 97%;
-		}
-		div.div2{
-			height: 390px;
-		}
-		div.linha1{
-			left: 4%;
-		}
+            img#divisao {
+                    width: 97%;
+            }
+            div.div2{
+                    height: 390px;
+            }
+            div.linha1{
+                    left: 4%;
+            }
 
-		div.linha2{
-			left: 48%;
-		}
+            div.linha2{
+                    left: 48%;
+            }
 	}
 
 }

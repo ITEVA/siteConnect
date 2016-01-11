@@ -4,11 +4,11 @@
 <img id="imagemContato2" src="Images/imagemContato2.png">
 <div class="contato">
     <div class="col-lg-12 formulario">
-        <p id="text1"><?php echo utf8_encode("InÌcio")?>/Contato</p>
+        <p id="text1"><?php echo utf8_encode("InÔøΩcio")?>/Contato</p>
         <div id="boxContato">
             <p id="text2">FALE COM A CONNECT</p>
-            <p id="text3">Utilize este canal para pedir <?php echo utf8_encode("informaÁıes")?>, esclarecer <?php echo utf8_encode("d˙vidas")?>, dar <?php echo utf8_encode("sugestıes")?> e fazer <?php echo utf8_encode("solicitaÁıes")?> de atendimento.<br>
-                          Informe seu e-mail: ele <?php echo utf8_encode("ser·")?> nosso meio de contato com <?php echo utf8_encode("vocÍ")?>.
+            <p id="text3">Utilize este canal para pedir informa√ß√µes, esclarecer d√∫vidas, dar sugest√µes e fazer solicita√ß√µes de atendimento.<br>
+                          Informe seu e-mail: ele ser√° nosso meio de contato com voc√™.
             </p>
             <form method="post">
                 <div class="container-fluid col-md-6">

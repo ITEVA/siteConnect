@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+img#imagemPrincipal{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img#imagemPrincipal2{
+    display: none;
+    width: 100%;
+}
+
+p#t1{
+	color: #f0ad4e;
+}
+p#t2{
+    font-size: 18px;
+    color: #265a88;
+    font-weight: bold;
+}
+
+div#textos{
+    margin: 2% 30%;
+}
+
+div.tabela{
+    width: 40%;
+    border-radius: 10px;
+}
+
+h3.titulo{
+    font-weight: bold;
+    color: #fff;
+    margin: 0 auto;
+    margin-left: 15%;
+}
+
+div.tabela > .head{
+    background: #00235C;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;   
+}
+
+div.panel-body{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background: #B4B4B4;
+    color:#00235C;
+    cursor: pointer;
+}
+
+hr.linha{
+    margin: 0;
+    padding: 0;
+    border: 1px solid #6F6F6F;
+}
+
+div.ultimo{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 4px solid #999797;
+}
+
+div#localizacao{
+    display: inline-flex;
+}
+
+img#mapa2{
+    width: 50%;
+    height: 50%;
+    margin-left: 5%;
+}
+
+#luciano, #jardim, #tasso, #tancredo, #salinas, #boaV, #diasM, #alto, #aerolandia,#joao, #guarapes{
+    display: none;
+}
+
+/*div.lugar1:hover{
+    #mapa2{
+        display: none;
+    }
+    
+    #luciano{
+        display: block;
+    }
+}
+
+/*MEDIA QUERIE'S*/
+
+@media all and (max-width: 1749px){
+	div#textos{
+		width: 70%;
+	}
+}
+
+@media all and (max-width: 1500px){
+	div#textos{
+		width: 60%;
+		margin: 2% 25%;
+	}
+}
+
+@media all and (max-width: 1300px){
+	div#textos{
+		margin: 2% 20%;
+	}
+}
+
+@media all and (max-width: 1181px){
+	div#textos{
+		width: 75%;
+		margin: 2% 15%;
+	}
+}
+
+@media all and (max-width: 954px){
+	div#textos{
+		width: 80%;
+	}
+}
+
+@media all and (max-width: 898px){
+	div#textos{
+		width: 70%;
+	}
+}
