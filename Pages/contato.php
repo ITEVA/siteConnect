@@ -7,8 +7,8 @@
         <p id="text1"><?php echo utf8_encode("Início")?>/Contato</p>
         <div id="boxContato">
             <p id="text2">FALE COM A CONNECT</p>
-            <p id="text3">Utilize este canal para pedir <?php echo utf8_encode("informações")?>, esclarecer <?php echo utf8_encode("dúvidas")?>, dar <?php echo utf8_encode("sugestões")?> e fazer <?php echo utf8_encode("solicitaões")?> de atendimento.<br>
-                          informe seu e-mail: ele <?php echo utf8_encode("será")?> nosso meio de contato com <?php echo utf8_encode("você")?>.
+            <p id="text3">Utilize este canal para pedir <?php echo utf8_encode("informações")?>, esclarecer <?php echo utf8_encode("dúvidas")?>, dar <?php echo utf8_encode("sugestões")?> e fazer <?php echo utf8_encode("solicitações")?> de atendimento.<br>
+                          Informe seu e-mail: ele <?php echo utf8_encode("será")?> nosso meio de contato com <?php echo utf8_encode("você")?>.
             </p>
             <form method="post">
                 <div class="container-fluid col-md-6">

@@ -8,6 +8,10 @@ body{
 
 /*IMAGENS*/
 
+img#divisao2{
+	display: none;
+}
+
 img#imagemPrincipal{
 	width: 100%;
 	margin: 0;
@@ -37,6 +41,10 @@ img#imagemPrincipal2{
 
 /*DIV'S*/
 
+div.box2{
+	display: none;
+}
+
 div.row{
 	width:100%;
 	padding-top:5px;
@@ -57,6 +65,12 @@ div.contrate{
 	height:35px;
 }
 
+div.linha1{
+	width:50%;
+	display:inline-flex;
+	position: absolute;
+}
+
 div.linha2{
 	position: absolute;
 	left: 44%;
@@ -70,6 +84,7 @@ div.linha3 {
 	width: 22%;
 	display:inline-flex
 }
+
 
 div#textos{
 	margin: 2% 30%;
@@ -90,7 +105,7 @@ div.div3{
 div.conteudo{
 	display: inline-flex;
 	width: 30%;
-	margin: 1.3% 32%
+	margin: 1.5% 32%
 }
 
 
@@ -130,16 +145,10 @@ a.contrato:hover{
 	color: #fff;
 }
 
-
-div.linha1{
-	width:58%;
-	display:inline-flex;
-	position: absolute;
-}
-
 .col-xs-8{
-	display: none;
-}
+	 display: none;
+ }
+
 
 
 /*MEDIA QUERIES*/
@@ -293,7 +302,7 @@ div.linha1{
 
 	img#divisao{
 		width: 73.5%;
-		left: 0%;
+		left: 0;
 	}
 }
 
@@ -317,7 +326,7 @@ div.linha1{
 	}
 
 	div.linha3{
-		left: 64%;
+		left: 63%;
 	}
 
 	img#divisao{
@@ -326,111 +335,195 @@ div.linha1{
 }
 
 @media all and (max-width: 640px){
-	img.oferta{
-		width: 60px;
-		height: 60px;
+
+	div.div2{
+		height: 450px;
 	}
 
-	div.preco{
-		height: 24px;
+	div.box1{
+		display: none;
 	}
 
-	div.contrate{
-		height: 24px;
-	}
-
-	p.valor, .contratar{
-		font-size: 8pt;
-	}
-
-	div.linha2{
-		left: 35%;
-	}
-
-	div.linha3{
-		left: 62%;
+	div.box2{
+		display: block;
 	}
 
 	img#divisao{
-		width: 84%;
-		left: -1%;
+		width: 65%;
 	}
 
-	div.div2{
-		height: 270px;
+	img#divisao2{
+		display: block;
+		width: 215%;
+		height: 3px;
+		margin-top:65%;
+		margin-left: -45%;
 	}
 
 	div.boxInformacao{
 		width: 60%;
 	}
-}
 
-@media all and (max-width: 525px){
-	div.preco, .contrate{
-		width: 85%;
+	div.conteudo3{
+		margin-top: 90%;
 	}
 
 	div.linha1{
-		left: 4%;
+		left: 20%;
 	}
 
 	div.linha2{
-		left: 34%;
+		left: 50%;
+		width: 50%;
 	}
 
-	div.linha3{
-		left: 64%;
+	div.row{
+		width: 60%;
+	}
+
+
+}
+
+@media all and (max-width: 580px){
+	div.linha1{
+		left: 10%;
+	}
+
+	div.conteudo3{
+		margin-top: 100%;
+	}
+
+	div.row{
+		width: 83%;
 	}
 
 	img#divisao{
-		width: 94%;
+		width: 80%;
 	}
 
-	div.boxInformacao{
-		width: 70%;
+	img#divisao2{
+		width: 275%;
+		margin-left: -80%;
+		margin-top: 68%;
 	}
 }
 
-@media all and (max-width: 450px){
-	img.oferta{
-		width: 50px;
-		height: 50px;
+@media all and (max-width: 525px) {
+	div.preco, .contrate {
+		width: 90%;
 	}
 
-	div.preco{
-		height: 20px;
+	img#divisao {
+		width: 94%;
 	}
 
-	div.contrate{
-		height: 20px;
+	div.boxInformacao {
+		width: 70%;
 	}
 
-	p.valor, .contratar{
-		font-size: 7pt;
+	img#divisao {
+		width: 93%;
+		left: 1%;
 	}
 
-	img#divisao{
-		top: -4%;
+	img#divisao2 {
+		width: 310%;
+		margin-top: 80%;
+		margin-left: -92%;
 	}
 
-	div.conteudo2{
-		margin-top: -40%;
+	div.conteudo3 {
+		margin-top: 110%;
 	}
 
-	div.div2{
-		height: 245px;
+	div.linha1 {
+		left: 5%;
 	}
 
-	div.boxInformacao{
-		width: 100%;
+	div.linha2 {
+		left: 49%;
 	}
 
-	img#imagemPrincipal{
-		display: none;
+	@media all and (max-width: 450px) {
+		img.oferta {
+			width: 70px;
+			height: 70px;
+		}
+
+		div.preco {
+			height: 30px;
+		}
+
+		div.contrate {
+			height: 30px;
+		}
+
+		div.conteudo2 {
+			margin-top: -95%;
+		}
+
+		div.div2 {
+			height: 410px;
+		}
+
+		div.boxInformacao {
+			width: 100%;
+		}
+
+		img#imagemPrincipal {
+			display: none;
+		}
+
+		img#imagemPrincipal2 {
+			display: block;
+		}
+
+		img#divisao2 {
+			margin-top: 95%;
+		}
+
+		img#divisao {
+			margin-top: -2%;
+			margin-bottom: 4%;
+		}
+
+		div.conteudo3 {
+			margin-top: 130%;
+		}
+
+		div.linha1{
+			left: 5%;
+		}
+
+		div.linha2{
+			left: 49%;
+		}
 	}
 
-	img#imagemPrincipal2{
-		display: block;
+	@media all and (max-width: 390px) {
+		div.conteudo3 {
+			margin-top: 140%;
+		}
+
+		img#divisao2 {
+			margin-top: 100%;
+			margin-left: -100%;
+			width: 330%;
+		}
+
+		img#divisao {
+			width: 97%;
+		}
+		div.div2{
+			height: 390px;
+		}
+		div.linha1{
+			left: 4%;
+		}
+
+		div.linha2{
+			left: 48%;
+		}
 	}
 
 }
