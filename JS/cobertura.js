@@ -6,10 +6,10 @@ $(document).ready(function(){
         $("#mapa2").attr("src","Images/2_jardim.png");    
     });
     $("div.lugar3").hover(function(){
-        $("#mapa2").attr("src","Images/3_tasso.png");    
+        $("#mapa2").attr("src","Images/3_tancredo.png");    
     });
     $("div.lugar4").hover(function(){
-        $("#mapa2").attr("src","Images/4_tancredo.png");    
+        $("#mapa2").attr("src","Images/4_tasso.png");    
     });
     $("div.lugar5").hover(function(){
         $("#mapa2").attr("src","Images/5_salinas.png");    

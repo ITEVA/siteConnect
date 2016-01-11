@@ -27,8 +27,8 @@
             <div class="panel-body lugar2">
                   Jardim das Oliveiras
             </div>
-                <hr class="linha lugar3">
-            <div class="panel-body">
+                <hr class="linha">
+            <div class="panel-body lugar3">
                   Tasso Jereissate
             </div>
                 <hr class="linha">
