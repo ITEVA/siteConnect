@@ -1,3 +1,12 @@
+<script>
+	jQuery(document).ready(function($){
+		$(".scroll").click(function(event){
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},800);
+		});
+	});
+</script>
+
 <!--Conteúdo-->
 <div class="box">
     <span class="pager"></span>
@@ -12,8 +21,8 @@
                     <div class="carousel-inner">
                     	<!--Nav Slider-->
                         <div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide1.png" alt="Slider 1"/></a></div>
-                        <div class="item" id="slider"><a href="#muitoPVc"><img src="Images/img-slide2.png" alt="Slide 2"/></a></div>
-                        <div class="item" id="slider"><a href="#podLheAjud"><img src="Images/img-slide3.png" alt="Slide 3"/></a></div>
+                        <div class="item" id="slider"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide2.png" alt="Slide 2"/></a></div>
+                        <div class="item" id="slider"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide3.png" alt="Slide 3"/></a></div>
                     </div>
                 </div>
             </section>

@@ -1049,4 +1049,10 @@ div#musicas img{
 		height: 1000px;
 	}
 	
+	/*Acesso Rapido*/
+	div#amarela div.acessoRapido{
+		background: #808080 url("../Images/fundoGrid.gif") no-repeat scroll 0% 100% ;
+	}
+
+	
 }
