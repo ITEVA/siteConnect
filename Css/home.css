@@ -302,6 +302,7 @@ div#musicas{
     position: relative;
     width: 260px;
     left: 36%;
+	top: 8px;
     text-align: center;
 }
 
@@ -325,6 +326,7 @@ div#musicas img{
 	}
 	
 }
+
 @media all and (min-width: 1170px) and (max-width:1460px) {
 	
 	h1.titulo_link-item_amarela-trsp{
@@ -358,6 +360,27 @@ div#musicas img{
 	img#imgAcessoRapido-super-movel{
 		display:none;
 	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: -305px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 11%;
+	}
+	
+	h1#h1podLheAjud{
+		left: 11%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 13%;
+	}
+	
+	#image_duvidas2{
+		margin-left: 13%;
+	}
+
 }
 
 @media all and (min-width: 980px) and (max-width:1169px) {
@@ -405,6 +428,52 @@ div#musicas img{
 	img#imgAcessoRapido-super-movel{
 		display:none;
 	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -120px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -163px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 260px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 200px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 9%;
+	}
+	
+	#image_duvidas2{
+		margin-left: 9%;
+	}
+	div#muitoPVc{
+		height: 780px;
+	}
+
 }
 
 @media all and (min-width: 910px) and (max-width:980px) {
@@ -452,6 +521,54 @@ div#musicas img{
 	img#imgAcessoRapido-super-movel{
 		display:none;
 	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -120px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -163px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 260px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 200px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 11%;
+		width: 35%;
+	}
+	
+	#image_duvidas2{
+		margin-left: 11%;
+		width: 33%;
+	}
+	div#muitoPVc{
+		height: 780px;
+	}
+	
 }
 
 @media all and (min-width: 800px) and (max-width:909px) {
@@ -551,6 +668,54 @@ div#musicas img{
 	.h1, .h2, .h3, h1, h2, h3{
 		margin-top:10px;
 	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -120px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -163px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 260px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 200px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 11%;
+		width: 35%;
+	}
+	
+	#image_duvidas2{
+		margin-left: 11%;
+		width: 33%;
+	}
+	div#muitoPVc{
+		height: 780px;
+	}
+	
 }
 
 @media all and (min-width: 650px) and (max-width:799px) {
@@ -564,24 +729,24 @@ div#musicas img{
 	}
 	
 	a.link-item_amarela-trsp_up{
-		left: 0px;
+		left: 35px;
 		height: 40%;
 		width: 40%;
 	}
 	
 	a.link-item_amarela-trsp_down{
-		left: 250px;
+		left: 260px;
 		height: 40%;
 		width: 58%;
 		top: 10px;
 	}
 	
 	#link-item_amarela-trsp3{
-		margin-left: -160px;
+		margin-left: -40px;
 	}
 	
 	#link-item_amarela-trsp4{
-		margin-left: -160px;
+		margin-left: -35px;
 	}
 	
 	.imgSeparador{
@@ -609,7 +774,7 @@ div#musicas img{
 		position: relative;
 		display: flex;
 		height: 100%;
-		width: 650px;
+		width: 320px;
 		left: 17%;
 	}
 	
@@ -655,6 +820,54 @@ div#musicas img{
 	div#amarela{
 		height: 760px;
 	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -140px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -172px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 160px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 100px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 11%;
+		width: 35%;
+	}
+	
+	#image_duvidas2{
+		margin-left: 11%;
+		width: 33%;
+	}
+	div#muitoPVc{
+		height: 780px;
+	}
+	
 }
 
 
@@ -669,7 +882,7 @@ div#musicas img{
 	}
 	
 	a.link-item_amarela-trsp_up{
-		left: -50px;
+		left: -30px;
 		height: 40%;
 		width: 40%;
 	}
@@ -680,13 +893,13 @@ div#musicas img{
 		width: 58%;
 		top: 10px;
 	}
-	
+		
 	#link-item_amarela-trsp3{
-		margin-left: -160px;
+		margin-left: -35px;
 	}
 	
 	#link-item_amarela-trsp4{
-		margin-left: -160px;
+		margin-left: -40px;
 	}
 	
 	.imgSeparador{
@@ -714,7 +927,7 @@ div#musicas img{
 		position: relative;
 		display: flex;
 		height: 100%;
-		width: 650px;
+		width: 320px;
 		left: 17%;
 	}
 	
@@ -761,6 +974,59 @@ div#musicas img{
 		height: 760px;
 	}
 	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -160px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -192px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 98px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 60px;
+	}
+	
+	div#podLheAjud{
+		height: 750px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 18%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	
+	#image_duvidas2{
+		margin-left: 18%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	div#muitoPVc{
+		height: 780px;
+	}
+	
 }
 
 @media all and (min-width: 460px) and (max-width:549px) {
@@ -774,24 +1040,24 @@ div#musicas img{
 	}
 	
 	a.link-item_amarela-trsp_up{
-		left: -35px;
+		left: -50px;
 		height: 40%;
 		width: 40%;
 	}
 	
 	a.link-item_amarela-trsp_down{
-		left: 160px;
+		left: 250px;
 		height: 40%;
 		width: 32%;
 		top: 10px;
 	}
-	
+		
 	#link-item_amarela-trsp3{
-		margin-left: -200px;
+		margin-left: -50px;
 	}
 	
 	#link-item_amarela-trsp4{
-		margin-left: -180px;
+		margin-left: -240px;
 	}
 	
 	.imgSeparador{
@@ -866,8 +1132,8 @@ div#musicas img{
 		position: relative;
 		display: flex;
 		height: 100%;
-		width: 650px;
-		left: 17%;
+		width: 320px;
+		margin-left: 5%;
 	}
 	
 	div#Cl1_amarela-trsp-super-movel{
@@ -893,9 +1159,75 @@ div#musicas img{
 		height: 760px;
 	}
 	
+	div#amarela div.acessoRapido div.botoes{
+		width: 390px;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		width: 106%;
+	}
+	
+	div#opcoes_muitoPVc{
+		margin-left: 0px;
+	}
+	
+	h1#h1MuitoPVc{
+		left: 7%;
+	}
+	
+	div#tv{
+		position:absolute;
+		margin-left: -158px;
+	}
+	
+	div#dispositivos{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: -172px;
+	}
+	
+	div#game{
+		position:absolute;
+		margin-left: 60px;
+	}
+	
+	div#musicas{
+		margin-top: 300px;
+		position:absolute;
+		margin-left: 32px;
+	}
+	
+	div#podLheAjud{
+		height: 750px;
+	}
+	
+	h1#h1podLheAjud{
+		left: 7%;
+	}
+		
+	#image_duvidas1{
+		margin-left: 18%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	
+	#image_duvidas2{
+		margin-left: 18%;
+		margin-top: 12%;
+		width: 350px;
+	}
+	
+	div#muitoPVc{
+		height: 780px;
+	}
+	
+	div#musicas img{
+		margin-top: 3px;
+	}
+
 }
 
-@media all and (min-width: 0px) and (max-width:459px) {
+@media all and (min-width: 383px) and (max-width:459px) {
 	
 	h1.titulo_link-item_amarela-trsp{
 		font-size:9.5pt;
@@ -906,25 +1238,25 @@ div#musicas img{
 	}
 	
 	a.link-item_amarela-trsp_up{
-		left: 65px;
+		left: 42px;
 		height: 40%;
 		width: 40%;
 		margin-top: 10px;
 	}
 	
 	a.link-item_amarela-trsp_down{
-		left: 65px;
+		left: 42px;
 		height: 40%;
 		width: 32%;
-		top: 110px;
+		top: 120px;
 	}
 	
 	#link-item_amarela-trsp3{
-		margin-left: -190px;
+		margin-left: -50px;
 	}
 	
 	#link-item_amarela-trsp4{
-		margin-left: -190px;
+		margin-left: -50px;
 	}
 	
 	.imgSeparador{
@@ -933,7 +1265,7 @@ div#musicas img{
 	
 	div#amarela div.acessoRapido{
 		left: 6%;
-		width: 395px;	
+		width: 315px;	
 		margin-top: -500px;
 	}
 	
@@ -951,8 +1283,10 @@ div#musicas img{
 	
 	img#imgAcessoRapido-super-movel{
 		position: absolute;
-		right: -1px;
+		right: 0px;
 		top: 20px;
+		width: 105%;
+		
 	}
 	
 	/*Opções no meio da div Amarela Movel*/
@@ -1000,7 +1334,7 @@ div#musicas img{
 		position: relative;
 		display: flex;
 		height: 100%;
-		width: 650px;
+		width: 320px;
 		left: 17%;
 	}
 	
@@ -1030,13 +1364,13 @@ div#musicas img{
 	div#coluna1{
 		width: 177px;
 		height: 477px!important;
-		margin-left: 23%;
+		margin-left: 15%;
 	}
 	
 	div#coluna2{
 		width: 177px;
 		height: 477px !important;
-		margin-left: -48%;
+		margin-left: -55%;
 		margin-top: 487px;
 	}
 	
@@ -1045,14 +1379,182 @@ div#musicas img{
 		display: flex;
 		margin-left: 25px;
 		margin-top: 95px;
-		width: 370px;
-		height: 1000px;
+		width: 320px;
+		height: 0px;
+	}
+	
+	div#amarela div.acessoRapido{
+		background: #808080 url("../Images/fundoGrid-super-movel.gif") no-repeat scroll 0% 100%;
+		height: 80%;
+	}
+	
+}
+
+@media all and (min-width: 0px) and (max-width:382px) {
+	
+	h1.titulo_link-item_amarela-trsp{
+		font-size:9.5pt;
+	}
+	
+	p.conteudo_link-item_amarela-trsp{
+		display: none;
+	}
+	
+	a.link-item_amarela-trsp_up{
+		left: 70px;
+		height: 40%;
+		width: 40%;
+		margin-top: 10px;
+	}
+	
+	a.link-item_amarela-trsp_down{
+		left: 70px;
+		height: 40%;
+		width: 32%;
+		top: 120px;
+	}
+	
+	#link-item_amarela-trsp3{
+		margin-left: -40px;
+	}
+	
+	#link-item_amarela-trsp4{
+		margin-left: -40px;
+	}
+	
+	.imgSeparador{
+		display: none;
+	}
+	
+	div#amarela div.acessoRapido{
+		left: 6%;
+		width: 265px;	
+		margin-top: -500px;
+	}
+	
+	div#amarela-trsp{
+		display: none;
+	}
+	
+	div#amarela-trsp-movel{
+		display: none;
+	}
+	
+	img#imgAcessoRapido{
+   		display:none;
+	}
+	
+	img#imgAcessoRapido-super-movel{
+		position: absolute;
+		right: 0px;
+		top: 20px;
+		width: 105%;
+		
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-super-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 650px;
+		left: 17%;
+	}
+	
+	div#Cl1_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+	}
+	
+	a.link-item_amarela-trsp_up-super-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		top: 220px;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	a.link-item_amarela-trsp_down-super-movel{
+		position: absolute;
+		height: 40%;
+		width: 40%;
+		color: #ffffff;
+		bottom: 8%;
+		left: 5%;
+		cursor: pointer;
+	}
+	
+	/*Opções no meio da div Amarela Movel*/
+	div#amarela-trsp-super-movel{
+		position: relative;
+		display: flex;
+		height: 100%;
+		width: 310px;
+		left: 0%;
+	}
+	
+	div#Cl1_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+		width: 40%;	
+	}
+	
+	div#Cl2_amarela-trsp-super-movel{
+		position: relative;
+		height: 100%;
+	}
+		
+	a.link-item_amarela-trsp_up{
+		top: 10px;
+	}
+		
+	.h1, .h2, .h3, h1, h2, h3{
+		margin-top:10px;
+	}
+	
+	div#amarela{
+		height: 1350px;
+	}
+	
+	div#coluna1{
+		width: 177px;
+		height: 477px!important;
+		margin-left: 12%;
+	}
+	
+	div#coluna2{
+		width: 177px;
+		height: 477px !important;
+		margin-left: -71%;
+		margin-top: 487px;
+	}
+	
+	div#amarela div.acessoRapido div.botoes{
+		position: relative;
+		display: flex;
+		margin-left: 25px;
+		margin-top: 95px;
+		width: 250px;
+		height: 0px;
 	}
 	
 	/*Acesso Rapido*/
 	div#amarela div.acessoRapido{
-		background: #808080 url("../Images/fundoGrid.gif") no-repeat scroll 0% 100% ;
+		background: #808080 url("../Images/fundoGrid-super-movel.gif") no-repeat scroll 0% 100%;
+		height: 80%;
 	}
-
+	
+	div#amarela div.acessoRapido div.botoes a.botao h3{
+		width: 120px;
+		
+	}
 	
 }
