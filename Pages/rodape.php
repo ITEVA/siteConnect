@@ -1,4 +1,4 @@
-<img id="bg-baixo" src="Images/bg-baixo.png">
+<img id="bg-baixo" src="Images/bg-baixo.jpg">
 <div class="col-lg-4 boxInformacao">
     <div id="informacao">
         <h2 class="contato" style="">Fale com a gente</h2>

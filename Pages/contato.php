@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="Css/contato.css">
 
-<img id="imagemContato" src="Images/imagemContato.png">
-<img id="imagemContato2" src="Images/imagemContato2.png">
+<img id="imagemContato" src="Images/imagemContato.jpg">
+<img id="imagemContato2" src="Images/imagemContato2.jpg">
 <div class="contato">
     <div class="col-lg-12 formulario">
         <p id="text1"><?php echo utf8_encode("In�cio")?>/Contato</p>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="form-group">
                         <label class="control-label">*Mensagem</label>
-                        <textarea class="form-control" rows="7" type="text" placeholder="Mensagem" name="mensagem" required="required"></textarea>
+                        <textarea class="form-control" rows="7" type="text" placeholder="Mensagem" name="mensagem" required></textarea>
                     </div>
                     <div class="form-group">
                         <input class="btn btn-default" type="submit" text="Enviar" name="enviar" value="Enviar"/>
@@ -39,7 +39,7 @@
     </div>
 </div>
 <div class="boxTudo">
-    <img id="bg-baixoContato" src="Images/bg-baixoContato.png">
+    <img id="bg-baixoContato" src="Images/bg-baixoContato.jpg">
     <img id="retangulo" style="" src="Images/retangulo.png">
     <img id="retangulo2" src="Images/retangulo2.png">
     <div id="mapa">
@@ -62,4 +62,4 @@
 
 </div>
 
-<img id="bg-bc" src="Images/bg-pgContato.png">
+<img id="bg-bc" src="Images/bg-pgContato.jpg">
