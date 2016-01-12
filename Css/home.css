@@ -304,8 +304,8 @@ div#dispositivos{
     left: 32%;
     text-align: center;
 }
-div
-#dispositivos img{
+
+div#dispositivos img{
     position: initial;
     left: 16%;
 }
@@ -334,6 +334,10 @@ div#musicas img{
 	}
 	
 	img#imgAcessoRapido-super-movel{
+		display:none;
+	}
+	
+	#caurosel-movel{
 		display:none;
 	}
 	
@@ -391,6 +395,10 @@ div#musicas img{
 	
 	#image_duvidas2{
 		margin-left: 13%;
+	}
+	
+	#caurosel-movel{
+		display:none;
 	}
 
 }
@@ -484,6 +492,14 @@ div#musicas img{
 	}
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	#caurosel-movel{
+		display:none;
+	}
+	
+	.carousel-indicators{
+		margin-left:-23%;
 	}
 
 }
@@ -579,6 +595,14 @@ div#musicas img{
 	}
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	#caurosel-movel{
+		display:none;
+	}
+	
+	.carousel-indicators{
+		margin-left:-23%;
 	}
 	
 }
@@ -724,8 +748,17 @@ div#musicas img{
 		margin-left: 11%;
 		width: 33%;
 	}
+	
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	#caurosel-movel{
+		display:none;
+	}
+	
+	.carousel-indicators{
+		margin-left:-23%;
 	}
 	
 }
@@ -876,10 +909,18 @@ div#musicas img{
 		margin-left: 11%;
 		width: 33%;
 	}
+	
 	div#muitoPVc{
 		height: 780px;
 	}
 	
+	#caurosel-movel{
+		display:none;
+	}
+	
+	.carousel-indicators{
+		margin-left:-23%;
+	}
 }
 
 
@@ -1035,8 +1076,13 @@ div#musicas img{
 		margin-top: 12%;
 		width: 350px;
 	}
+	
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	#caurosel{
+		display:none;
 	}
 	
 }
@@ -1235,6 +1281,10 @@ div#musicas img{
 	
 	div#musicas img{
 		margin-top: 3px;
+	}
+	
+	#caurosel{
+		display:none;
 	}
 
 }
@@ -1458,6 +1508,10 @@ div#musicas img{
 	
 	div#musicas img{
 		margin-top: 3px;
+	}
+	
+	#caurosel{
+		display:none;
 	}
 	
 }
@@ -1689,6 +1743,9 @@ div#musicas img{
 	div#musicas img{
 		margin-top: 3px;
 	}
-
+	
+	#caurosel{
+		display:none;
+	}
 	
 }
