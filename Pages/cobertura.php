@@ -20,6 +20,7 @@
         <div class="panel-heading head">
             <h3 class="panel-title titulo">ÁREA DE ABRANGÊNCIA</h3>
         </div>
+            <div class="corpo">
              <div class="panel-body lugar1">
                   Luciano Cavalcante
             </div>
@@ -64,8 +65,10 @@
                   Guararapes
             </div>
         </div>
+            
+        </div>
+         <img id="tooltip" src="Images/bg-tooltip.jpg">
          <img id="mapa2"  src="Images/mapa2.png">
-         
         </div>
     </div>
 </div>
