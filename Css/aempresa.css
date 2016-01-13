@@ -66,20 +66,26 @@ p#t2{
 
 @media all and (max-width: 1749px){
 	div#textos{
-		width: 70%;
+		width: 40%;
 	}
         div#conteudo{
-		width: 70%;
+		width: 40%;
 	}
+}
+
+@media all and (max-width: 1600px){
+        input.btn{
+            font-size: 0.8em;
+        }
 }
 
 @media all and (max-width: 1500px){
 	div#textos{
-		width: 60%;
+		width: 50%;
 		margin: 2% 25%;
 	}
         div#conteudo{
-		width: 60%;
+		width: 50%;
 		margin: 2% 25%;
 	}
 }
@@ -93,6 +99,12 @@ p#t2{
 	}
 }
 
+@media all and (max-width: 1220px){
+        input.btn{
+            font-size: 0.7em;
+        }
+}
+
 
 @media all and (max-width: 1181px){
 	div#textos{
@@ -101,7 +113,7 @@ p#t2{
 	}
         div#conteudo{
 		width: 75%;
-		margin: 2% 15%;
+		margin: 5% 15%;
 	}
 }
 
@@ -142,14 +154,20 @@ p#t2{
 
 @media all and (max-width: 700px){
     img#computador {
-        margin-top: 1%;
-        width: 85%;
+            margin-top: 1%;
+            width: 85%;
+            display: block;
+            float: none;
+            position: relative;
+            margin: 0 auto;
+            padding-top: 15px;
     }
     .btn {
             width: 70%;
             display: block;
             float: none;
             position: relative;
+            margin: 0 auto;
             font-size: 0.8em;
         }
 }
@@ -163,4 +181,8 @@ p#t2{
 	img.imagemPrincipal2{
 		display: block;
 	}
+        
+        img#computador {
+            width: 100%;
+        }
 }
