@@ -1283,6 +1283,10 @@ div#musicas img{
 		margin-top: 3px;
 	}
 	
+        #caurosel-movel{
+		display:block;
+	}
+        
 	#caurosel{
 		display:none;
 	}
