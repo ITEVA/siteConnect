@@ -4,6 +4,35 @@ body{
 	overflow-x: hidden;
 }
 
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: none;
+
+}
+
+::-webkit-scrollbar-track-piece {
+	background-color: #999999;
+	border-left: 1px solid #CCC;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:vertical,
+::-webkit-scrollbar-thumb:horizontal {
+	background-color: #666666;
+	border-bottom-right-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:vertical:hover,
+::-webkit-scrollbar-thumb:horizontal:hover {
+	background-color: #C2C2C2;
+}
+
 img#imagemPrincipal{
 	width: 100%;
 	margin: 0;

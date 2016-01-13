@@ -1,4 +1,4 @@
-<img id="imagemPrincipal" src="Images/internet.png">	
+<img id="imagemPrincipal" src="Images/internet.jpg">
 <img id="imagemPrincipal2" src="Images/internet2.jpg">
 
 <div class="col-lg-12 div1">
@@ -16,7 +16,7 @@
                        diversão com a família.
             <img id="familia" src="Images/internetFamilia.png">
             <div id="botao">
-                <button id="planos">Conheça nossos planos</button>
+                <button id="planos"><a href="assinaturas"> Conheça nossos planos</a></button>
             </div>
         </div>
     </div>

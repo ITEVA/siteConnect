@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Connect já</title>
-        <link rel="shortcut icon" href="/Images/favicon.png" type="image/png">
+        <link rel="shortcut icon" href="Images/favicon.png" type="image/png">
         
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,6 +27,7 @@
         <link rel="stylesheet" href="Css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
         <link rel="stylesheet" href="Css/style.css">
         <link rel="stylesheet" href="Css/slider.css">
+        <link rel="stylesheet" href="Css/topo.css">
         <!-- Latest compiled and minified JavaScript -->
         <script src="JS/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
         <?php echo (file_exists("Css/{$url[0]}.css")) ? "<link rel=\"stylesheet\" href=\"Css/{$url[0]}.css\">" : ""; ?>

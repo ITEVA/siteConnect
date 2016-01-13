@@ -88,33 +88,6 @@ img#mapa2{
     display: none;
 }
 
-/* Style Scroll Bar - All Resolutions */ 
-/* Largura da barra de rolagem */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-/* Fundo da barra de rolagem */
-::-webkit-scrollbar-track-piece {
-  background-color: #999999;
-  border-left: 1px solid #CCC;
-  border-bottom-right-radius: 5px;
-  border-bottom-left-radius: 0;
-}
-
-/* Cor do indicador de rolagem */
-::-webkit-scrollbar-thumb:vertical,
-::-webkit-scrollbar-thumb:horizontal {
-  background-color: #666666;
-  border-bottom-right-radius: 5px;
-}
-
-/* Cor do indicador de rolagem - ao passar o mouse */
-::-webkit-scrollbar-thumb:vertical:hover,
-::-webkit-scrollbar-thumb:horizontal:hover {
-  background-color: #C2C2C2;
-}
-
 /*MEDIA QUERIE'S*/
 
 @media all and (max-width: 1749px){
@@ -167,20 +140,20 @@ img#mapa2{
         width: 35%;
         height: 250px;
     }
-    
+
     div.corpo{
         overflow-y: auto;
         max-height: 220px;
     }
-    
+
     div.ultimo{
         border-bottom-right-radius: 0px;
     }
-    
+
     h3.titulo{
         text-align: center;
         margin-right: 10%;
-    }  
+    }
 }
 @media all and (max-width: 954px){
     div#textos{
