@@ -24,12 +24,12 @@
                         <div class="item" id="slider"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide2.jpg" alt="Slide 2"/></a></div>
                         <div class="item" id="slider"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide3.jpg" alt="Slide 3"/></a></div>
                     </div>
-                    <div class="carousel-inner" id="caurosel-movel">
+                   <!--   <div class="carousel-inner" id="caurosel-movel">
                     	<!--Nav Slider Movel-->
-                    <div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide11.jpg" alt="Slider 1"/></a></div>
+                  <!--<div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide11.jpg" alt="Slider 1"/></a></div>
                         <div class="item" id="slider"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide22.jpg" alt="Slide 2"/></a></div>
                         <div class="item" id="slider"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide33.jpg" alt="Slide 3"/></a></div>
-                    </div>
+                    </div>-->
                 </div>
             </section>
     </div>
