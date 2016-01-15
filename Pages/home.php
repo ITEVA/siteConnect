@@ -61,7 +61,7 @@
                 height="100%"/>
         </div>
         <div id="Cl2_amarela-trsp">
-            <a href="corbetura" id="link-item_amarela-trsp3" class="link-item_amarela-trsp_up">
+            <a href="cobertura" id="link-item_amarela-trsp3" class="link-item_amarela-trsp_up">
                 <div class="item_amarela-trsp">
                     <img src="Images/icon-local.png" class="icon_trsp"/>
                     <h1 class="titulo_link-item_amarela-trsp">NOSSA<br/>COBERTURA</h1>
