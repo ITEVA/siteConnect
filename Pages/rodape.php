@@ -19,7 +19,7 @@
         </ul>
     </nav>
     <div id="direitos">
-        <div>Copyright 2015 Connect - Alguns direitos reservados.</div>
+        <div>Copyright <?php echo date('Y'); ?> Connect - Alguns direitos reservados.</div>
     </div>
 </footer>
 </body>
