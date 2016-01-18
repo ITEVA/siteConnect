@@ -528,3 +528,24 @@ img#cliqueAqui{
         padding-top: 60px;
     }
 }
+
+@media all and (max-width: 350px){
+    div#boxContato{
+        margin-left: 90px;
+    }
+    img#bg-baixoContato{
+        height: 370px;
+    }
+
+}
+
+@media all and (max-width: 300px){
+    div#boxContato{
+        margin-left: 80px;
+    }
+
+    img#bg-baixoContato{
+        height: 300px;
+    }
+
+}

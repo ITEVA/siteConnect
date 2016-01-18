@@ -213,3 +213,9 @@ p.contato{
         background-color: #707499;
     }
 }
+
+@media all and (max-width: 746px){
+    p.contato{
+        font-size: 11px;
+    }
+}

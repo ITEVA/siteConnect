@@ -29,7 +29,7 @@
     </div>
     <div class="col-lg-12 div1">
         <div id="conteudo">
-            <a href="assinaturas"><input type="button" class="btn" value="CONHEÇA NOSSOS SERVIÇOS"/></a>
+            <a id="plano" href="assinaturas"><input type="button" class="btn" value="CONHEÇA NOSSOS SERVIÇOS"/></a>
             <img id="computador" src="Images/empresaComputadores.jpg">
         </div>
     </div>

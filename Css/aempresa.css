@@ -170,6 +170,14 @@ p#t2{
             margin: 0 auto;
             font-size: 0.8em;
         }
+
+    a#plano{
+        text-decoration: none;
+    }
+
+    a#plano:hover{
+        text-decoration: none;
+    }
 }
 
 
@@ -185,4 +193,31 @@ p#t2{
         img#computador {
             width: 100%;
         }
+}
+
+@media all and (max-width: 390px){
+    .btn{
+        width: 90%;
+    }
+}
+
+@media all and (max-width: 310px){
+    .btn{
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 290px){
+    a#plano{
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width: 250px){
+    a#plano{
+        font-size: 10px;
+    }
+    .btn{
+        width: 110%;
+    }
 }

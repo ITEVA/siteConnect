@@ -16,7 +16,7 @@
                        diversão com a família.
             <img id="familia" src="Images/internetFamilia.png">
             <div id="botao">
-                <button id="planos"><a href="assinaturas"> Conheça nossos planos</a></button>
+                <button id="planos"><a id="assinaturas" href="assinaturas"> Conheça nossos planos</a></button>
             </div>
         </div>
     </div>

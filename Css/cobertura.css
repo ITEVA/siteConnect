@@ -102,10 +102,9 @@ img#mapa2{
 		margin: 2% 25%;
 	}
         
-        h3.titulo{
-            margin-left: 10%;
-        }
-
+    h3.titulo{
+        margin-left: 10%;
+    }
         
 }
 
@@ -114,9 +113,9 @@ img#mapa2{
 		margin: 2% 20%;
                 width: 80%;
 	}
-        h3.titulo{
-            margin-left: 8%;
-        }
+    h3.titulo{
+        margin-left: 8%;
+    }
 }
 
 @media all and (max-width:1250px){
@@ -238,6 +237,26 @@ img#mapa2{
     }
     
     img#mapa2{
+        margin-left: -125px;
+    }
+}
+
+@media all and (max-width: 380px){
+    div.tabela{
+        margin-left: -10%;
+    }
+
+    img#mapa2{
         margin-left: -110px;
+    }
+}
+
+@media all and (max-width: 350px){
+    div.tabela{
+        margin-left: -15%;
+    }
+
+    img#mapa2{
+        margin-left: -100px;
     }
 }

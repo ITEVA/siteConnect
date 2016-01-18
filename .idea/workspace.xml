@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b30cf9c7-32db-485d-a655-ec823cbeb8ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/rodape.php" afterPath="$PROJECT_DIR$/Pages/rodape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/aempresa.css" afterPath="$PROJECT_DIR$/Css/aempresa.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/assinaturas.css" afterPath="$PROJECT_DIR$/Css/assinaturas.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/cobertura.css" afterPath="$PROJECT_DIR$/Css/cobertura.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/contato.css" afterPath="$PROJECT_DIR$/Css/contato.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/internet.css" afterPath="$PROJECT_DIR$/Css/internet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/style.css" afterPath="$PROJECT_DIR$/Css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/aempresa.php" afterPath="$PROJECT_DIR$/Pages/aempresa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/internet.php" afterPath="$PROJECT_DIR$/Pages/internet.php" />
     </list>
     <ignored path="siteConnect.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +32,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contato.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/contato.php">
+      <file leaf-file-name="internet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/internet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state vertical-scroll-proportion="-14.396227">
+              <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="internet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/internet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.923077">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cobertura.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/cobertura.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-91.53846">
+              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assinaturas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/assinaturas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.384615">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assinaturas.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/assinaturas.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-181.22641">
+              <caret line="565" column="21" selection-start-line="565" selection-start-column="21" selection-end-line="565" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -38,28 +85,48 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state vertical-scroll-proportion="-27.76923">
+              <caret line="210" column="67" selection-start-line="210" selection-start-column="67" selection-end-line="210" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="topo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/topo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.615385">
-              <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rodape.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rodape.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/rodape.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4002242">
+            <state vertical-scroll-proportion="-13.730769">
               <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contato.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/contato.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.76923">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contato.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/contato.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-31.692308">
+              <caret line="547" column="18" selection-start-line="547" selection-start-column="18" selection-end-line="547" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topo.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Css/topo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38116592">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -86,19 +153,21 @@
         <option value="$PROJECT_DIR$/Css/mapa.css" />
         <option value="$PROJECT_DIR$/Pages/mapa.php" />
         <option value="$PROJECT_DIR$/Pages/assinaturas.php" />
-        <option value="$PROJECT_DIR$/Css/assinaturas.css" />
         <option value="$PROJECT_DIR$/Css/home.css" />
         <option value="$PROJECT_DIR$/Pages/contato.php" />
         <option value="$PROJECT_DIR$/Css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/Pages/internet.php" />
         <option value="$PROJECT_DIR$/Pages/cobertura.php" />
-        <option value="$PROJECT_DIR$/Css/internet.css" />
-        <option value="$PROJECT_DIR$/Css/topo.css" />
-        <option value="$PROJECT_DIR$/Css/cobertura.css" />
-        <option value="$PROJECT_DIR$/Css/contato.css" />
-        <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/Pages/rodape.php" />
         <option value="$PROJECT_DIR$/Pages/topo.php" />
+        <option value="$PROJECT_DIR$/Pages/aempresa.php" />
+        <option value="$PROJECT_DIR$/Css/aempresa.css" />
+        <option value="$PROJECT_DIR$/Pages/internet.php" />
+        <option value="$PROJECT_DIR$/Css/internet.css" />
+        <option value="$PROJECT_DIR$/Css/cobertura.css" />
+        <option value="$PROJECT_DIR$/Css/assinaturas.css" />
+        <option value="$PROJECT_DIR$/Css/style.css" />
+        <option value="$PROJECT_DIR$/Css/contato.css" />
+        <option value="$PROJECT_DIR$/Css/topo.css" />
       </list>
     </option>
   </component>
@@ -143,7 +212,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,6 +260,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,6 +354,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pages/contato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/topo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/rodape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/contato.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -458,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24047878">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -501,27 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/aempresa.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/assinaturas.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="131" column="22" selection-start-line="129" selection-start-column="4" selection-end-line="131" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27803737">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.88084114">
@@ -529,83 +602,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/assinaturas.php">
+    <entry file="file://$PROJECT_DIR$/Pages/topo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42355606">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/contato.css">
+    <entry file="file://$PROJECT_DIR$/Css/slider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34654588">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.24775785">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="1006" column="4" selection-start-line="1006" selection-start-column="4" selection-end-line="1006" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/aempresa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.115385">
+          <caret line="183" column="28" selection-start-line="183" selection-start-column="28" selection-end-line="183" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/aempresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.26923">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Css/internet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36154777">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/cobertura.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7134768">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state vertical-scroll-proportion="-14.396227">
+          <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/cobertura.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3272933">
+        <state vertical-scroll-proportion="0.32399103">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/internet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75084937">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/topo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38505095">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/contato.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/style.css">
+    <entry file="file://$PROJECT_DIR$/Css/cobertura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state vertical-scroll-proportion="-91.53846">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/topo.php">
+    <entry file="file://$PROJECT_DIR$/Pages/assinaturas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.615385">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/assinaturas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-181.22641">
+          <caret line="565" column="21" selection-start-line="565" selection-start-column="21" selection-end-line="565" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/rodape.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4002242">
+        <state vertical-scroll-proportion="-13.730769">
           <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.76923">
+          <caret line="210" column="67" selection-start-line="210" selection-start-column="67" selection-end-line="210" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/contato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.76923">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/contato.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.692308">
+          <caret line="547" column="18" selection-start-line="547" selection-start-column="18" selection-end-line="547" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/topo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38116592">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>

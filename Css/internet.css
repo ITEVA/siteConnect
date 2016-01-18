@@ -15,24 +15,6 @@ a:hover {
 
 }
 
-::-webkit-scrollbar-track-piece {
-	background-color: #999999;
-	border-left: 1px solid #CCC;
-	border-bottom-right-radius: 5px;
-	border-bottom-left-radius: 0;
-}
-
-::-webkit-scrollbar-thumb:vertical,
-::-webkit-scrollbar-thumb:horizontal {
-	background-color: #666666;
-	border-bottom-right-radius: 5px;
-}
-
-::-webkit-scrollbar-thumb:vertical:hover,
-::-webkit-scrollbar-thumb:horizontal:hover {
-	background-color: #C2C2C2;
-}
-
 img#imagemPrincipal{
 	width: 100%;
 	margin: 0;
@@ -81,6 +63,7 @@ p#t1{
 p#t2{
     color: #fff;
     padding-left: 4%;
+	text-align: justify;
 }
 
 p#t3{
@@ -93,10 +76,12 @@ p#t3{
 
 p.t4{
 	padding-left: 6%;
+	text-align: justify;
 }
 
 p#t5{
 	padding-bottom: 6%;
+	text-align: justify;
 }
 
 p#titulo{
@@ -265,53 +250,68 @@ button#planos{
 	}
 }
 
-
-@media all and (max-width: 764px){
-	img#familia{
-		margin: -31% -55% auto;
-	}
-}
-
-@media all and (max-width: 755px){
-	img#familia{
-		margin: -33.8% -55% auto;
+@media all and (max-width: 770px){
+	br{
+		display: none;
 	}
 
 	div#botao{
-		margin-top: -8%;
+		margin-top: 2%;
+	}
+	img#familia{
+		margin: -26% -58% auto;
 	}
 }
 
 @media all and (max-width: 662px){
-	button#planos{
-		font-size: 12px;
-	}
 
 	img#familia{
-		margin: -32.5% -55% auto;
+		margin: -23.5% -58% auto;
+	}
+}
+
+@media all and (max-width:655px){
+	div#botao{
+		margin-left: -3%;
+	}
+}
+
+@media all and (max-width: 615px){
+	div#botao{
+		margin-left: -5%;
 	}
 }
 
 @media all and (max-width: 590px){
 	div#botao{
-		padding-left: 50%;
+		margin-left: -22px;
 	}
 
 	img#familia{
-		margin: -31.2% -55% auto;
+		margin: -22% -58% auto;
+	}
+}
+
+@media all and (max-width: 575px){
+	div#botao{
+		margin-left: -29px;
+	}
+
+	img#familia{
+		margin: -22% -58% auto;
 	}
 }
 
 @media all and (max-width: 550px){
 	div.div2{
-		height: 300px;
+		height: 310px;
 	}
 
 	div#textos{
 		width: 100%;
 	}
 	img#familia{
-		margin: 1.7% 1% auto;
+		margin: 2.6% 1% auto;
 		width: 55%;
 	}
 	div#textosLivres{
@@ -323,7 +323,7 @@ button#planos{
 
 	div#botao{
 		float: left;
-		margin: 10% -45.5% auto;
+		margin: 10% -54% auto;
 	}
 	button#planos{
 		font-size: 16px;
@@ -332,22 +332,19 @@ button#planos{
 
 @media all and (max-width: 523px){
 	img#familia{
-		margin: 2.8% 1% auto;
-		width: 50%;
+		margin: 5% 1% auto;
 	}
 }
 
-@media all and (max-width: 513px){
+@media all and (max-width: 515px){
 	img#familia{
-		margin: 2.3% 1% auto;
-		width: 46%;
+		margin: 5.5% 1% auto;
 	}
 }
 
-@media all and (max-width: 507px){
+@media all and (max-width: 514px){
 	img#familia{
-		margin: -1.1% 1% auto;
-		width: 45%;
+		margin: 1.5% 1% auto;
 	}
 }
 
@@ -365,31 +362,67 @@ button#planos{
 	}
 
 	img#familia{
-		margin: 0.4% 1% auto;
+		margin: 10.5% 1% auto;
 		width: 49%;
+	}
+}
+
+@media all and (max-width: 420px){
+	img#familia{
+		margin: 5% 1% auto;
+		width: 55%;
 	}
 	button#planos{
 		font-size: 12px;
 	}
 }
 
-@media all and (max-width: 400px){
+@media all and (max-width: 375px){
 	img#familia{
-		margin: 5% 1% auto;
-		width: 50%;
-	}
-}
-
-@media all and (max-width: 370px){
-	img#familia{
-		margin: 9.2% -3% auto;
+		margin: 14% -3% auto;
 		width: 50%;
 	}
 }
 
 @media all and (max-width: 350px){
 	img#familia{
-		margin: 12% -3% auto;
+		margin: 18.5% -3% auto;
 		width: 50%;
+	}
+}
+
+@media all and (max-width: 335px){
+	img#familia{
+		margin: 21% -3% auto;
+	}
+
+}
+
+@media all and (max-width: 333px){
+	img#familia{
+		margin: 14.5% -3% auto;
+	}
+
+}
+
+@media all and (max-width: 315px){
+	img#familia{
+		margin: 18% -3% auto;
+	}
+}
+
+@media all and (max-width: 304px){
+	img#familia{
+		margin: 13% -3% auto;
+	}
+}
+
+@media all and (max-width: 295px){
+	img#familia{
+		margin: 14% -3% auto;
+	}
+
+	button#planos{
+		width: 90%;
 	}
 }
