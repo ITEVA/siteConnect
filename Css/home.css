@@ -595,6 +595,10 @@ div#musicas img{
 		height: 780px;
 	}
 	
+	ol.carousel-indicators{
+		margin-left: 12%;
+	}
+	
 	#img_movel{
 		display: none;
 	}
@@ -744,6 +748,10 @@ div#musicas img{
 	
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	ol.carousel-indicators{
+		margin-left: 8%;
 	}
 	
 	#img_movel{
@@ -900,6 +908,10 @@ div#musicas img{
 	
 	div#muitoPVc{
 		height: 780px;
+	}
+	
+	ol.carousel-indicators{
+		margin-left: 8%;
 	}
 	
 	#img_movel{
