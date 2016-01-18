@@ -11,6 +11,10 @@
 	color:#FFFFFF;
 }
 
+ol.carousel-indicators{
+	margin-left: 12px;
+}
+
 h1,p {
 	color: #00285b;
 }
@@ -337,10 +341,9 @@ div#musicas img{
 		display:none;
 	}
 	
-	#caurosel-movel{
-		display:none;
+	#img_movel{
+		display: none;
 	}
-	
 }
 
 @media all and (min-width: 1170px) and (max-width:1460px) {
@@ -397,10 +400,10 @@ div#musicas img{
 		margin-left: 13%;
 	}
 	
-	#caurosel-movel{
-		display:none;
+	#img_movel{
+		display: none;
 	}
-
+	
 }
 
 @media all and (min-width: 980px) and (max-width:1169px) {
@@ -494,14 +497,9 @@ div#musicas img{
 		height: 780px;
 	}
 	
-	#caurosel-movel{
-		display:none;
+	#img_movel{
+		display: none;
 	}
-	
-	.carousel-indicators{
-		margin-left:-23%;
-	}
-
 }
 
 @media all and (min-width: 910px) and (max-width:980px) {
@@ -597,14 +595,9 @@ div#musicas img{
 		height: 780px;
 	}
 	
-	#caurosel-movel{
-		display:none;
+	#img_movel{
+		display: none;
 	}
-	
-	.carousel-indicators{
-		margin-left:-23%;
-	}
-	
 }
 
 @media all and (min-width: 800px) and (max-width:909px) {
@@ -753,14 +746,9 @@ div#musicas img{
 		height: 780px;
 	}
 	
-	#caurosel-movel{
-		display:none;
+	#img_movel{
+		display: none;
 	}
-	
-	.carousel-indicators{
-		margin-left:-23%;
-	}
-	
 }
 
 @media all and (min-width: 650px) and (max-width:799px) {
@@ -914,12 +902,8 @@ div#musicas img{
 		height: 780px;
 	}
 	
-	#caurosel-movel{
-		display:none;
-	}
-	
-	.carousel-indicators{
-		margin-left:-23%;
+	#img_movel{
+		display: none;
 	}
 }
 
@@ -1081,10 +1065,9 @@ div#musicas img{
 		height: 780px;
 	}
 	
-	#caurosel{
-		display:none;
+	#img_full{
+		display: none;
 	}
-	
 }
 
 @media all and (min-width: 460px) and (max-width:549px) {
@@ -1283,14 +1266,9 @@ div#musicas img{
 		margin-top: 3px;
 	}
 	
-        #caurosel-movel{
-		display:block;
+	#img_full{
+		display: none;
 	}
-        
-	#caurosel{
-		display:none;
-	}
-
 }
 
 @media all and (min-width: 383px) and (max-width:459px) {
@@ -1514,10 +1492,9 @@ div#musicas img{
 		margin-top: 3px;
 	}
 	
-	#caurosel{
-		display:none;
+	#img_full{
+		display: none;
 	}
-	
 }
 
 @media all and (min-width: 0px) and (max-width:382px) {
@@ -1686,7 +1663,7 @@ div#musicas img{
 		width: 120px;
 	}
 	
-		div#opcoes_muitoPVc{
+	div#opcoes_muitoPVc{
 		margin-left: 0px;
 	}
 	
@@ -1748,8 +1725,7 @@ div#musicas img{
 		margin-top: 3px;
 	}
 	
-	#caurosel{
-		display:none;
+	#img_full{
+		display: none;
 	}
-	
 }

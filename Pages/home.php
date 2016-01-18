@@ -10,33 +10,32 @@
 <!--Conteúdo-->
 <div class="box">
     <span class="pager"></span>
-    <div class="slider">
-            <section id="sliderhome">
-                <div id="meuSlider" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators" id="car-img">
-                        <li data-target="#meuSlider" data-slide-to="0" class="active"></li>
-                        <li data-target="#meuSlider" data-slide-to="1"></li>
-                        <li data-target="#meuSlider" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner" id="caurosel">
-                    	<!--Nav Slider Full Screen-->
-                        <div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide1.jpg" alt="Slider 1"/></a></div>
-                        <div class="item" id="slider"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide2.jpg" alt="Slide 2"/></a></div>
-                        <div class="item" id="slider"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide3.jpg" alt="Slide 3"/></a></div>
-                    </div>
-                   <!--   <div class="carousel-inner" id="caurosel-movel">
-                    	<!--Nav Slider Movel-->
-                  <!--<div class="item active" id="slider"><a href="assinaturas"><img src="Images/img-slide11.jpg" alt="Slider 1"/></a></div>
-                        <div class="item" id="slider"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide22.jpg" alt="Slide 2"/></a></div>
-                        <div class="item" id="slider"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide33.jpg" alt="Slide 3"/></a></div>
-                    </div>-->
-                </div>
-            </section>
+    
+    <div id="carousel1" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel1" data-slide-to="1"></li>
+          <li data-target="#carousel1" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active"><a href="assinaturas"><img src="Images/img-slide1.jpg" id="img_full" alt="First slide image" class="center-block">
+            <img src="Images/img-slide11.jpg" id="img_movel" alt="First slide image" class="center-block"></a>
+              <div class="carousel-caption">
+              </div>
+            </div>
+            <div class="item"><a href="#muitoPVc" class="scroll"><img src="Images/img-slide2.jpg" id="img_full" alt="Second slide image" class="center-block">
+            <img src="Images/img-slide22.jpg" id="img_movel" alt="First slide image" class="center-block"></a>
+              <div class="carousel-caption">
+              </div>
+            </div>
+            <div class="item"><a href="#podLheAjud" class="scroll"><img src="Images/img-slide3.jpg" id="img_full" alt="Third slide image" class="center-block">
+            <img src="Images/img-slide33.jpg" id="img_movel" alt="Third slide image" class="center-block"></a>
+          </div>
+      </div>
     </div>
-</div>
-
+</div>      
+    
 <div id="amarela">
-	
     <!--Amarela TRSP - FULL SCREEN-->
     <div id="amarela-trsp">
         <div id="Cl1_amarela-trsp">
