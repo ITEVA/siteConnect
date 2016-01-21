@@ -183,6 +183,19 @@
             </div>
         </div>
     </div>
+    
+    <div class="acessoRapido-super-movel">
+        <img src="Images/acesso_rapido-super-movel.png" id="imgAcessoRapido-super-movel">
+        <div class="botoes">
+            <div id="coluna1">
+                <a href="#" class="botao">
+                    <img class="botoes_icon" src="Images/user-super-movel.png"/>
+                    <h3 id="txt1"><span>Área do</span><br/>Usuário</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+    
 </div>
 
 <div id="muitoPVc">
