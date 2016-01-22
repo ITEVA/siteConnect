@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>Documento sem título</title>
     <link rel="stylesheet" href="Css/assinaturas.css">
-
 </head>
 
 <body>
@@ -14,7 +13,7 @@
 
 <div class="col-lg-12 div1">
     <div id="textos">
-        <p id="t1">Início/Internet/Para sua casa</p>
+        <p id="t1"><a href="inicio" class="link_a">Início</a> / Internet</p>
         <p id="t2">INTERNET PARA SUA CASA</p>
         <p>Diversão, informação e entreterimento 24h por dia em alta velocidade! Acesse a internet sem inteferências,<br>
         interrupções e, principalmente, sem perda de tempo. Escolha seu plano e Connect sua casa ao mundo.</p>

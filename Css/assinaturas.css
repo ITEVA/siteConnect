@@ -6,8 +6,15 @@ body{
 	overflow-x: hidden;
 }
 
-/*IMAGENS*/
+a.link_a{
+	color: #f0ad4e;
+}
 
+a.link_a:hover{
+	text-decoration: underline;
+}
+
+/*IMAGENS*/
 img#divisao2{
 	display: none;
 }

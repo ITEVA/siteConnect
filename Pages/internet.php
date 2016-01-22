@@ -3,7 +3,7 @@
 
 <div class="col-lg-12 div1">
     <div id="textos">
-        <p id="t1">Início/Internet/Para sua casa</p>
+        <p id="t1"><a href="home" class="link_a">Início</a> / Internet</p>
     </div>
 </div>
 <div class="col-lg-12 bloco1">
@@ -13,13 +13,14 @@
             <p id="t2">Dispondo de uma rede de última geração e equipamentos redundantes,<br>
                        a Connect garante uma conexão rápida, segura e com qualidade, sem <br>
                        limites de downloads e uploads para que você aproveite ao máximo a<br>
-                       diversão com a família.
+                       diversão com a família.</p>
             <img id="familia" src="Images/internetFamilia.png">
             <div id="botao">
                 <button id="planos"><a id="assinaturas" href="assinaturas"> Conheça nossos planos</a></button>
             </div>
         </div>
     </div>
+</div>
 
     <div class="col-lg-12 bloco2">
             <div id="textos" class="bloco">

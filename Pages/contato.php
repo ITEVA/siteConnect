@@ -4,7 +4,7 @@
 <img id="imagemContato2" src="Images/imagemContato2.jpg">
 <div class="contato">
     <div class="col-lg-12 formulario">
-        <p id="text1">Início/Contato</p>
+        <p id="text1"><a href="home" class="link_a">Início</a> / Contato</p>
         <div id="boxContato">
             <p id="text2">FALE COM A CONNECT</p>
             <p id="text3">Utilize este canal para pedir informações, esclarecer dúvidas, dar sugestões e fazer solicitações de atendimento.<br>

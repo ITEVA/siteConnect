@@ -4,6 +4,14 @@ body{
     overflow-x: hidden;
 }
 
+a.link_a{
+	color: #f0ad4e;
+}
+
+a.link_a:hover{
+	text-decoration: underline;
+}
+
 img#imagemPrincipal{
     width: 100%;
     margin: 0;

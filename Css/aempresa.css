@@ -6,6 +6,14 @@ body{
 	overflow-x: hidden;
 }
 
+a.link_a{
+	color: #f0ad4e;
+}
+
+a.link_a:hover{
+	text-decoration: underline;
+}
+
 h2, h5.contato{
 	color: #fff;
 	text-align: center;

@@ -5,14 +5,22 @@ body{
 }
 
 a{
-	text-decoration: none;
 	color: #fff;
 }
 
 a:hover {
 	color: #fff;
 	text-decoration: none;
+}
 
+a.link_a{
+	margin-left: 4.6%;
+	color:#f0ad4e;
+	margin-top: 50px;
+}
+
+a.link_a:hover{
+	text-decoration:underline;
 }
 
 img#imagemPrincipal{

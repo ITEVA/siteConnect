@@ -14,7 +14,7 @@
     
     <div class="col-lg-12 div1">
         <div id="textos">
-            <p id="t1">Início/A Empresa</p>
+            <p id="t1"><a href="home" class="link_a">Início</a> / A Empresa</p>
             <p id="t2">SOBRE A CONNECT</p>
             <p align="justify">A Connect surgiu há mais de 10 anos oferecendo inicialmente internet residencial aos seus clientes no bairro Luciano Cavalcante, região metropolitana de 
                 Fortaleza. Durante todo este tempo, a Connect vem investindo maciçamente em tecnologia, qualificação de pessoal, expansão de sua rede e sustentabilidade. 
