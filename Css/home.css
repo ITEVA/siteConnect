@@ -228,7 +228,6 @@ div#muitoPVc{
     position: relative;
     height: 500px;
     width: 100%;
-    border: 1px solid #000000;
     background: #ffffff url("../Images/fundoGridAzul.png") repeat-x;
 }
 
@@ -251,7 +250,6 @@ div#podLheAjud{
     position: relative;
     height: 500px;
     width: 100%;
-    border: 1px solid #000000;
     background: #ffffff url("../Images/fundoGridAzul.png") repeat-x;
 }
 
@@ -1770,7 +1768,7 @@ div#musicas img{
 		position: relative;
 		display: flex;
 		height: 100%;
-		width: 310px;
+		width: 290px;
 		left: 3%;
 	}
 	
