@@ -60,7 +60,7 @@ div.row{
 }
 
 div.contrate{
-	background-color:#bababa;
+	background-color:#5e5e5e;
 	float:none;
 	height: 70px;
 }
@@ -93,7 +93,7 @@ div#textos{
 
 div.div2{
 	background: #002B6F;
-	height: 300px;
+	height: 315px;
 	max-width: 100%;
 }
 
@@ -129,7 +129,7 @@ p#t2{
 /*LINK*/
 a.contrato{
 	padding-top: 8px;
-	color: #000;
+	color: #fff;
 	margin:0;
 	padding-right:10px;
 	cursor: pointer;
@@ -137,7 +137,7 @@ a.contrato{
 
 a.contrato:hover{
 	text-decoration: none;
-	color: #000;
+	color: #fff;
 }
 
 .col-xs-8{
