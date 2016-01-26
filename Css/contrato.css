@@ -1,0 +1,43 @@
+div#formContrato{
+    padding: 3%;
+}
+
+div.panel-default{
+    width: 70%;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+
+div.panel-default > div.panel-heading {
+    background-color: #010a59;
+    color: #fff;
+    text-align: center;
+}
+
+div.panel-default > div.panel-footer{
+    height: 55px;
+}
+
+button.btn{
+    background-color:#010a59 ;
+    color: #fff;
+}
+
+select#sel1{
+    height: 43px;
+    margin-bottom: 15px;
+
+}
+
+input.form-control{
+    padding: 4%;
+    margin-bottom: 15px;
+}
+ul {
+    list-style-type:none
+}
+
+p#place{
+    color: #9d9d9d;
+}

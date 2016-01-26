@@ -25,23 +25,23 @@
         <div class="linha1">
             <img class="oferta" src="Images/1mega.png">
                 <div class="row">
-                    <div class="col-xs-4 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
                 </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/2megas.png">
                 <div class="row">
-                    <div class="col-xs-4 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
                  </div>
         </div>
 
         <div class="linha3">
             <img class="oferta" src="Images/4megas.png">
                 <div class="row">
-                    <div class="col-xs-6 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-6 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
 
-                    <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
                  </div>
         </div>
     </div>
@@ -55,23 +55,23 @@
         <div class="linha1 l2">
             <img class="oferta" src="Images/20megas.png">
             <div class="row">
-                <div class="col-xs-4 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/35mega.png">
             <div class="row">
-                <div class="col-xs-4 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
 
         <div class="linha3">
             <img class="oferta" src="Images/50megas.png">
             <div class="row">
-                <div class="col-xs-6 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-6 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
 
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
     </div>
@@ -82,14 +82,14 @@
         <div class="linha1">
             <img class="oferta" src="Images/1mega.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/2megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
     </div>
@@ -103,13 +103,13 @@
         <div class="linha1">
             <img class="oferta" src="Images/4megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
         <div class="linha2">
             <img class="oferta" src="Images/20megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
 
@@ -122,14 +122,14 @@
         <div class="linha1">
             <img class="oferta" src="Images/35mega.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/50megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="#" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
     </div>
