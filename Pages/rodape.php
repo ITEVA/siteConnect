@@ -3,7 +3,7 @@
     <div id="informacao">
         <h2 class="contato" style="">Fale com a gente</h2>
         <p class="contato">Entre em contato conosco agora mesmo e conheça melhor as soluções da Connect para você!</p>
-        <h5 class="contato">0800 000 0000 | (85) 0000-0000</h5>
+        <h5 class="contato">3031-5000 | (85) 98579-7646 </h5>
     </div>
 </div>
 <footer>

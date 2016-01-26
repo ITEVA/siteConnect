@@ -59,17 +59,10 @@ div.row{
 
 }
 
-div.preco, .contrate{
+div.contrate{
 	background-color:#bababa;
 	float:none;
-	height: 35px;
-}
-
-
-div.contrate{
-	background-color:#6d6d6d;
-	float:none;
-	height:35px;
+	height: 70px;
 }
 
 div.linha1{
@@ -118,15 +111,10 @@ div.conteudo{
 
 /*PARÁGRAFOS*/
 
-p.valor, .contratar{
-	padding-top: 8px;
-	color:#fff;
+p.contratar{
+	padding-top: 25px;
 	margin:0;
-	padding-left:20px;
-}
-
-p.valor{
-	color: #000;
+	padding-left:25px;
 }
 
 p#t1{
@@ -141,7 +129,7 @@ p#t2{
 /*LINK*/
 a.contrato{
 	padding-top: 8px;
-	color:#fff;
+	color: #000;
 	margin:0;
 	padding-right:10px;
 	cursor: pointer;
@@ -149,7 +137,7 @@ a.contrato{
 
 a.contrato:hover{
 	text-decoration: none;
-	color: #fff;
+	color: #000;
 }
 
 .col-xs-8{
@@ -213,7 +201,7 @@ a.contrato:hover{
 }
 
 @media all and (max-width: 1250px){
-	div.preco, .contrate{
+	div.contrate{
 		width: 65%;
 	}
 
@@ -252,17 +240,7 @@ a.contrato:hover{
 	}
 }
 
-@media all and (max-width: 997px){
-	p.valor{
-		padding-left: 19px;
-	}
-}
-
 @media all and (max-width: 989px) {
-	p.valor {
-		padding-right: 0;
-	}
-
 	div.linha1{
 		left: 16%;
 	}
@@ -291,7 +269,7 @@ a.contrato:hover{
 		width: 80%;
 	}
 
-	div.preco, .contrate{
+	div.contrate{
 		width: 68%;
 	}
 
@@ -320,7 +298,7 @@ a.contrato:hover{
 }
 
 @media all and (max-width: 750px){
-	div.preco, .contrate{
+	div.contrate{
 		width: 78%;
 	}
 
@@ -416,7 +394,7 @@ a.contrato:hover{
 }
 
 @media all and (max-width: 525px) {
-	div.preco, .contrate {
+	div.contrate {
 		width: 90%;
 	}
 
@@ -458,12 +436,12 @@ a.contrato:hover{
 		height: 70px;
 	}
 
-	div.preco {
-		height: 30px;
+	div.contrate{
+		height: 60px;
 	}
 
-	div.contrate {
-		height: 30px;
+	p.contratar{
+		padding-top: 20px;
 	}
 
 	div.conteudo2 {
@@ -540,8 +518,8 @@ a.contrato:hover{
 		height: 60px;
 	}
 
-	div.preco, div.contrate{
-		height: 25px;
+	div.contrate{
+		height: 50px;
 	}
 
 	div.linha2{
@@ -553,7 +531,7 @@ a.contrato:hover{
 	}
 
 	p.contratar{
-		padding-top: 5px;
+		padding-top: 15px;
 	}
 }
 
@@ -562,8 +540,9 @@ a.contrato:hover{
 		height: 370px;
 	}
 
-	p.contratar, .valor{
+	p.contratar{
 		font-size: 12px;
+		padding-top: 17px;
 	}
 
 }

@@ -153,42 +153,42 @@
         <img src="Images/acesso_rapido-super-movel.png" id="imgAcessoRapido-super-movel">
         <div class="botoes">
             <div id="coluna1">
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-2ºvia.png"/>
                     <h3 id="txt1"><span>2ª Via</span><br/>de Conta</h3>
                 </a>
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-debit.png"/>
                     <h3 id="txt2"><span>Débito</span><br/>Automatico</h3>
                 </a>
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-grafic.png"/>
                     <h3 id="txt3"><span>Controle</span><br/>de Conta</h3>
                 </a>
             </div>
 
             <div id="coluna2">
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-calendar.png"/>
                     <h3 id="txt4"><span>Alterar Data</span><br/>de Vencimento</h3>
                 </a>
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-money.png"/>
                     <h3 id="txt5"><span>Conta</span><br/>Detalhada</h3>
                 </a>
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icon-archive.png"/>
                     <h3 id="txt6">Alterar Dados<br/><span>Cadastrais</span></h3>
                 </a>
             </div>
         </div>
     </div>
-    
+
     <div class="acessoRapido-super-movel">
         <img src="Images/acesso_rapido-super-movel.png" id="imgAcessoRapido-super-movel">
         <div class="botoes">
             <div id="coluna1">
-                <a href="#" class="botao">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/user-super-movel.png"/>
                     <h3 id="txt1"><span>Área do</span><br/>Usuário</h3>
                 </a>

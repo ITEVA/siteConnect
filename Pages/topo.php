@@ -36,7 +36,7 @@
         <div id="areaSuperior">
             <a href="home"><img id="logo" src="Images/logoConnect.jpg" alt="" /></a>
             <div id="btnAreaCliente">
-                <img src="Images/btnAreaCliente.jpg" alt="" id="btn_areaCliente" />
+                <a href="http://connectja.com.br/sac" target="_blank"> <img src="Images/btnAreaCliente.jpg" alt="" id="btn_areaCliente" /> </a>
             </div>
         </div>
         <nav class="navbar navbar-default" style="margin-bottom:0px;">
