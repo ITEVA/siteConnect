@@ -31,7 +31,7 @@
 
                         <li class="col-xs-6">
                             <select required id="sel1" class="form-control">
-                                <option value="">None</option>
+                                <option value="">Selecione seu bairro</option>
                                 <option id="lc" value="Luciano_Cavalcante">Luciano Cavalcante</option>
                                 <option value="Jardim_Das_Oliveiras">Jardim das Oliveiras</option>
                                 <option value="Tasso_Jereissate">Tasso Jereissate</option>

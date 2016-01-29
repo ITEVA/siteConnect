@@ -105,11 +105,13 @@ div#cepEbairro{
 }
 
 div#atendimento1{
-    width: 80%;
+    width: 90%;
+    margin-left: 35%;
 }
 
 div#atendimento2{
-    width: 80%;
+    width: 92%;
+    margin-left: 35%;
 }
 
 img#iconContato{
@@ -166,6 +168,7 @@ img#retangulo2{
 div#atendimentos{
     position:relative;
     margin-top: -10%;
+    width: 50%;
 
 }
 
@@ -253,6 +256,10 @@ img#cliqueAqui{
     div#mapa{
         height: 420px;
     }
+
+    div#atendimento2{
+        margin-left: 36%;
+    }
 }
 
 @media all and (max-width: 1550px){
@@ -297,6 +304,10 @@ img#cliqueAqui{
     }
     div#mapa{
         height: 335px;
+    }
+
+    div#atendimento2{
+        margin-left: 37%;
     }
 }
 
@@ -346,6 +357,12 @@ img#cliqueAqui{
 
     div#atendimentos{
         margin-top: -12.5%;
+    }
+}
+
+@media all and (max-width: 900px){
+    div#atendimento1{
+        margin-left: 33%;
     }
 }
 
@@ -413,6 +430,14 @@ img#cliqueAqui{
     div#atendimento2{
         margin-left: 10%;
     }
+
+    div#atendimento1{
+        margin-left: 0;
+    }
+
+    div#atendimento2{
+        margin-left: 8%;
+    }
 }
 
 @media all and (max-width: 630px){
@@ -435,16 +460,6 @@ img#cliqueAqui{
     }
 }
 
-@media all and (max-width: 560px){
-    iframe#mapa{
-        height: 240px;
-    }
-
-    div#mapa{
-        height: 240px;
-    }
-}
-
 @media all and (max-width: 580px){
     img#bg-baixoContato{
         height: 570px;
@@ -458,8 +473,21 @@ img#cliqueAqui{
     div#boxContato{
         width: 50%;
     }
+
+    div#atendimento2{
+        margin-left: 5%;
+    }
 }
 
+@media all and (max-width: 560px){
+    iframe#mapa{
+        height: 240px;
+    }
+
+    div#mapa{
+        height: 240px;
+    }
+}
 @media all and (max-width: 500px){
     img#bg-baixoContato{
         height: 480px;
@@ -481,6 +509,25 @@ img#cliqueAqui{
 
     div#mapa{
         height: 205px;
+    }
+
+    div#atendimento2{
+        margin-left: 7%;
+    }
+
+}
+
+@media all and (max-width: 457px){
+    div#atendimentos{
+        width: 60%;
+    }
+
+    div#atendimento1{
+        margin-left: -6%;
+    }
+
+    div#atendimento2{
+        margin-left: -2%;
     }
 }
 
@@ -522,6 +569,10 @@ img#cliqueAqui{
         margin: -39% 40% auto;
     }
 
+    div#atendimento2{
+        margin-left: 1%;
+    }
+
 }
 
 @media all and (max-width: 400px){
@@ -536,6 +587,13 @@ img#cliqueAqui{
 
     img#bg-bc{
         padding-top: 60px;
+    }
+}
+
+@media all and (max-width: 382px){
+    div#atendimentos{
+        margin-left: 13%;
+        width: 80%;
     }
 }
 
