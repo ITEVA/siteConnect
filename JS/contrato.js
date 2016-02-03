@@ -1,6 +1,6 @@
 jQuery(function($){
-    $("#telefone").mask("(99) 9999-9999");
-    $("#celular").mask("(99) 99999-9999");
+    $("#telefone").mask("(999) 9999-9999");
+    $("#celular").mask("(999) 99999-9999");
 
 });
 
