@@ -3,7 +3,8 @@
 <div id="formContrato">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4>Forneça seus dados para assinar</h4>
+            <h4>Forneça seus dados para receber um orçamento</h4>
+            <h6>Um email será enviado em menos de um minuto!</h6>
         </div>
 
         <div class="panel-body">
@@ -14,7 +15,7 @@
                         </li>
 
                         <li class="col-xs-6">
-                            <input class="form-control" type="email" placeholder="E-mail" name="email" required="required"/>
+                            <input class="form-control" id="email" type="email" placeholder="E-mail" name="email" required="required"/>
                         </li>
 
                         <li class="col-xs-6">
@@ -26,22 +27,22 @@
                         </li>
 
                         <li class="col-xs-6">
-                            <input class="form-control" type="text" onkeypress="return letras()" placeholder="Rua" name="rua" required="required"/>
+                            <input class="form-control" id="rua" type="text" onkeypress="return letras()" placeholder="Rua" name="rua" required="required"/>
                         </li>
 
                         <li class="col-xs-6">
-                            <select required id="sel1" class="form-control">
+                            <select required id="sel1" class="form-control" name="bairro">
                                 <option value="">Selecione seu bairro</option>
-                                <option id="lc" value="Luciano_Cavalcante">Luciano Cavalcante</option>
-                                <option value="Jardim_Das_Oliveiras">Jardim das Oliveiras</option>
-                                <option value="Tasso_Jereissate">Tasso Jereissate</option>
-                                <option value="Tancredo_Neves">Tancredo Neves</option>
+                                <option id="lc" value="Luciano Cavalcante">Luciano Cavalcante</option>
+                                <option value="Jardim das Oliveiras">Jardim das Oliveiras</option>
+                                <option value="Tasso Jereissate">Tasso Jereissate</option>
+                                <option value="Tancredo Neves">Tancredo Neves</option>
                                 <option value="Salinas">Salinas</option>
-                                <option value="Boa_Vista">Boa Vista</option>
-                                <option value="Dias_Macedo">Dias Macedo</option>
-                                <option value="Alto_Da_Balanca">Alto da Balança</option>
-                                <option value="Aerolandia">Aerolândia</option>
-                                <option value="Sao_Joao_Do_Tauape">São João do Tauape</option>
+                                <option value="Boa Vista">Boa Vista</option>
+                                <option value="Dias Macedo">Dias Macedo</option>
+                                <option value="Alto da Balança">Alto da Balança</option>
+                                <option value="Aerolândia">Aerolândia</option>
+                                <option value="São João do Tauape">São João do Tauape</option>
                                 <option value="Guararapes">Guararapes</option>
                             </select>
                         </li>
@@ -51,13 +52,13 @@
                         </li>
 
                         <li class="col-xs-6">
-                            <input class="form-control complemento" type="text" placeholder="Complemento" name="complemento"/>
+                            <input class="form-control complemento" type="text" placeholder="Complemento" id="complemento" name="complemento"/>
                         </li>
 
                 </ul>
                 <div class="pull-right">
-                    <input type="submit"  class="botao" value="Enviar"/>
-                    <input type="reset"  class="botao" value="Limpar"/>
+                    <input type="submit"  class="botao" id="enviar" value="Enviar" name = "enviar"/>
+                    <input type="reset"  class="botao" id="limpar" value="Limpar"/>
                 </div>
 
             </form>

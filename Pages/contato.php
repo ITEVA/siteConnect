@@ -30,7 +30,7 @@
                     </div>
                     <?php
                         if(isset($_POST['enviar']) && $_POST['enviar'] == 'Enviar'){
-                            require_once 'emailContato.php';
+                            require_once 'Emails/emailContato.php';
                         }
                     ?>
                 </div>
