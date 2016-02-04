@@ -1,5 +1,4 @@
 <script src="JS/jquery.maskedinput.js" type="text/javascript"></script>
-<script src="JS/contrato.js" type="text/javascript"></script>
 <div id="formContrato">
     <div class="panel panel-default">
         <div class="panel-heading">

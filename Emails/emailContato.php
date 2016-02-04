@@ -1,7 +1,7 @@
 <?php
 
 /* Inclui página de enviar email */
-require("Emails/EnviarEmail.php");
+require("EnviarEmail.php");
 
 /**
 * Inclui classes de envio de email

@@ -1,10 +1,6 @@
-jQuery(function($){
+$(document).ready(function(){  
     $("#telefone").mask("(99) 9999-9999");
     $("#celular").mask("(99) 99999-9999");
-});
-
-$(document).ready(function(){  
-    
     $("#formContrato").submit(function(){
         $.ajax({
         method: "POST",
@@ -14,9 +10,9 @@ $(document).ready(function(){
               rua:$('#rua').val(), bairro:$('#sel1').val(),
               numero:$('#numero').val(), complemento:$('#complemento').val()}
         
-        }).done(function() {
-            alert( "Um email foi enviado com planos e orçamentos!" );
-          });      
+        }).done(function( msg ) {
+            alert( msg );
+          });
         $.ajax({
         method: "POST",
         url: "Emails/emailContratoConnect.php",
@@ -25,7 +21,9 @@ $(document).ready(function(){
               rua:$('#rua').val(), bairro:$('#sel1').val(),
               numero:$('#numero').val(), complemento:$('#complemento').val()}
         
-        });
+        }).done(function( msg ) {
+            alert( msg );
+          });
     });
 });
 
