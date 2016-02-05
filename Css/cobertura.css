@@ -268,3 +268,31 @@ img#mapa2{
         margin-left: -100px;
     }
 }
+
+@media all and (max-width: 320px){
+    div.tabela{
+        width: 60%;
+    }
+
+    img#mapa2{
+        margin-left: -95px;
+    }
+
+    img#tooltip{
+        margin-top: 90%;
+    }
+
+    h3.titulo{
+        margin-left: 0;
+    }
+}
+
+@media all and (max-width: 300px){
+    h3.titulo{
+        margin-left: -5px;
+    }
+
+    img#mapa2{
+        margin-left: -40%;
+    }
+}
