@@ -1,4 +1,3 @@
-
 div#formContrato{
     padding: 3%;
 }
@@ -24,6 +23,7 @@ div.panel-default > div.panel-heading {
     color: #fff;
     text-align: center;
 }
+
 select#sel1{
     height: 47px;
     margin-bottom: 15px;
@@ -31,9 +31,9 @@ select#sel1{
 }
 
 input.form-control{
-    /*padding: 4%;*/
     margin-bottom: 15px;
 }
+
 ul {
     list-style-type:none
 }
