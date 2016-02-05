@@ -10,20 +10,20 @@
             <p id="text3">Utilize este canal para pedir informações, esclarecer dúvidas, dar sugestões e fazer solicitações de atendimento.<br>
                           Informe seu e-mail: ele será nosso meio de contato com você.
             </p>
-            <form method="post">
+            <form id="formContato" method="post">
                 <div class="container-fluid col-md-6">
                     <div class="form-group">
                         <label class="control-label">*Nome</label>
-                        <input class="form-control" type="text" placeholder="Nome" name="nome" required="required"/>
+                        <input class="form-control" type="text" placeholder="Nome" id="nome" name="nome" required="required"/>
                     </div>
 
                     <div class="form-group">
                         <label class="control-label">*E-mail</label>
-                        <input class="form-control" type="email" placeholder="example@email.com" name="email" required="required"/>
+                        <input class="form-control" type="email" placeholder="example@email.com" id="email" name="email" required="required"/>
                     </div>
                     <div class="form-group">
                         <label class="control-label">*Mensagem</label>
-                        <textarea class="form-control" rows="7" type="text" placeholder="Mensagem" name="mensagem" required></textarea>
+                        <textarea class="form-control" rows="7" type="text" placeholder="Mensagem" id="mensagem" name="mensagem" required></textarea>
                     </div>
                     <div class="form-group">
                         <input class="btn btn-default" type="submit" text="Enviar" name="enviar" value="Enviar"/>
