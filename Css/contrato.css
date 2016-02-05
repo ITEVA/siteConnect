@@ -31,6 +31,7 @@ select#sel1{
 }
 
 input.form-control{
+	height: 47px;
     margin-bottom: 15px;
 }
 
