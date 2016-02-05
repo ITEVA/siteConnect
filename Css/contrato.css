@@ -31,7 +31,7 @@ select#sel1{
 }
 
 input.form-control{
-    padding: 4%;
+    /*padding: 4%;*/
     margin-bottom: 15px;
 }
 ul {
@@ -67,17 +67,6 @@ input.botao{
     border-radius: 4px;
     background-color:#010a59 ;
     color: #fff;
-}
-
-@media all and (min-width: 1859px){
-    input.numero{
-        margin-left: -105.3%;
-    }
-
-    input.complemento{
-        margin-left: 105%;
-        margin-top: -11%;
-    }
 }
 
 @media all and (max-width: 1730px){
