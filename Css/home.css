@@ -118,7 +118,7 @@ div#amarela div.acessoRapido div.botoes{
     position: relative;
     display: flex;
     margin-left: 25px;
-    margin-top: 95px;
+    margin-top: 96px;
     width: 370px;
     height: 480px;
 }
@@ -129,8 +129,8 @@ div#amarela div.acessoRapido div.botoes a.botao{
     border-radius: 5px;
     margin: 5px;
     background: linear-gradient(to bottom, #f2f2f2, #d1d3d1 180%) #ffffff;
-    width: 170px;
-    height: 150px;
+    width: 124px;
+    height: 157px;
 }
 
 div#amarela div.acessoRapido div.botoes a.botao:link{
@@ -139,19 +139,31 @@ div#amarela div.acessoRapido div.botoes a.botao:link{
 }
 
 div#coluna1{
-    width: 177px;
-    height: 477px!important;
+    width: 176px;
+    height: 476px !important;
+	margin-left: -20px;
+    margin-top: -15px;
 }
 
 div#coluna2{
     width: 177px;
     height: 477px !important;
-    margin-left: 5px;
+	margin-left: -40px;
+    margin-top: -15px;
 }
+
+div#coluna3{
+    width: 177px;
+    height: 477px !important;
+	margin-left: -40px;
+    margin-top: -15px;
+	position:absolute;
+}
+
 
 img.botoes_icon{
     position: relative;
-    left: 39%;
+    left: 18%;
     top: 18px;
 }
 
@@ -164,28 +176,28 @@ div#amarela div.acessoRapido div.botoes a.botao h3{
 
 /*textos acesso rapido*/
 h3#txt1{
-    top: 15%;
-    left: 29%;
+    top: 5%;
+    left: 24%;
 }
 
 h3#txt1 span{
     position: absolute;
-    left: 8%;
+    left: 4%;
 }
 
 h3#txt2{
-    top: 28%;
-    left: 25%;
+    top: 5%;
+    left: 10.5%;
 }
 
 h3#txt2 span{
     position: absolute;
-    left: 12%;
+    left: 16%;
 }
 
 h3#txt3{
-    top: 22%;
-    left: 32%;
+    top: 5%;
+    left: 30%;
 }
 
 h3#txt3 span{
@@ -194,31 +206,61 @@ h3#txt3 span{
 }
 
 h3#txt4{
-    left: 17%;
-    top: 12%;
+    top: 5%;
+	left: 6%;
 }
 
 h3#txt4 span{
     position: absolute;
-    left: 7%;
+    left: 17%;
 }
 
 h3#txt5{
-    left: 27%;
-    top: 14%;
+	top: 5%;
+    left: 21%;
 }
 
 h3#txt5 span{
     position: absolute;
-    left: 9%;
+    left: 2%;
 }
 
 h3#txt6{
-    left: 18%;
-    top: 18%;
+    top: 5%;
+	left: 9%;   
 }
 
 h3#txt6 span{
+    position: absolute;
+    left: 22%;
+}
+
+h3#txt7{
+	top: 5%;
+    left: 9%;
+}
+
+h3#txt7 span{
+    position: absolute;
+    left: 2%;
+}
+
+h3#txt8{
+    top: 5%;
+	left: 9%;
+}
+
+h3#txt8 span{
+    position: absolute;
+    left: 3%;
+}
+
+h3#txt9{
+    top: 5%;
+	left: 9%;
+}
+
+h3#txt9 span{
     position: absolute;
     left: 7%;
 }

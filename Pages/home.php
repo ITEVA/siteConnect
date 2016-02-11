@@ -154,33 +154,49 @@
         <div class="botoes">
             <div id="coluna1">
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-2ºvia.png"/>
-                    <h3 id="txt1"><span>2ª Via</span><br/>de Conta</h3>
+                    <img class="botoes_icon" src="Images/icons/1.png"/>
+                    <h3 id="txt1"><span>Gráfico<br/>Diário</span></h3>
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-debit.png"/>
-                    <h3 id="txt2"><span>Débito</span><br/>Automatico</h3>
+                    <img class="botoes_icon" src="Images/icons/2.png"/>
+                    <h3 id="txt2"><span>Gráfico</span><br/>de Consumo</h3>
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-grafic.png"/>
-                    <h3 id="txt3"><span>Controle</span><br/>de Conta</h3>
+                    <img class="botoes_icon" src="Images/icons/3.png"/>
+                    <h3 id="txt3"><span>Alterar</span><br/>Senha</h3>
                 </a>
             </div>
 
             <div id="coluna2">
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-calendar.png"/>
-                    <h3 id="txt4"><span>Alterar Data</span><br/>de Vencimento</h3>
+                    <img class="botoes_icon" src="Images/icons/4.png"/>
+                    <h3 id="txt4"><span>Alterar<br/>Cadastral</span></h3>
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-money.png"/>
-                    <h3 id="txt5"><span>Conta</span><br/>Detalhada</h3>
+                    <img class="botoes_icon" src="Images/icons/5.png"/>
+                    <h3 id="txt5"><span>Contrato</span></h3>
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
-                    <img class="botoes_icon" src="Images/icon-archive.png"/>
-                    <h3 id="txt6">Alterar Dados<br/><span>Cadastrais</span></h3>
+                    <img class="botoes_icon" src="Images/icons/6.png"/>
+                    <h3 id="txt6">Segunda Via<br/><span>Boleto</span></h3>
                 </a>
             </div>
+            
+            <div id="coluna3">
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
+                    <img class="botoes_icon" src="Images/icons/7.png"/>
+                    <h3 id="txt7"><span>Pagamentos</span></h3>
+                </a>
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
+                    <img class="botoes_icon" src="Images/icons/8.png"/>
+                    <h3 id="txt8"><span>Auto-Desbloqueio</span></h3>
+                </a>
+                <a href="http://connectja.com.br/sac" target="_blank" class="botao">
+                    <img class="botoes_icon" src="Images/icons/9.png"/>
+                    <h3 id="txt9"><span>Cartilha de<br/>Segurança</span></h3>
+                </a>
+            </div>
+            
         </div>
     </div>
 
