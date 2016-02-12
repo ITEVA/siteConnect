@@ -189,7 +189,7 @@
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icons/8.png"/>
-                    <h3 id="txt8"><span>Auto-Desbloqueio</span></h3>
+                    <h3 id="txt8"><span>Auto-<br>Desbloqueio</span></h3>
                 </a>
                 <a href="http://connectja.com.br/sac" target="_blank" class="botao">
                     <img class="botoes_icon" src="Images/icons/9.png"/>
