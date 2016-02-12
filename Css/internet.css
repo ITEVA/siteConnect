@@ -175,7 +175,7 @@ button#planos{
 	}
 
 	img#familia{
-		margin: -29.7% -40% auto;
+		margin: -35% -40% auto;
 	}
 
 	div#botao{
@@ -190,7 +190,7 @@ button#planos{
 	}
 
 	img#familia{
-		margin: -29.5% -40% auto;
+		margin: -34.5% -40% auto;
 	}
 
 	p#titulo, p#t2, p#t3, p#t4,p#t5{
@@ -217,7 +217,7 @@ button#planos{
 	}
 
 	img#familia{
-		margin: -29.3% -35% auto;
+		margin: -34.5% -35% auto;
 	}
 }
 
@@ -227,7 +227,7 @@ button#planos{
 	}
 
 	img#familia {
-		margin: -27% -50% auto;
+		margin: -33.5% -50% auto;
 	}
 
 	div#botao{
@@ -243,14 +243,14 @@ button#planos{
 
 @media all and (max-width: 820px){
 	img#familia{
-		margin: -26.6% -55% auto;
+		margin: -33.5% -55% auto;
 	}
 
 }
 
 @media all and (max-width: 779px){
 	img#familia{
-		margin: -31.2% -55% auto;
+		margin: -38% -55% auto;
 	}
 
 	div#botao{
@@ -267,14 +267,14 @@ button#planos{
 		margin-top: 2%;
 	}
 	img#familia{
-		margin: -26% -58% auto;
+		margin: -33% -58% auto;
 	}
 }
 
 @media all and (max-width: 662px){
 
 	img#familia{
-		margin: -23.5% -58% auto;
+		margin: -32% -58% auto;
 	}
 }
 
@@ -296,7 +296,7 @@ button#planos{
 	}
 
 	img#familia{
-		margin: -22% -58% auto;
+		margin: -31% -58% auto;
 	}
 }
 
@@ -306,7 +306,7 @@ button#planos{
 	}
 
 	img#familia{
-		margin: -22% -58% auto;
+		margin: -30.5% -58% auto;
 	}
 }
 
@@ -319,7 +319,7 @@ button#planos{
 		width: 100%;
 	}
 	img#familia{
-		margin: 2.6% 1% auto;
+		margin: -4.5% 1% auto;
 		width: 55%;
 	}
 	div#textosLivres{
@@ -340,19 +340,13 @@ button#planos{
 
 @media all and (max-width: 523px){
 	img#familia{
-		margin: 5% 1% auto;
-	}
-}
-
-@media all and (max-width: 515px){
-	img#familia{
-		margin: 5.5% 1% auto;
+		margin: -3% 1% auto;
 	}
 }
 
 @media all and (max-width: 514px){
 	img#familia{
-		margin: 1.5% 1% auto;
+		margin: -2% 1% auto;
 	}
 }
 
@@ -370,14 +364,20 @@ button#planos{
 	}
 
 	img#familia{
-		margin: 10.5% 1% auto;
+		margin: 6.3% 1% auto;
 		width: 49%;
+	}
+}
+
+@media all and (max-width: 545px){
+	img#familia{
+		margin: 1.5% 1% auto;
 	}
 }
 
 @media all and (max-width: 420px){
 	img#familia{
-		margin: 5% 1% auto;
+		margin: 0.5% 1% auto;
 		width: 55%;
 	}
 	button#planos{
