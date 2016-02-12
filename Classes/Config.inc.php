@@ -4,7 +4,7 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', 'vertrigo');
-define('DBSA', 'teste');
+define('DBSA', 'test');
 
 /** @var string */
 $host = is_string($_SERVER["HTTP_HOST"]) ? $_SERVER["HTTP_HOST"] : "" ;

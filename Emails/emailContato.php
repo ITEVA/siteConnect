@@ -26,10 +26,10 @@ $mensagem2 ="<body style='background-color: #d4d4d4;'>
                         ".$_POST['mensagem']."
                     </div></br>
                     <div style='display: block; position: relative; text-align: left; font-size: 12pt; top: 175px;'>
-                        <a href='10.100.10.88:8080/siteConnect'>clique aqui para ser redirecionado ao site</a>  
+                        <a href='connectja.com.br'>clique aqui para ser redirecionado ao site</a>  
                     </div>
                 </div>
             </body>"; 
 
-sendMail('Fale Conosco - Site Connect',$mensagem2,'contato@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL, 'Images/logoEmail.gif');
+sendMail('Fale Conosco - Site Connect',$mensagem2,'gisellyazevedo@hotmail.com','Connect - Internet Banda Larga', NULL, NULL, NULL, 'Images/logoEmail.gif');
 ?>

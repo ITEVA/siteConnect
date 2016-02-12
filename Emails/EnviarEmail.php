@@ -35,7 +35,6 @@
         $mail->AddAddress($destino,$nomeDestino); //email e nome do destino
 
         if($mail->Send()){
-            exit();
             return true;
         }else {
             exit();

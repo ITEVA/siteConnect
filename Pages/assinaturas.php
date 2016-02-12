@@ -1,13 +1,3 @@
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Documento sem título</title>
-    <link rel="stylesheet" href="Css/assinaturas.css">
-</head>
-
-<body>
-
 <img id="imagemPrincipal" src="Images/bgtopo-2pagina.jpg">
 <img id="imagemPrincipal2" src="Images/bg-topo-2(1)pagina.jpg">
 
@@ -138,5 +128,3 @@
 </div>
 <div class="col-lg-12 div3"></div>
 
-</body>
-</html>

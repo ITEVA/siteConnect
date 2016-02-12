@@ -9,7 +9,7 @@ require("EnviarEmail.php");
 require_once('../Classes/mail/class.phpmailer.php');
 require_once('../Classes/mail/class.smtp.php');
 
-//$destinatario = 'contato@connectja.com.br';
+//$destinatario = 'contrato@connectja.com.br';
 
 $mensagem2 = $mensagem2 ="<body style='background-color: #d4d4d4;'>
                 <div style='display: block; position:absolute; max-width: 40%; width: auto;  min-height: 502px; border: 2px solid #2c3f70; border-bottom: 25px solid #2c3f70; background-color: #fff; padding: 1.5%;'>
@@ -36,5 +36,5 @@ $mensagem2 = $mensagem2 ="<body style='background-color: #d4d4d4;'>
                 </div>
             </body>"; 
 
-sendMail('Solicitação de orçamento',$mensagem2,'contrato@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL,'../Images/logoEmail.gif');
+sendMail('Solicitação de orçamento',$mensagem2,'site@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL,'../Images/logoEmail.gif');
 ?>

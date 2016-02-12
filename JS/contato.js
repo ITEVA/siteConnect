@@ -5,8 +5,7 @@ $(document).ready(function(){
         url: "Emails/emailContato.php",
         data: {nome:$('#nome').val(), email:$('#email').val(),
               mensagem:$('#mensagem').val()}
-        }).done(function( msg ) {
-            alert( msg );
+        }).done(function() {
           });
     });
 });

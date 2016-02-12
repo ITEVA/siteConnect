@@ -10,8 +10,7 @@ $(document).ready(function(){
               rua:$('#rua').val(), bairro:$('#sel1').val(),
               numero:$('#numero').val(), complemento:$('#complemento').val()}
         
-        }).done(function( msg ) {
-            alert( msg );
+        }).done(function( ) {
           });
         $.ajax({
         method: "POST",
@@ -21,8 +20,7 @@ $(document).ready(function(){
               rua:$('#rua').val(), bairro:$('#sel1').val(),
               numero:$('#numero').val(), complemento:$('#complemento').val()}
         
-        }).done(function( msg ) {
-            alert( msg );
+        }).done(function(  ) {
           });
     });
 });
