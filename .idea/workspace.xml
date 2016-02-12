@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b30cf9c7-32db-485d-a655-ec823cbeb8ed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css/contrato.css" afterPath="$PROJECT_DIR$/Css/contrato.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/bgtopo-2pagina.jpg" afterPath="$PROJECT_DIR$/Images/bgtopo-2pagina.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/cobertura.jpg" afterPath="$PROJECT_DIR$/Images/cobertura.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/empresa.jpg" afterPath="$PROJECT_DIR$/Images/empresa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/empresaComputadores.jpg" afterPath="$PROJECT_DIR$/Images/empresaComputadores.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/image-game.png" afterPath="$PROJECT_DIR$/Images/image-game.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/internet.jpg" afterPath="$PROJECT_DIR$/Images/internet.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/internetFamilia.png" afterPath="$PROJECT_DIR$/Images/internetFamilia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="siteConnect.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -163,20 +170,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="siteConnect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="siteConnect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -235,9 +228,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08018868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08018868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
