@@ -70,29 +70,6 @@ input.botao{
     color: #fff;
 }
 
-@media all and (max-width: 1730px){
-    select#sel1{
-        height: 44px;
-    }
-}
-
-@media all and (max-width: 1600px){
-    select#sel1{
-        height: 40px;
-    }
-}
-
-@media all and (max-width: 1500px){
-    select#sel1{
-        height: 38px;
-    }
-}
-
-@media all and (max-width: 1300px){
-    select#sel1{
-        height: 34px;
-    }
-}
 
 @media all and (max-width: 767px){
     div.panel-default {
