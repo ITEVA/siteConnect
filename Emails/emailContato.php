@@ -6,8 +6,8 @@ require("EnviarEmail.php");
 /**
 * Inclui classes de envio de email
 */
-require_once('Classes/mail/class.phpmailer.php');
-require_once('Classes/mail/class.smtp.php');
+require_once('../Classes/mail/class.phpmailer.php');
+require_once('../Classes/mail/class.smtp.php');
         
 //$destinatario = 'contato@connectja.com.br' ;
 
@@ -31,5 +31,5 @@ $mensagem2 ="<body style='background-color: #d4d4d4;'>
                 </div>
             </body>"; 
 
-sendMail('Fale Conosco - Site Connect',$mensagem2,'gisellyazevedo@hotmail.com','Connect - Internet Banda Larga', NULL, NULL, NULL, 'Images/logoEmail.gif');
+sendMail('Fale Conosco - Site Connect',$mensagem2,'contato@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL, '../Images/logoEmail.gif');
 ?>
