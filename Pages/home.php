@@ -71,7 +71,7 @@
                 <div class="item_amarela-trsp">
                     <img src="Images/icon-talk.png" class="icon_trsp"/>
                     <h1 class="titulo_link-item_amarela-trsp">FALE COM<br/>A GENTE!</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Descubra onde encontrar<br/>internet de qualidade,<br/>veja aonde atendemos.</p>
+                    <p class="conteudo_link-item_amarela-trsp">Informe-se, esclareça suas dúvidas, dê sugestões e <br/>contrate nossos serviços.</p>
                 </div>
             </a>
         </div>

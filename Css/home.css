@@ -366,9 +366,8 @@ div#musicas img{
     position: initial;
     left: 15%;
 }
-
 @media all and (min-width:1461px){
-	
+
 	#amarela-trsp-movel{
 		display:none;
 	}
@@ -391,7 +390,11 @@ div#musicas img{
 }
 
 @media all and (min-width: 1170px) and (max-width:1460px) {
-	
+
+	p.conteudo_link-item_amarela-trsp{
+		width: 250px;
+	}
+
 	h1.titulo_link-item_amarela-trsp{
 		font-size:15pt;
 	}
@@ -399,7 +402,7 @@ div#musicas img{
 	p.conteudo_link-item_amarela-trsp{
 		font-size:12pt;
 	}
-	
+
 	a.link-item_amarela-trsp_up{
 		left: -35%;
 	}
@@ -453,14 +456,21 @@ div#musicas img{
 	}
 }
 
+@media all and (max-width: 1170px){
+	p.conteudo_link-item_amarela-trsp{
+		width: 200px;
+		font-size: 12pt;
+	}
+}
+
 @media all and (min-width: 980px) and (max-width:1169px) {
-	
+
 	h1.titulo_link-item_amarela-trsp{
 		font-size:14pt;
 	}
 	
 	p.conteudo_link-item_amarela-trsp{
-		font-size:11pt;
+		font-size:12pt;
 	}
 	
 	a.link-item_amarela-trsp_up{
