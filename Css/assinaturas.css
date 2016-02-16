@@ -93,7 +93,7 @@ div#textos{
 
 div.div2{
 	background: #002B6F;
-	height: 315px;
+	height: 370px;
 	max-width: 100%;
 }
 
@@ -106,6 +106,10 @@ div.conteudo{
 	display: inline-flex;
 	width: 30%;
 	margin: 1.5% 32%
+}
+
+div.col-xs-2 {
+	width: 19.5%;
 }
 
 

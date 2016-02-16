@@ -36,11 +36,22 @@
         </div>
     </div>
 
-    <br><br><br><br><br><br>
+    <br><br><br><br>
 
-    <img id="divisao" src="Images/divisao.png">
 
-    <br>
+    <div class="conteudo conteudo2">
+
+        <div class="linha2">
+            <img class="oferta" src="Images/35mega.png">
+            <div class="row">
+                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+            </div>
+        </div>
+        
+    </div>
+
+    <br><br><br><br>
+
     <div class="conteudo conteudo2">
         <div class="linha1 l2">
             <img class="oferta" src="Images/20megas.png">
