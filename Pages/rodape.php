@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="Css/rodape.css">
 <img id="bg-baixo" src="Images/bg-baixo.jpg">
 <div class="col-lg-4 boxInformacao">
     <div id="informacao">

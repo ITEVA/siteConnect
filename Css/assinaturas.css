@@ -158,8 +158,6 @@ a.contrato:hover{
 	 display: none;
  }
 
-
-
 /*MEDIA QUERIES*/
 
 @media all and (max-width: 1749px){
@@ -272,20 +270,10 @@ a.contrato:hover{
 	}
 }
 
-@media all and (max-width: 1200px){
-	div.boxInformacao{
-		width: 33.33%;
-	}
-}
-
 @media all and (max-width: 1181px){
 	div#textos{
 		width: 75%;
 		margin: 2% 15%;
-	}
-
-	div.boxInformacao{
-		width: 45%;
 	}
 
 	div.div2{
@@ -319,11 +307,6 @@ a.contrato:hover{
 		width: 67%;
 		margin-top: 10px;
 	}
-
-	div.boxInformacao{
-		width: 50%;
-	}
-
 }
 
 @media all and (max-width: 954px){
@@ -427,10 +410,6 @@ a.contrato:hover{
 		margin-left: -45%;
 	}
 
-	div.boxInformacao{
-		width: 60%;
-	}
-
 	div.conteudo3{
 		margin-top: 90%;
 	}
@@ -447,7 +426,6 @@ a.contrato:hover{
 	div.row{
 		width: 60%;
 	}
-
 
 }
 
@@ -501,10 +479,6 @@ a.contrato:hover{
 		width: 94%;
 	}
 
-	div.boxInformacao {
-		width: 70%;
-	}
-
 	img#divisao2 {
 		width: 310%;
 		margin-top: 80%;
@@ -549,10 +523,6 @@ a.contrato:hover{
 
 	div.div2 {
 		height: 565px;
-	}
-
-	div.boxInformacao {
-		width: 100%;
 	}
 
 	img#imagemPrincipal {

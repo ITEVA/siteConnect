@@ -149,37 +149,6 @@
 
 }
 
-h2, h5.contato{
-    color: #fff;
-    text-align: center;
-}
-
-img#bg-baixo{
-    width: 100%;
-    height: 300px;
-}
-
-.boxInformacao{
-    display: block;
-    margin: -235px auto 120px;
-    position: relative;
-    float: none;
-    background-color: #00235C;
-    border-radius: 5px;
-    height: auto;
-}
-
-div#informacao{
-    padding: 20px;
-}
-
-p.contato{
-    color: #fff;
-    text-align: center;
-    font-size: 13px;
-}
-
-
 @media (max-width: 767px) {
     #logo{
         position: relative;
@@ -187,6 +156,10 @@ p.contato{
         max-width: 300px;
         margin: 0 auto;
     }
+    div.boxInformacao{
+        width: 60%;
+    }
+
     #menuRodape{
         display: none;
     }
@@ -213,6 +186,8 @@ p.contato{
         background-color: #707499;
     }
 }
+
+
 
 @media all and (max-width: 746px){
     p.contato{
