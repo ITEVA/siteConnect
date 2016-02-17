@@ -210,6 +210,10 @@ img#cliqueAqui{
     cursor: pointer;
 }
 
+div#emailSucesso {
+    display: none;
+}
+
 /*MEDIA'S QUERIES*/
 
 @media all and (max-width: 1900px){

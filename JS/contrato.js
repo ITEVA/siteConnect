@@ -1,4 +1,5 @@
 $(document).ready(function(){  
+    $('div#emailSucesso').css("display", "none");
     $("#telefone").mask("(99) 9999-9999");
     $("#celular").mask("(99) 99999-9999");
     $("#formContrato").submit(function(){
@@ -12,6 +13,7 @@ $(document).ready(function(){
         
         }).done(function( ) {
           });
+        
         $.ajax({
         method: "POST",
         url: "Emails/emailContratoConnect.php",
@@ -22,6 +24,20 @@ $(document).ready(function(){
         
         }).done(function(  ) {
           });
+          
+        $('div#emailSucesso').css("display", "block");
+        
+        $("#formContato"). each(function(){
+           this.reset();
+        });
+        
+        setTimeout(
+            function(){ 
+                location.reload();
+            },3000
+        );
+        
+        return false;
     });
 });
 

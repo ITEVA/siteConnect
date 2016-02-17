@@ -70,6 +70,9 @@ input.botao{
     color: #fff;
 }
 
+div#emailSucesso {
+    display: none;
+}
 
 @media all and (max-width: 767px){
     div.panel-default {
