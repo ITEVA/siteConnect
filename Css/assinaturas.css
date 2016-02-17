@@ -31,6 +31,12 @@ img.oferta{
 	z-index: 9999;
 }
 
+img.oferta100{
+	width: 100px;
+	height: 80px;
+	z-index: 9999;
+}
+
 img#divisao{
 	position: relative;
 	display: block;
@@ -93,7 +99,7 @@ div#textos{
 
 div.div2{
 	background: #002B6F;
-	height: 370px;
+	height: 420px;
 	max-width: 100%;
 }
 
@@ -109,7 +115,11 @@ div.conteudo{
 }
 
 div.col-xs-2 {
-	width: 19.5%;
+	width: 21%;
+}
+
+div.mega100{
+	left: 43%;
 }
 
 
@@ -156,11 +166,19 @@ a.contrato:hover{
 	div#textos{
 		width: 70%;
 	}
+
+	div.div2{
+		height: 408px;
+	}
 }
 
 @media all and (max-width: 1680px){
 	div.conteudo{
 		margin-top: 25px;
+	}
+
+	div.div2{
+		height: 403px;
 	}
 }
 
@@ -184,6 +202,14 @@ a.contrato:hover{
 		width: 20%;
 	}
 
+	div.mega100{
+		left: 39.5%;
+	}
+
+	div.col-xs-2{
+		width: 20%;
+	}
+
 	img#divisao{
 		width: 45%;
 		left: -2%;
@@ -196,17 +222,27 @@ a.contrato:hover{
 	.col-xs-8{
 		display: block;
 	}
+	div.div2{
+		height: 395px;
+	}
 }
 
 @media all and (max-width: 1300px){
 	div#textos{
 		margin: 2% 20%;
 	}
+	div.div2{
+		height: 388px;
+	}
 }
 
 @media all and (max-width: 1250px){
 	div.contrate{
 		width: 65%;
+	}
+
+	div.col-xs-2{
+		width: 26%;
 	}
 
 	div.linha1{
@@ -221,9 +257,18 @@ a.contrato:hover{
 		left: 58%;
 	}
 
+	div.mega100{
+		left: 38%;
+	}
+
 	img#divisao{
 		width: 58%;
 		left: -1%;
+		margin-top: 8px;
+	}
+
+	div.div2{
+		height: 405px;
 	}
 }
 
@@ -242,6 +287,10 @@ a.contrato:hover{
 	div.boxInformacao{
 		width: 45%;
 	}
+
+	div.div2{
+		height: 400px;
+	}
 }
 
 @media all and (max-width: 989px) {
@@ -258,8 +307,17 @@ a.contrato:hover{
 		width: 31%;
 	}
 
+	div.mega100{
+		left: 37%;
+	}
+
+	div.col-xs-2{
+		width: 31%;
+	}
+
 	img#divisao{
 		width: 67%;
+		margin-top: 10px;
 	}
 
 	div.boxInformacao{
@@ -280,13 +338,20 @@ a.contrato:hover{
 	div.linha1{
 		left: 14%;
 	}
-
 	div.linha2{
 		left: 38%;
 	}
 
 	div.linha3{
 		left: 62%;
+	}
+
+	div.mega100{
+		left: 36%;
+	}
+
+	div.col-xs-2{
+		width: 36%;
 	}
 
 	img#divisao{
@@ -318,15 +383,28 @@ a.contrato:hover{
 		left: 63%;
 	}
 
+	div.mega100{
+		left: 33%;
+	}
+
+	div.col-xs-2{
+		width: 40%;
+	}
+
 	img#divisao{
 		width: 86%;
+		margin-top: 12px;
+	}
+
+	div.div2{
+		height: 398px;
 	}
 }
 
 @media all and (max-width: 640px){
 
 	div.div2{
-		height: 450px;
+		height: 635px;
 	}
 
 	div.box1{
@@ -373,6 +451,13 @@ a.contrato:hover{
 
 }
 
+
+@media all and (max-width: 590px){
+	div.div2{
+		height: 615px;
+	}
+}
+
 @media all and (max-width: 580px){
 	div.linha1{
 		left: 10%;
@@ -395,6 +480,16 @@ a.contrato:hover{
 		margin-left: -80%;
 		margin-top: 68%;
 	}
+
+	div.div2{
+		height: 635px;
+	}
+}
+
+@media all and (max-width: 529px){
+	div.div2{
+		height: 615px;
+	}
 }
 
 @media all and (max-width: 525px) {
@@ -408,11 +503,6 @@ a.contrato:hover{
 
 	div.boxInformacao {
 		width: 70%;
-	}
-
-	img#divisao {
-		width: 93%;
-		left: 1%;
 	}
 
 	img#divisao2 {
@@ -432,7 +522,12 @@ a.contrato:hover{
 	div.linha2 {
 		left: 49%;
 	}
+
+	div.div2{
+		height: 630px;
+	}
 }
+
 
 @media all and (max-width: 450px) {
 	img.oferta {
@@ -453,7 +548,7 @@ a.contrato:hover{
 	}
 
 	div.div2 {
-		height: 410px;
+		height: 565px;
 	}
 
 	div.boxInformacao {
@@ -473,7 +568,7 @@ a.contrato:hover{
 	}
 
 	img#divisao {
-		margin-top: -2%;
+		margin-top: -1%;
 		margin-bottom: 4%;
 	}
 
@@ -487,6 +582,16 @@ a.contrato:hover{
 
 	div.linha2{
 		left: 49%;
+	}
+
+	div.linha100{
+		margin-top: -6%;
+	}
+}
+
+@media all and (max-width: 410px){
+	div.div2{
+		height: 550px;
 	}
 }
 
@@ -502,17 +607,17 @@ a.contrato:hover{
 	}
 
 	img#divisao {
-			width: 97%;
+		width: 97%;
 	}
 	div.div2{
-			height: 390px;
+		height: 550px;
 	}
 	div.linha1{
-			left: 4%;
+		left: 4%;
 	}
 
 	div.linha2{
-			left: 48%;
+		left: 48%;
 	}
 }
 
@@ -537,16 +642,38 @@ a.contrato:hover{
 	p.contratar{
 		padding-top: 15px;
 	}
+
+	div.div2{
+		height: 535px;
+	}
+
+	img#divisao{
+		margin-top: -10px;
+	}
+}
+
+@media all and (max-width: 370px) {
+	div.div2 {
+		height: 515px;
+	}
 }
 
 @media all and (max-width: 330px){
 	div.div2{
-		height: 370px;
+		height: 480px;
 	}
 
 	p.contratar{
 		font-size: 12px;
 		padding-top: 17px;
+	}
+
+	img#divisao{
+		margin-top: -15px;
+	}
+
+	div.linha100{
+		margin-top: -8%;
 	}
 
 }
@@ -555,4 +682,13 @@ a.contrato:hover{
 	p.contratar, .valor{
 		font-size: 10px;
 	}
+
+	div.conteudo3 {
+		margin-top: 150%;
+	}
+
+	img#divisao2 {
+		margin-top: 110%;
+	}
+
 }

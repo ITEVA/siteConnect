@@ -36,21 +36,9 @@
         </div>
     </div>
 
-    <br><br><br><br>
-
-
-    <div class="conteudo conteudo2">
-
-        <div class="linha2">
-            <img class="oferta" src="Images/35mega.png">
-            <div class="row">
-                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
-            </div>
-        </div>
-        
-    </div>
-
-    <br><br><br><br>
+    <br><br><br><br><br>
+    <img id="divisao" src="Images/divisao.png"/>
+    <img id="divisao2" src="Images/divisao.png"/>
 
     <div class="conteudo conteudo2">
         <div class="linha1 l2">
@@ -76,6 +64,22 @@
             </div>
         </div>
     </div>
+
+    <br><br><br><br><br>
+    <img id="divisao" src="Images/divisao.png"/>
+    <img id="divisao2" src="Images/divisao.png"/>
+
+    <div class="conteudo conteudo2">
+
+        <div class="linha2 mega100">
+            <img class="oferta100" src="Images/100megas.png">
+            <div class="row">
+                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+            </div>
+        </div>
+
+    </div>
+
 </div>
     <!-- Box2 -->
 <div class="box2">
@@ -134,7 +138,23 @@
             </div>
         </div>
     </div>
+
     </div>
+
+    <br><br><br><br><br><br>
+    <img id="divisao" class="divisao" src="Images/divisao.png">
+
+    <br>
+
+    <div class="conteudo conteudo4">
+        <div class="linha1 linha100">
+            <img class="oferta" src="Images/100megas.png">
+            <div class="row">
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+            </div>
+        </div>
+    </div>
+
 </div>
 </div>
 <div class="col-lg-12 div3"></div>
