@@ -64,7 +64,7 @@
                 <div class="item_amarela-trsp">
                     <img src="Images/icon-local.png" class="icon_trsp"/>
                     <h1 class="titulo_link-item_amarela-trsp">NOSSA<br/>COBERTURA</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Descubra onde encontrar<br/>internet de qualidade,<br/>veja aonde atendemos.</p>
+                    <p class="conteudo_link-item_amarela-trsp">Descubra onde encontrar<br/>internet de qualidade.<br/>Veja onde atendemos.</p>
                 </div>
             </a>
             <a href="contato" id="link-item_amarela-trsp4" class="link-item_amarela-trsp_down">

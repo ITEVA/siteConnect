@@ -22,12 +22,13 @@ $(document).ready(function(){
               rua:$('#rua').val(), bairro:$('#sel1').val(),
               numero:$('#numero').val(), complemento:$('#complemento').val()}
         
-        }).done(function(  ) {
-          });
-          
+        }).done(function() {
+        });
+        
+        
         $('div#emailSucesso').css("display", "block");
         
-        $("#formContato"). each(function(){
+        $("#formContrato").each(function(){
            this.reset();
         });
         
@@ -35,8 +36,8 @@ $(document).ready(function(){
             function(){ 
                 location.reload();
             },3000
-        );
-        
+        ); 
+
         return false;
     });
 });

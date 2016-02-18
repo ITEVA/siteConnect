@@ -8,20 +8,22 @@ $(document).ready(function(){
               mensagem:$('#mensagem').val()}
         }).done(function() {
         });
-
+        
+        return false;
+        
         $('div#emailSucesso').css("display", "block");
         
-        $("#formContato"). each(function(){
+        $("#formContato").each(function(){
            this.reset();
         });
         
         setTimeout(
             function(){ 
                 location.reload();
-            },3000
+            },2000
         );
         
-        return false;
+       
     });
   });
 
