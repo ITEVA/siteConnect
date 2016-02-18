@@ -36,9 +36,7 @@
         </div>
     </div>
 
-    <br><br><br><br><br>
-    <img id="divisao" src="Images/divisao.png"/>
-    <img id="divisao2" src="Images/divisao.png"/>
+    <br><br><br><br>
 
     <div class="conteudo conteudo2">
         <div class="linha1 l2">
@@ -51,16 +49,7 @@
         <div class="linha2">
             <img class="oferta" src="Images/35mega.png">
             <div class="row">
-                <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
-            </div>
-        </div>
-
-        <div class="linha3">
-            <img class="oferta" src="Images/50megas.png">
-            <div class="row">
-                <div class="col-xs-6 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
-
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
         </div>
     </div>
@@ -69,17 +58,26 @@
     <img id="divisao" src="Images/divisao.png"/>
     <img id="divisao2" src="Images/divisao.png"/>
 
-    <div class="conteudo conteudo2">
-
-        <div class="linha2 mega100">
-            <img class="oferta100" src="Images/100megas.png">
-            <div class="row">
-                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+    <div class="conteudo especial">
+        <div class="ofertas">
+            <img id="ofertas" src="Images/100_50mega.png">
+            <div class="links">
+                <a class="ofertaEspecial" href="contrato">CONTRATE</a><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="ofertaEspecial maior" href="contrato">JÁ!</a>
             </div>
         </div>
 
+        <div class="informacoes">
+            <p class="texto">Lorem ipsum dolor sit amet, mollis
+                elit nunc nulla, dolor quis aptent, a
+                turpis leo, diam donec aliquet ultricies,
+                velit ipsum ornare vivamus eros
+                vivamus. Eu lectus erat tellus sed,
+                mauris nunc lacinia quisque at
+                dapibus sociis.</p>
+        </div>
     </div>
-
 </div>
     <!-- Box2 -->
 <div class="box2">
@@ -100,9 +98,6 @@
     </div>
 
     <br><br><br><br><br><br>
-    <img id="divisao" src="Images/divisao.png">
-
-    <br>
 
     <div class="conteudo conteudo2">
         <div class="linha1">
@@ -119,20 +114,10 @@
         </div>
 
         <br><br><br><br><br><br>
-        <img id="divisao2" src="Images/divisao.png">
-
-        <br>
 
     <div class="conteudo conteudo3">
         <div class="linha1">
             <img class="oferta" src="Images/35mega.png">
-            <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
-            </div>
-        </div>
-
-        <div class="linha2">
-            <img class="oferta" src="Images/50megas.png">
             <div class="row">
                 <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
             </div>
@@ -144,16 +129,27 @@
     <br><br><br><br><br><br>
     <img id="divisao" class="divisao" src="Images/divisao.png">
 
-    <br>
-
-    <div class="conteudo conteudo4">
-        <div class="linha1 linha100">
-            <img class="oferta" src="Images/100megas.png">
-            <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+    <div class="conteudo especial">
+        <div class="ofertas">
+            <img id="ofertas" src="Images/100_50mega.png">
+            <div class="links">
+                <a class="ofertaEspecial" href="contrato">CONTRATE</a><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="ofertaEspecial maior" href="contrato">JÁ!</a>
             </div>
         </div>
+
+        <div class="informacoes">
+            <p class="texto">Lorem ipsum dolor sit amet, mollis
+                elit nunc nulla, dolor quis aptent, a
+                turpis leo, diam donec aliquet ultricies,
+                velit ipsum ornare vivamus eros
+                vivamus. Eu lectus erat tellus sed,
+                mauris nunc lacinia quisque at
+                dapibus sociis.</p>
+        </div>
     </div>
+
 
 </div>
 </div>
