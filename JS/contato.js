@@ -9,10 +9,9 @@ $(document).ready(function(){
         }).done(function() {
         });
         
-        return false;
-        
-        $('div#emailSucesso').css("display", "block");
-        
+
+        $('div#emailSucesso').css("display", "block");      
+
         $("#formContato").each(function(){
            this.reset();
         });
@@ -20,10 +19,9 @@ $(document).ready(function(){
         setTimeout(
             function(){ 
                 location.reload();
-            },2000
+            },3000
         );
-        
-       
+        return false;
     });
   });
 

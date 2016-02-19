@@ -15,23 +15,23 @@
         <div class="linha1">
             <img class="oferta" src="Images/1mega.png">
                 <div class="row">
-                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
                 </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/2megas.png">
                 <div class="row">
-                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
                  </div>
         </div>
 
         <div class="linha3">
             <img class="oferta" src="Images/4megas.png">
                 <div class="row">
-                    <div class="col-xs-6 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-6 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
 
-                    <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                    <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
                  </div>
         </div>
     </div>
@@ -42,14 +42,14 @@
         <div class="linha1 l2">
             <img class="oferta" src="Images/20megas.png">
             <div class="row">
-                <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-4 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/35mega.png">
             <div class="row">
-                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-2 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
     </div>
@@ -69,13 +69,11 @@
         </div>
 
         <div class="informacoes">
-            <p class="texto">Lorem ipsum dolor sit amet, mollis
-                elit nunc nulla, dolor quis aptent, a
-                turpis leo, diam donec aliquet ultricies,
-                velit ipsum ornare vivamus eros
-                vivamus. Eu lectus erat tellus sed,
-                mauris nunc lacinia quisque at
-                dapibus sociis.</p>
+            <br/>
+            <p class="texto">Verifique a disponibilidade
+                dos nossos planos de acordo com o seu bairro.
+                Solicite a tabela de preços e receba um email
+                em menos de um minuto.</p>
         </div>
     </div>
 </div>
@@ -85,14 +83,14 @@
         <div class="linha1">
             <img class="oferta" src="Images/1mega.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
 
         <div class="linha2">
             <img class="oferta" src="Images/2megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
     </div>
@@ -103,13 +101,13 @@
         <div class="linha1">
             <img class="oferta" src="Images/4megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
         <div class="linha2">
             <img class="oferta" src="Images/20megas.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
 
@@ -119,7 +117,7 @@
         <div class="linha1">
             <img class="oferta" src="Images/35mega.png">
             <div class="row">
-                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONTRATAR</a></p></div>
+                <div class="col-xs-8 contrate"><p class="contratar"><a href="contrato" class="contrato">CONSULTAR</a></p></div>
             </div>
         </div>
     </div>
@@ -140,13 +138,10 @@
         </div>
 
         <div class="informacoes">
-            <p class="texto">Lorem ipsum dolor sit amet, mollis
-                elit nunc nulla, dolor quis aptent, a
-                turpis leo, diam donec aliquet ultricies,
-                velit ipsum ornare vivamus eros
-                vivamus. Eu lectus erat tellus sed,
-                mauris nunc lacinia quisque at
-                dapibus sociis.</p>
+            <p class="texto">Verifique a disponibilidade
+                dos nossos planos de acordo com o seu bairro.
+                Solicite a tabela de preços e receba um email
+                em menos de um minuto.</p>
         </div>
     </div>
 
