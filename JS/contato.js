@@ -8,10 +8,11 @@ $(document).ready(function(){
               mensagem:$('#mensagem').val()}
         }).done(function() {
         });
-
-        $('div#emailSucesso').css("display", "block");
         
-        $("#formContato"). each(function(){
+
+        $('div#emailSucesso').css("display", "block");      
+
+        $("#formContato").each(function(){
            this.reset();
         });
         
@@ -20,7 +21,6 @@ $(document).ready(function(){
                 location.reload();
             },3000
         );
-        
         return false;
     });
   });

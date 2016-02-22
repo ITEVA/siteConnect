@@ -60,7 +60,7 @@
 
                 </ul>
                 <div class="pull-right">
-                    <input type="submit"  class="botao" id="enviar" value="Enviar" name = "enviar"/>
+                    <input type="submit"  class="botao" id="enviar" value="Enviar" name="enviar"/>
                     <input type="reset"  class="botao" id="limpar" value="Limpar"/>
                 </div>
 
