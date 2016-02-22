@@ -24,7 +24,7 @@
 
     <div class="col-lg-12 bloco2">
             <div id="textos" class="bloco">
-                 <p id="t3">PARA QUÊ LINHA TELEFÔNICA SE VOCÊ PODE TER SOMENTE INTERNET?</p>
+                 <p id="t3">PARA QUE LINHA TELEFÔNICA SE VOCÊ PODE TER SOMENTE INTERNET?</p>
                 <div id="textosLivres">
                  <p id="t4" align="justify" class="t4">Na Connect você não precisa ter linha telefônica para se conectar no universo virtual. Com isso,
                     você reduzirá seus custos sem abrir mão da qualidade de sua navegação e evitará surpresas
