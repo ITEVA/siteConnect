@@ -246,13 +246,13 @@ h3#txt7 span{
 }
 
 h3#txt8{
-    top: 5%;
-	left: 9%;
+	top: 5%;
 }
 
 h3#txt8 span{
-    position: absolute;
-    left: 3%;
+	position: absolute;
+	font-size: 12pt;
+	left: 2%;
 }
 
 h3#txt9{

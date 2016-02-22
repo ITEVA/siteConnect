@@ -3,14 +3,14 @@
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4>Forneça seus dados para receber um orçamento</h4>
-            <h6>Um email será enviado em menos de um minuto!</h6>
+            <h6>Um e-mail será enviado em menos de um minuto!</h6>
         </div>
 
         <div class="panel-body">
             <form id="formContrato" method="post">
                 <div class="alert alert-success alert-dismissible" id="emailSucesso" role="alert">
                     <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <strong>Email enviado com sucesso!</strong>
+                    <strong>E-mail enviado com sucesso!</strong>
                 </div>
                 <ul class="row">
                         <li class="col-xs-6">

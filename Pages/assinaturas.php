@@ -5,7 +5,7 @@
     <div id="textos">
         <p id="t1"><a href="inicio" class="link_a">Início</a> / Internet</p>
         <p id="t2">INTERNET PARA SUA CASA</p>
-        <p>Diversão, informação e entreterimento 24h por dia em alta velocidade! Acesse a internet sem inteferências,<br>
+        <p>Diversão, informação e entreterimento 24h por dia em alta velocidade! Acesse a internet sem interferências,<br>
         interrupções e, principalmente, sem perda de tempo. Escolha seu plano e Connect sua casa ao mundo.</p>
     </div>
 </div>
@@ -72,7 +72,7 @@
             <br/>
             <p class="texto">Verifique a disponibilidade
                 dos nossos planos de acordo com o seu bairro.
-                Solicite a tabela de preços e receba um email
+                Solicite a tabela de preços e receba um e-mail
                 em menos de um minuto.</p>
         </div>
     </div>
@@ -140,7 +140,7 @@
         <div class="informacoes">
             <p class="texto">Verifique a disponibilidade
                 dos nossos planos de acordo com o seu bairro.
-                Solicite a tabela de preços e receba um email
+                Solicite a tabela de preços e receba um e-mail
                 em menos de um minuto.</p>
         </div>
     </div>
