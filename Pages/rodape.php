@@ -12,7 +12,7 @@
     <nav id="menuRodape">
         <img src="Images/logoRodape.jpg" alt="" />
         <ul>
-            <li><a href="home">Ínicio</a></li>
+            <li><a href="home">Início</a></li>
             <li><a href="aempresa">A empresa</a></li>
             <li><a href="internet">Internet</a></li>
             <li><a href="cobertura">Cobertura</a></li>
