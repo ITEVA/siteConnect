@@ -10,7 +10,7 @@
 
 <div class="col-lg-12 div1">
     <div id="textos">
-        <p id="t1"><a href="home" class="link_a">Início</a> / Corbetura</p>
+        <p id="t1"><a href="home" class="link_a">Início</a> / Cobertura</p>
         <p id="t2">ÁREA DE COBERTURA</p>
         <p>Presente em 11 bairros da cidade a Connect oferece serviços de banda larga com ultravelocidade.<br><br>
             Em constante expansão, a empresa realiza ampliação de sua rede de telecomunicações para<br>

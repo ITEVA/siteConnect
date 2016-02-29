@@ -235,7 +235,7 @@
         <div id="musicas">
             <img src="Images/image-music.png">
             <h1>Músicas</h1>
-            <p>Spolify, Deezer, Rdio e muitos<br>outros serviços streaming musicais,<br>são possíveis e seguros<br>com a Connect.</p>
+            <p>Spotify, Deezer, Rádio e muitos<br>outros serviços streaming musicais,<br>são possíveis e seguros<br>com a Connect.</p>
         </div>
     </div>
 </div>
