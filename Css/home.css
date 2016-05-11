@@ -366,6 +366,12 @@ div#musicas img{
     position: initial;
     left: 15%;
 }
+
+#image_duvidas1 {
+    width: 375px;
+    height: 305px;
+}
+
 @media all and (min-width:1461px){
 
 	#amarela-trsp-movel{

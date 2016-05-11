@@ -245,7 +245,7 @@
         <h1 id="h1podLheAjud">PODEMOS LHE AJUDAR?</h1>
         <figure id="image_duvidas">
             <img src="Images/image-duvidas.jpg" id="image_duvidas1">
-            <a href="http://www.speedtest.net/pt/">
+            <a href="velocidade">
             	<img src="Images/imgTesteVelocidadeInternet.jpg" id="image_duvidas2">
             </a>
         </figure>
