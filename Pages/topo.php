@@ -54,14 +54,13 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="http://connectja.com.br/sac">Área do cliente</a></li>
+                        <li><a href="home">Área do cliente</a></li>
                         <li><a href="home">Início</a></li>
                         <li><a href="aempresa">A empresa</a></li>
                         <li><a href="internet">Internet</a></li>
                         <li><a href="cobertura">Cobertura</a></li>
                         <li><a href="assinaturas">Assinaturas</a></li>
                         <li><a href="contato">Contato</a></li>
-                        <li><a href="velocidade">Teste de velocidade</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->

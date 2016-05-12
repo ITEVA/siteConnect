@@ -15,5 +15,5 @@
     }
 </style>
 <div class="bloco_erro">
-    <img src="Images/opps.jpg" alt="" class="img_erro"/>
+    <img src="Images/opps.png" alt="" class="img_erro"/>
 </div>
