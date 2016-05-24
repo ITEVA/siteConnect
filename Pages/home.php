@@ -241,13 +241,13 @@
 </div>
 
 <div id="podLheAjud">
-    <div id="podLheAjud">
         <h1 id="h1podLheAjud">PODEMOS LHE AJUDAR?</h1>
-        <figure id="image_duvidas">
-            <img src="Images/image-duvidas.jpg" id="image_duvidas1">
-            <a href="velocidade">
-            	<img src="Images/imgTesteVelocidadeInternet.jpg" id="image_duvidas2">
+        <div id="image_duvidas">
+            <a href="https://www.youtube.com/watch?v=wE80oVb4zD4" target="_blank">
+                <img src="Images/tplink.png" id="image_duvidas1">
             </a>
-        </figure>
-    </div>
+            <a href="https://www.youtube.com/watch?v=56oCriC79oE" target="_blank">
+            	<img src="Images/dlink.png" id="image_duvidas2">
+            </a>
+        </div>
 </div>

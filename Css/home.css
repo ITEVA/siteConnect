@@ -367,11 +367,23 @@ div#musicas img{
     left: 15%;
 }
 
-#image_duvidas1 {
-    width: 375px;
-    height: 305px;
+div#image_duvidas{
+	width: 1100px;
+	position: relative;
+	display: block;
+	margin: 0 auto;
 }
 
+img#image_duvidas1{
+	width: 40%;
+	margin-top: -12px;
+}
+
+img#image_duvidas2{
+	width: 37%;
+	float: right;
+	margin-top:19px;
+}
 @media all and (min-width:1461px){
 
 	#amarela-trsp-movel{
@@ -444,15 +456,7 @@ div#musicas img{
 	h1#h1podLheAjud{
 		left: 11%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 13%;
-	}
-	
-	#image_duvidas2{
-		margin-left: 13%;
-	}
-	
+
 	#img_movel{
 		display: none;
 	}
@@ -460,12 +464,37 @@ div#musicas img{
 	div#amarela div.acessoRapido-super-movel{
 		display:none;	
 	}
+
+
 }
 
-@media all and (max-width: 1170px){
+@media all and (max-width: 1200px){
+	div#image_duvidas{
+		width: 900px;
+	}
+
+	img#image_duvidas1 {
+		margin-top: 15px;
+	}
+
+	img#image_duvidas2 {
+		margin-top: 40px;
+	}
+
 	p.conteudo_link-item_amarela-trsp{
 		width: 200px;
 		font-size: 12pt;
+	}
+
+	div#podLheAjud {
+		height: 440px;
+	}
+
+}
+
+@media all and(max-width: 1000px){
+	div#image_duvidas {
+		width: 750px;
 	}
 }
 
@@ -548,14 +577,7 @@ div#musicas img{
 	h1#h1podLheAjud{
 		left: 7%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 9%;
-	}
-	
-	#image_duvidas2{
-		margin-left: 9%;
-	}
+
 	div#muitoPVc{
 		height: 780px;
 	}
@@ -648,16 +670,7 @@ div#musicas img{
 	h1#h1podLheAjud{
 		left: 7%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 11%;
-		width: 35%;
-	}
-	
-	#image_duvidas2{
-		margin-left: 11%;
-		width: 33%;
-	}
+
 	div#muitoPVc{
 		height: 780px;
 	}
@@ -806,15 +819,25 @@ div#musicas img{
 	h1#h1podLheAjud{
 		left: 7%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 11%;
-		width: 35%;
+
+	div#podLheAjud {
+		height: 400px;
 	}
-	
-	#image_duvidas2{
-		margin-left: 11%;
-		width: 33%;
+
+	div#image_duvidas {
+		width: 800px;
+	}
+		
+	img#image_duvidas1{
+		margin-left: 9%;
+		margin-top: 34px;
+		width: 38%;
+	}
+
+	img#image_duvidas2 {
+		width: 35%;
+		margin-right: 9%;
+		margin-top: 55px;
 	}
 	
 	div#muitoPVc{
@@ -971,16 +994,22 @@ div#musicas img{
 		left: 7%;
 	}
 		
-	#image_duvidas1{
-		margin-left: 11%;
-		width: 35%;
+	img#image_duvidas1{
+		margin-left: 0;
+		width: 45%;
+		margin-top: 45px
 	}
-	
-	#image_duvidas2{
-		margin-left: 11%;
-		width: 33%;
+
+	img#image_duvidas2{
+		width: 42.5%;
+		margin-top: 61px;
 	}
-	
+
+
+	div#image_duvidas{
+		width: 600px;
+	}
+
 	div#muitoPVc{
 		height: 780px;
 	}
@@ -995,6 +1024,10 @@ div#musicas img{
 	
 	div#amarela div.acessoRapido-super-movel{
 		display:none;	
+	}
+
+	div#podLheAjud {
+		height: 375px;
 	}
 }
 
@@ -1133,23 +1166,15 @@ div#musicas img{
 	}
 	
 	div#podLheAjud{
-		height: 750px;
+		height: 320px;
 	}
 	
 	h1#h1podLheAjud{
 		left: 7%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 18%;
-		margin-top: 12%;
-		width: 350px;
-	}
-	
-	#image_duvidas2{
-		margin-left: 18%;
-		margin-top: 12%;
-		width: 350px;
+
+	div#image_duvidas {
+		width: 85%;
 	}
 	
 	div#muitoPVc{
@@ -1162,6 +1187,22 @@ div#musicas img{
 	
 	div#amarela div.acessoRapido-super-movel{
 		display:none;	
+	}
+
+	div#image_duvidas2{
+		margin-top: 82px;
+		top:10%;
+	}
+	div#podLheAjud {
+		height: 330px;
+	}
+	img#image_duvidas1{
+		margin-top:60px;
+	}
+
+	img#image_duvidas2{
+		margin-top: 75px;
+
 	}
 }
 
@@ -1332,25 +1373,36 @@ div#musicas img{
 		position:absolute;
 		margin-left: 24px;
 	}
-	
-	div#podLheAjud{
-		height: 750px;
+
+	div#podLheAjud {
+		height: 700px;
 	}
 	
 	h1#h1podLheAjud{
 		left: 7%;
 	}
 		
-	#image_duvidas1{
-		margin-left: 11%;
-		margin-top: 12%;
-		width: 350px;
+	img#image_duvidas1{
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 auto;
+		width: 56%;
 	}
 	
-	#image_duvidas2{
-		margin-left: 11%;
-		margin-top: 12%;
-		width: 350px;
+	img#image_duvidas2{
+		width: 55%;
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 AUTO;
+	}
+
+	div#image_duvidas {
+		width: 100%;
+		display: block;
+		margin-top: 34px;
+
 	}
 	
 	div#muitoPVc{
@@ -1687,25 +1739,37 @@ div#musicas img{
 	}
 	
 	div#podLheAjud{
-		height: 750px;
+		height: 645px;
 	}
 	
 	h1#h1podLheAjud{
 		left: 7%;
 	}
-		
-	#image_duvidas1{
-		margin-left: 10%;
-		margin-top: 12%;
-		width: 350px;
+
+	img#image_duvidas1{
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 auto;
+		width: 56%;
 	}
-	
-	#image_duvidas2{
-		margin-left: 10%;
-		margin-top: 12%;
-		width: 350px;
+
+	img#image_duvidas2{
+		width: 55%;
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 AUTO;
 	}
-	
+
+	div#image_duvidas {
+		width: 100%;
+		display: block;
+		margin-top: 50px;
+
+	}
+
+
 	div#muitoPVc{
 		height: 1380px;
 	}
@@ -1897,9 +1961,9 @@ div#musicas img{
 		position:absolute;
 		margin-left: -78px;
 	}
-	
-	div#podLheAjud{
-		height: 650px;
+
+	div#podLheAjud {
+		height: 560px;
 	}
 	
 	h1#h1podLheAjud{
@@ -1911,17 +1975,28 @@ div#musicas img{
 		margin-left: -17%;
 		font-size: 20px;
 	}
-		
-	#image_duvidas1{
-		margin-left: 12%;
-		margin-top: 23%;
-		width: 280px;
+
+	img#image_duvidas1{
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 auto;
+		width: 56%;
 	}
-	
-	#image_duvidas2{
-		margin-left: 12%;
-		margin-top: 20%;
-		width: 280px;
+
+	img#image_duvidas2{
+		width: 55%;
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 AUTO;
+	}
+
+	div#image_duvidas {
+		width: 100%;
+		display: block;
+		margin-top: 68px;
+
 	}
 	
 	div#muitoPVc{
@@ -2251,9 +2326,9 @@ div#musicas img{
 		position:absolute;
 		margin-left: -88px;
 	}
-	
+
 	div#podLheAjud{
-		height: 650px;
+		height: 510px;
 	}
 	
 	h1#h1podLheAjud{
@@ -2265,19 +2340,34 @@ div#musicas img{
 		margin-left: -17%;
 		font-size: 20px;
 	}
-		
-	#image_duvidas1{
-		margin-left: 4.5%;
-		margin-top: 23%;
-		width: 280px;
+
+	div#podLheAjud {
+		height: 510px;
 	}
-	
-	#image_duvidas2{
-		margin-left: 4.5%;
-		margin-top: 20%;
-		width: 280px;
+
+	img#image_duvidas1{
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 auto;
+		width: 60%;
 	}
-	
+
+	img#image_duvidas2{
+		width: 62%;
+		display: block;
+		position: relative;
+		float: none;
+		margin: 0 AUTO;
+	}
+
+	div#image_duvidas {
+		width: 100%;
+		display: block;
+		margin-top: 75px;
+
+	}
+
 	div#muitoPVc{
 		height: 1380px;
 	}
