@@ -39,7 +39,7 @@
     <!--Amarela TRSP - FULL SCREEN-->
     <div id="amarela-trsp">
         <div id="Cl1_amarela-trsp">
-            <a href="http://177.19.248.64:8195/sac/open.do?action=open&sys=SAC" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up" >
+            <a href="http://connectja.com.br/contrato" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up" >
                 <div class="item_amarela-trsp">
                     <img src="Images/icon-checked.png" class="icon_trsp"/>
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
@@ -80,7 +80,7 @@
     <!--Amarela TRSP - MOVEL SCREEN-->
     <div id="amarela-trsp-movel">
         <div id="Cl1_amarela-trsp">
-            <a href="http://177.19.248.64:8195/sac/open.do?action=open&sys=SAC" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
+            <a href="http://connectja.com.br/contrato" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-checked-movel.png" class="icon_trsp-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
@@ -118,7 +118,7 @@
     <!--Amarela TRSP - SUPER MOVEL SCREEN SCREEN-->
     <div id="amarela-trsp-super-movel">
         <div id="Cl1_amarela-trsp">
-            <a href="http://177.19.248.64:8195/sac/open.do?action=open&sys=SAC" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
+            <a href="http://connectja.com.br/contrato" id="link-item_amarela-trsp1" class="link-item_amarela-trsp_up">
                 <div class="item_amarela-trsp-super-movel">
                     <img src="Images/icon-checked-super-movel.png" class="icon_trsp-super-movel"/>
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
