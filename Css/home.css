@@ -139,25 +139,25 @@ div#amarela div.acessoRapido div.botoes a.botao:link{
 }
 
 div#coluna1{
-    width: 176px;
-    height: 476px !important;
-	margin-left: -20px;
-    margin-top: -15px;
+	width: 176px;
+	height: 476px !important;
+	margin-left: 117px;
+	margin-top: -15px;
 }
 
 div#coluna2{
-    width: 177px;
-    height: 477px !important;
-	margin-left: -40px;
-    margin-top: -15px;
+	width: 177px;
+	height: 477px !important;
+	margin-left: 0px;
+	margin-top: -15px;
 }
 
 div#coluna3{
-    width: 177px;
-    height: 477px !important;
-	margin-left: -40px;
-    margin-top: -15px;
-	position:absolute;
+	width: 177px;
+	height: 477px !important;
+	margin-left: -16px;
+	margin-top: -15px;
+	position: absolute;
 }
 
 
