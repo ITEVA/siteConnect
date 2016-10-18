@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="Css/rodape.css">
 <img id="bg-baixo" src="Images/bg-baixo.jpg">
+
+<?php include_once("googleAnalytics.php") ?>
+
 <div class="col-lg-4 boxInformacao">
     <div id="informacao">
         <h2 class="contato" style="">Fale com a gente</h2>

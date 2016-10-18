@@ -46,11 +46,11 @@
                     <p class="conteudo_link-item_amarela-trsp">Preencha o formulário e<br/>entraremos em contato<br/>em menos de 24 horas.</p>
                 </div>
             </a>
-            <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
+            <a href="https://www.youtube.com/watch?v=pMCEoiexn1o" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down" target="_blank">
                 <div class="item_amarela-trsp">
                     <img src="Images/icon-present.png" class="icon_trsp"/>
-                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS PARA VOCÊ</h1>
-                    <p class="conteudo_link-item_amarela-trsp">Temos planos e preços<br/>que cabem no seu bolso.<br>É só escolher e assinar.</p>
+                    <h1 class="titulo_link-item_amarela-trsp">VÍDEO!<br/>O SINAL WIFI</h1>
+                    <p class="conteudo_link-item_amarela-trsp">Verifique a melhor maneira para posicionar o seu roteador sem fio.</p>
                 </div>
             </a>
         </div>
@@ -86,10 +86,10 @@
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
                 </div>
             </a>
-            <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
+            <a href="https://www.youtube.com/watch?v=pMCEoiexn1o" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down" target="_blank">
                 <div class="item_amarela-trsp-movel">
                     <img src="Images/icon-present-movel.png" class="icon_trs-movel"/>
-                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS</h1>
+                    <h1 class="titulo_link-item_amarela-trsp">VÍDEO!<br/>O SINAL WIFI</h1>
                 </div>
             </a>
         </div>
@@ -124,10 +124,10 @@
                     <h1 class="titulo_link-item_amarela-trsp">QUERO<br/>ASSINAR JÁ!</h1>
                 </div>
             </a>
-            <a href="assinaturas" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down">
+            <a href="https://www.youtube.com/watch?v=pMCEoiexn1o" id="link-item_amarela-trsp2" class="link-item_amarela-trsp_down" target="_blank">
                 <div class="item_amarela-trsp-super-movel">
                     <img src="Images/icon-present-super-movel.png" class="icon_trs-super-movel"/>
-                    <h1 class="titulo_link-item_amarela-trsp">OS MELHORES<br/>PLANOS</h1>
+                    <h1 class="titulo_link-item_amarela-trsp">VÍDEO!<br/>SINAL WIFI</h1>
                 </div>
             </a>
         </div>

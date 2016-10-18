@@ -2,6 +2,9 @@
 
 <img id="imagemContato" src="Images/imagemContato.jpg">
 <img id="imagemContato2" src="Images/imagemContato2.jpg">
+    
+<?php include_once("googleAnalytics.php") ?>
+
 <div class="contato">
     <div class="col-lg-12 formulario">
         <p id="text1"><a href="home" class="link_a">Início</a> / Contato</p>

@@ -26,7 +26,7 @@ $mensagem2 ="<body style='background-color: #d4d4d4;'>
                         ".$_POST['mensagem']."
                     </div></br>
                     <div style='display: block; position: relative; text-align: left; font-size: 12pt; top: 175px;'>
-                        <a href='connectja.com.br'>clique aqui para ser redirecionado ao site</a>  
+                        <a href='http://connectja.com.br/'>clique aqui para ser redirecionado ao site</a>  
                     </div>
                 </div>
             </body>"; 

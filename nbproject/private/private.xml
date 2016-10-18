@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Pages/home.php</file>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Css/velocidade.css</file>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Pages/velocidade.php</file>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Pages/topo.php</file>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Css/home.css</file>
-            <file>file:/C:/VertrigoServ/www/siteConnect/Pages/erro404.php</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/Emails/emailContato.php</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/Emails/emailContratoConnect.php</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/JS/contrato.js</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/Emails/emailContratoCliente.php</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/Pages/contrato.php</file>
+            <file>file:/C:/VertrigoServ/www/siteConnect/Emails/EnviarEmail.php</file>
         </group>
     </open-files>
 </project-private>

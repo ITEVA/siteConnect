@@ -1,4 +1,7 @@
 <script src="JS/jquery.maskedinput.js" type="text/javascript"></script>
+
+<?php include_once("googleAnalytics.php") ?>
+
 <div id="formContrato">
     <div class="panel panel-default">
         <div class="panel-heading">

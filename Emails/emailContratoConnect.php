@@ -31,10 +31,10 @@ $mensagem2 = $mensagem2 ="<body style='background-color: #d4d4d4;'>
                     ."<p><b>Complemento: </b>".$_POST['complemento']."</p>
                     </div></br>
                     <div style='display: block; position: relative; text-align: left; font-size: 12pt; top: 175px;'>
-                        <a href='10.100.10.88:8080/siteConnect'>clique aqui para ser redirecionado ao site</a>  
+                        <a href='http://connectja.com.br/'>clique aqui para ser redirecionado ao site</a>  
                     </div>
                 </div>
             </body>"; 
 
-sendMail('Solicitação de orçamento',$mensagem2,'contato@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL,'../Images/logoEmail.gif');
+sendMail('Solicitação de orçamento',$mensagem2,'vendas@connectja.com.br','Connect - Internet Banda Larga', NULL, NULL, NULL,'../Images/logoEmail.gif');
 ?>

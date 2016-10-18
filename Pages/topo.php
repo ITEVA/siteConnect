@@ -62,6 +62,7 @@
                         <li><a href="assinaturas">Assinaturas</a></li>
                         <li><a href="contato">Contato</a></li>
                         <li><a href="velocidade">Teste de velocidade</a></li>
+                        <li><a href="https://www.santander.com.br/br/resolva-on-line/reemissao-de-boleto-vencido?utm_source=SantanderPF&utm_medium=CTA_ResolvaOnline&utm_content=Reemisao_de_Boleto&utm_campaign=SantanderPFResolvaOnline" target="_blank">Reemissão de boletos</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->

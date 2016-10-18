@@ -2,3 +2,32 @@ RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^(.*)$ index.php?url=$1
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^sac\/?$ "http\:\/\/168\.90\.4\.50\:8195\/sac\/open\.do\?action\=open\&sys\=SAC" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^teste$ "http\:\/\/168\.90\.4\.230\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^speed\/?$ "http\:\/\/connectja\.speedtest\.net\/pt\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^dicas\/?$ "https\:\/\/www\.youtube\.com\/watch\?v\=pMCEoiexn1o" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^pesquisa\/?$ "https\:\/\/pt\.surveymonkey\.com\/r\/K9KDHCV" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^tecnico\/?$ "https\:\/\/pt\.surveymonkey\.com\/r\/F2LM3ZC" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^connectja\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectja\.com\.br$
+RewriteRule ^adesao\/?$ "https\:\/\/pt\.surveymonkey\.com\/r\/FWLD5RZ" [R=301,L]
+

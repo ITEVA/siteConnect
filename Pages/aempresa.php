@@ -1,6 +1,8 @@
 <img class="imagemPrincipal" src="Images/empresa.jpg">
 <img class="imagemPrincipal2" src="Images/empresa2.jpg">
 
+<?php include_once("googleAnalytics.php") ?>
+
 <div class="col-lg-12 div1">
     <div id="textos">
         <p id="t1"><a href="home" class="link_a">Início</a> / A Empresa</p>

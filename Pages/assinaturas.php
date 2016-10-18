@@ -1,6 +1,9 @@
 <img id="imagemPrincipal" src="Images/bgtopo-2pagina.jpg">
 <img id="imagemPrincipal2" src="Images/bg-topo-2(1)pagina.jpg">
 
+
+<?php include_once("googleAnalytics.php") ?>
+
 <div class="col-lg-12 div1">
     <div id="textos">
         <p id="t1"><a href="inicio" class="link_a">Início</a> / Internet</p>
